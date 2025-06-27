@@ -1,0 +1,4292 @@
+[
+  {
+    "id": 1,
+    "theme": "algemene kennis",
+    "question": "Hoeveel minuten zitten er in een uur?",
+    "options": [
+      "30",
+      "60",
+      "90",
+      "120"
+    ],
+    "correct": 1,
+    "extra_info": "Een uur bestaat uit 60 minuten. De tijd wordt gemeten in uren, minuten en seconden."
+  },
+  {
+    "id": 2,
+    "theme": "algemene kennis",
+    "question": "Welk dier staat bekend om het spinnen van zijde voor zijn web?",
+    "options": [
+      "Vlieg",
+      "Spin",
+      "Mug",
+      "Vlinder"
+    ],
+    "correct": 1,
+    "extra_info": "Spinnen produceren zijde uit speciale klieren en gebruiken dit om webben, nesten of eierzakjes te maken."
+  },
+  {
+    "id": 3,
+    "theme": "algemene kennis",
+    "question": "Wat is de hoofdstad van Duitsland?",
+    "options": [
+      "Parijs",
+      "Londen",
+      "Berlijn",
+      "Rome"
+    ],
+    "correct": 2,
+    "extra_info": "Berlijn is de hoofdstad van Duitsland en een grote stad met veel geschiedenis."
+  },
+  {
+    "id": 4,
+    "theme": "algemene kennis",
+    "question": "Welk gas ademen planten in om te groeien?",
+    "options": [
+      "Zuurstof",
+      "Stikstof",
+      "Koolstofdioxide",
+      "Waterstof"
+    ],
+    "correct": 2,
+    "extra_info": "Planten nemen koolstofdioxide op uit de lucht voor fotosynthese, het proces waarbij ze hun eigen voedsel maken met behulp van zonlicht."
+  },
+  {
+    "id": 5,
+    "theme": "algemene kennis",
+    "question": "Hoeveel kanten heeft een vierkant?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 1,
+    "extra_info": "Een vierkant heeft vier gelijke zijden en vier rechte hoeken."
+  },
+  {
+    "id": 6,
+    "theme": "algemene kennis",
+    "question": "Welke beroemde toren staat in Parijs?",
+    "options": [
+      "De Toren van Pisa",
+      "De Eiffeltoren",
+      "Big Ben",
+      "De Domtoren"
+    ],
+    "correct": 1,
+    "extra_info": "De Eiffeltoren is een wereldberoemd monument in Parijs, Frankrijk."
+  },
+  {
+    "id": 7,
+    "theme": "algemene kennis",
+    "question": "Welk orgaan gebruiken vissen om onder water te ademen?",
+    "options": [
+      "Longen",
+      "Huid",
+      "Kieuwen",
+      "Neus"
+    ],
+    "correct": 2,
+    "extra_info": "Vissen ademen onder water door middel van kieuwen, die zuurstof uit het water halen."
+  },
+  {
+    "id": 8,
+    "theme": "algemene kennis",
+    "question": "Hoe heet de baard van een kat?",
+    "options": [
+      "Haartjes",
+      "Snorharen",
+      "Wimpers",
+      "Vacht"
+    ],
+    "correct": 1,
+    "extra_info": "De snorharen van een kat zijn belangrijke tastorganen die hen helpen te navigeren, vooral in het donker."
+  },
+  {
+    "id": 9,
+    "theme": "algemene kennis",
+    "question": "Welke kleur heeft een stoplicht als je mag doorrijden?",
+    "options": [
+      "Rood",
+      "Geel",
+      "Groen",
+      "Oranje"
+    ],
+    "correct": 2,
+    "extra_info": "Groen licht betekent dat je mag doorrijden als de weg vrij is."
+  },
+  {
+    "id": 10,
+    "theme": "algemene kennis",
+    "question": "Wat is het grootste landdier ter wereld?",
+    "options": [
+      "Leeuw",
+      "Olifant",
+      "Tijger",
+      "Giraffe"
+    ],
+    "correct": 1,
+    "extra_info": "De Afrikaanse olifant is het grootste landdier ter wereld."
+  },
+  {
+    "id": 11,
+    "theme": "algemene kennis",
+    "question": "Welke planeet staat bekend als de 'Rode Planeet'?",
+    "options": [
+      "Aarde",
+      "Mars",
+      "Jupiter",
+      "Venus"
+    ],
+    "correct": 1,
+    "extra_info": "Mars wordt de 'Rode Planeet' genoemd vanwege het ijzeroxide (roest) op het oppervlak, wat het een roodachtige kleur geeft."
+  },
+  {
+    "id": 12,
+    "theme": "algemene kennis",
+    "question": "Hoeveel tanden heeft een volwassen mens (zonder verstandskiezen)?",
+    "options": [
+      "28",
+      "30",
+      "32",
+      "24"
+    ],
+    "correct": 0,
+    "extra_info": "Een volwassen mens heeft meestal 28 tanden, plus vier verstandskiezen die later kunnen doorkomen."
+  },
+  {
+    "id": 13,
+    "theme": "algemene kennis",
+    "question": "Welke sport speel je op het veld met een bal en probeer je te scoren in een goal?",
+    "options": [
+      "Basketbal",
+      "Tennis",
+      "Voetbal",
+      "Zwemmen"
+    ],
+    "correct": 2,
+    "extra_info": "Voetbal is een populaire sport waarbij twee teams een bal in het doel van de tegenstander proberen te krijgen met hun voeten."
+  },
+  {
+    "id": 14,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'donker'?",
+    "options": [
+      "Koud",
+      "Nat",
+      "Licht",
+      "Hard"
+    ],
+    "correct": 2,
+    "extra_info": "Het tegenovergestelde van donker is licht."
+  },
+  {
+    "id": 15,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een amfibie en kan zowel op land als in water leven?",
+    "options": [
+      "Vis",
+      "Kikker",
+      "Slang",
+      "Vogel"
+    ],
+    "correct": 1,
+    "extra_info": "Een kikker is een amfibie, wat betekent dat hij een deel van zijn leven in het water doorbrengt en een deel op het land."
+  },
+  {
+    "id": 16,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van de grote watermassa die de wereld omringt?",
+    "options": [
+      "Rivier",
+      "Meer",
+      "Oceaan",
+      "Kanaal"
+    ],
+    "correct": 2,
+    "extra_info": "De aarde heeft grote watermassa's die oceanen worden genoemd, zoals de Atlantische Oceaan of de Stille Oceaan."
+  },
+  {
+    "id": 17,
+    "theme": "algemene kennis",
+    "question": "Welke maand komt na december?",
+    "options": [
+      "November",
+      "Januari",
+      "Februari",
+      "Oktober"
+    ],
+    "correct": 1,
+    "extra_info": "Na december, de laatste maand van het jaar, komt januari, de eerste maand van het nieuwe jaar."
+  },
+  {
+    "id": 18,
+    "theme": "algemene kennis",
+    "question": "Hoe heet het deel van een boom dat de bladeren draagt?",
+    "options": [
+      "Wortels",
+      "Stam",
+      "Takken",
+      "Bloemen"
+    ],
+    "correct": 2,
+    "extra_info": "De takken van een boom groeien uit de stam en dragen de bladeren, bloemen en vruchten."
+  },
+  {
+    "id": 19,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van de koning van Nederland?",
+    "options": [
+      "Koning Filip",
+      "Koning Charles",
+      "Koning Willem-Alexander",
+      "Koningin Elizabeth"
+    ],
+    "correct": 2,
+    "extra_info": "De huidige koning van Nederland is Koning Willem-Alexander."
+  },
+  {
+    "id": 20,
+    "theme": "algemene kennis",
+    "question": "Welk type gebouw heeft een dak in de vorm van een punt en vaak een toren?",
+    "options": [
+      "Huis",
+      "Kerk",
+      "Flat",
+      "Garage"
+    ],
+    "correct": 1,
+    "extra_info": "Kerken hebben vaak spitse daken en torens, bekend als kerktorens."
+  },
+  {
+    "id": 21,
+    "theme": "algemene kennis",
+    "question": "Welk dier leeft in Australië en is bekend om het dragen van zijn jongen in een buidel?",
+    "options": [
+      "Leeuw",
+      "Beer",
+      "Kangoeroe",
+      "Tijger"
+    ],
+    "correct": 2,
+    "extra_info": "De kangoeroe is een uniek buideldier uit Australië dat zijn jongen in een speciale buidel draagt."
+  },
+  {
+    "id": 22,
+    "theme": "algemene kennis",
+    "question": "Wat is de vloeistof die door je aderen stroomt en rood is?",
+    "options": [
+      "Water",
+      "Bloed",
+      "Speeksel",
+      "Zweet"
+    ],
+    "correct": 1,
+    "extra_info": "Bloed stroomt door je aderen en brengt zuurstof en voedingsstoffen door je hele lichaam."
+  },
+  {
+    "id": 23,
+    "theme": "algemene kennis",
+    "question": "Hoeveel continenten zijn er op aarde?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "extra_info": "Er zijn zeven continenten op aarde: Azië, Afrika, Noord-Amerika, Zuid-Amerika, Antarctica, Europa en Australië."
+  },
+  {
+    "id": 24,
+    "theme": "algemene kennis",
+    "question": "Welke vogel kan niet vliegen en leeft op Antarctica?",
+    "options": [
+      "Adelaar",
+      "Pinguïn",
+      "Mus",
+      "Duif"
+    ],
+    "correct": 1,
+    "extra_info": "Pinguïns zijn vogels die niet kunnen vliegen, maar uitstekende zwemmers zijn en leven in koude gebieden zoals Antarctica."
+  },
+  {
+    "id": 25,
+    "theme": "algemene kennis",
+    "question": "Hoe heet het instrument waarmee je de temperatuur meet?",
+    "options": [
+      "Telescoop",
+      "Microscoop",
+      "Thermometer",
+      "Barometer"
+    ],
+    "correct": 2,
+    "extra_info": "Een thermometer wordt gebruikt om te meten hoe warm of koud iets is."
+  },
+  {
+    "id": 26,
+    "theme": "algemene kennis",
+    "question": "Welke feestdag vier je als je jarig bent?",
+    "options": [
+      "Kerstmis",
+      "Pasen",
+      "Je verjaardag",
+      "Oud en Nieuw"
+    ],
+    "correct": 2,
+    "extra_info": "Je verjaardag is een speciale dag waarop je viert dat je een jaar ouder bent geworden."
+  },
+  {
+    "id": 27,
+    "theme": "algemene kennis",
+    "question": "Welke kleur heeft een citroen?",
+    "options": [
+      "Groen",
+      "Rood",
+      "Geel",
+      "Oranje"
+    ],
+    "correct": 2,
+    "extra_info": "Citroenen zijn bekend om hun zure smaak en felgele kleur."
+  },
+  {
+    "id": 28,
+    "theme": "algemene kennis",
+    "question": "Hoeveel zintuigen heeft een mens?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 2,
+    "extra_info": "Mensen hebben vijf zintuigen: zien, horen, ruiken, proeven en voelen."
+  },
+  {
+    "id": 29,
+    "theme": "algemene kennis",
+    "question": "Welk instrument gebruik je om geluiden te maken door erop te slaan?",
+    "options": [
+      "Gitaar",
+      "Trompet",
+      "Trommel",
+      "Piano"
+    ],
+    "correct": 2,
+    "extra_info": "Een trommel is een muziekinstrument dat geluid produceert wanneer erop wordt geslagen."
+  },
+  {
+    "id": 30,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'snel'?",
+    "options": [
+      "Hard",
+      "Langzaam",
+      "Kort",
+      "Zacht"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van snel is langzaam."
+  },
+{
+    "id": 31,
+    "theme": "algemene kennis",
+    "question": "Hoeveel dagen heeft een schrikkeljaar?",
+    "options": [
+      "365",
+      "366",
+      "360",
+      "355"
+    ],
+    "correct": 1,
+    "extra_info": "Een **schrikkeljaar** heeft één dag extra in februari (29 dagen in plaats van 28), waardoor het 366 dagen telt."
+  },
+  {
+    "id": 32,
+    "theme": "algemene kennis",
+    "question": "Welk dier staat bekend om zijn vermogen om van kleur te veranderen om zich te camoufleren?",
+    "options": [
+      "Leeuw",
+      "Tijger",
+      "Kameleon",
+      "Zebra"
+    ],
+    "correct": 2,
+    "extra_info": "De **kameleon** is beroemd om zijn unieke vermogen om zijn huidskleur aan te passen aan zijn omgeving."
+  },
+  {
+    "id": 33,
+    "theme": "algemene kennis",
+    "question": "Hoeveel continenten zijn er op aarde?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "extra_info": "Er zijn **zeven continenten**: Azië, Afrika, Noord-Amerika, Zuid-Amerika, Antarctica, Europa en Australië."
+  },
+  {
+    "id": 34,
+    "theme": "algemene kennis",
+    "question": "Wat is de hoofdstad van Italië?",
+    "options": [
+      "Parijs",
+      "Berlijn",
+      "Rome",
+      "Madrid"
+    ],
+    "correct": 2,
+    "extra_info": "**Rome** is de hoofdstad van Italië en staat bekend om zijn oude geschiedenis en monumenten."
+  },
+  {
+    "id": 35,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'snel'?",
+    "options": [
+      "Hard",
+      "Langzaam",
+      "Kort",
+      "Zacht"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van snel is **langzaam**."
+  },
+  {
+    "id": 36,
+    "theme": "algemene kennis",
+    "question": "Welk lichaamsdeel pompt bloed door je lichaam?",
+    "options": [
+      "Longen",
+      "Lever",
+      "Maag",
+      "Hart"
+    ],
+    "correct": 3,
+    "extra_info": "Het **hart** is een spier die constant bloed door je lichaam pompt."
+  },
+  {
+    "id": 37,
+    "theme": "algemene kennis",
+    "question": "Hoe heet het gas dat mensen inademen om te leven?",
+    "options": [
+      "Koolstofdioxide",
+      "Stikstof",
+      "Zuurstof",
+      "Waterstof"
+    ],
+    "correct": 2,
+    "extra_info": "**Zuurstof** is het gas dat wij inademen en dat essentieel is voor onze ademhaling."
+  },
+  {
+    "id": 38,
+    "theme": "algemene kennis",
+    "question": "Welke kleur krijg je als je de kleuren rood en blauw mengt (verf)?",
+    "options": [
+      "Groen",
+      "Paars",
+      "Oranje",
+      "Geel"
+    ],
+    "correct": 1,
+    "extra_info": "Als je de primaire kleuren rood en blauw mengt, ontstaat de secundaire kleur **paars**."
+  },
+  {
+    "id": 39,
+    "theme": "algemene kennis",
+    "question": "Welk vervoermiddel vliegt in de ruimte?",
+    "options": [
+      "Vliegtuig",
+      "Helikopter",
+      "Raket",
+      "Drone"
+    ],
+    "correct": 2,
+    "extra_info": "Een **raket** wordt gebruikt om de ruimte in te reizen, bijvoorbeeld naar de maan of andere planeten."
+  },
+  {
+    "id": 40,
+    "theme": "algemene kennis",
+    "question": "Welke vorm heeft een stopbord?",
+    "options": [
+      "Rond",
+      "Driehoek",
+      "Vierkant",
+      "Achthoek"
+    ],
+    "correct": 3,
+    "extra_info": "Een stopbord is **achthoekig** en rood met witte letters."
+  },
+  {
+    "id": 41,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een groot roofdier en de 'koning van de jungle'?",
+    "options": [
+      "Tijger",
+      "Leeuw",
+      "Wolf",
+      "Beer"
+    ],
+    "correct": 1,
+    "extra_info": "De **leeuw** wordt vaak de 'koning van de jungle' genoemd, hoewel hij voornamelijk op de savanne leeft."
+  },
+  {
+    "id": 42,
+    "theme": "algemene kennis",
+    "question": "Hoe heet het orgaan in je hoofd waarmee je denkt?",
+    "options": [
+      "Hart",
+      "Longen",
+      "Hersenen",
+      "Maag"
+    ],
+    "correct": 2,
+    "extra_info": "De **hersenen** zijn het centrum van ons denken, voelen en bewegen."
+  },
+  {
+    "id": 43,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'dag'?",
+    "options": [
+      "Ochtend",
+      "Middag",
+      "Nacht",
+      "Avond"
+    ],
+    "correct": 2,
+    "extra_info": "Het tegenovergestelde van dag is **nacht**."
+  },
+  {
+    "id": 44,
+    "theme": "algemene kennis",
+    "question": "Welke vloeistof is doorzichtig en komt uit de kraan?",
+    "options": [
+      "Melk",
+      "Sap",
+      "Water",
+      "Olie"
+    ],
+    "correct": 2,
+    "extra_info": "**Water** is een heldere vloeistof die we uit de kraan drinken en gebruiken."
+  },
+  {
+    "id": 45,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een reptiel en kan heel snel kruipen?",
+    "options": [
+      "Vis",
+      "Kikker",
+      "Slang",
+      "Vogel"
+    ],
+    "correct": 2,
+    "extra_info": "Een **slang** is een reptiel zonder poten dat zich snel kan voortbewegen door te kronkelen."
+  },
+  {
+    "id": 46,
+    "theme": "algemene kennis",
+    "question": "Welke planeet staat bekend als de 'Rode Planeet'?",
+    "options": [
+      "Aarde",
+      "Mars",
+      "Jupiter",
+      "Venus"
+    ],
+    "correct": 1,
+    "extra_info": "**Mars** wordt de 'Rode Planeet' genoemd vanwege de roodachtige kleur van zijn oppervlak."
+  },
+  {
+    "id": 47,
+    "theme": "algemene kennis",
+    "question": "Hoeveel jaar is een decennium?",
+    "options": [
+      "5",
+      "10",
+      "50",
+      "100"
+    ],
+    "correct": 1,
+    "extra_info": "Een **decennium** is een periode van 10 jaar."
+  },
+  {
+    "id": 48,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van de grote watermassa die de wereld omringt?",
+    "options": [
+      "Rivier",
+      "Meer",
+      "Oceaan",
+      "Kanaal"
+    ],
+    "correct": 2,
+    "extra_info": "De **oceanen** zijn de grootste waterlichamen op aarde en omringen de continenten."
+  },
+  {
+    "id": 49,
+    "theme": "algemene kennis",
+    "question": "Welke maand komt na september?",
+    "options": [
+      "Augustus",
+      "Oktober",
+      "November",
+      "December"
+    ],
+    "correct": 1,
+    "extra_info": "Na september komt de maand **oktober**."
+  },
+  {
+    "id": 50,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een vogel en staat bekend om zijn vermogen om menselijke spraak na te bootsen?",
+    "options": [
+      "Duif",
+      "Meeuw",
+      "Papegaai",
+      "Mus"
+    ],
+    "correct": 2,
+    "extra_info": "Een **papegaai** is een vogel die woorden en zinnen kan leren nabootsen."
+  },
+  {
+    "id": 51,
+    "theme": "algemene kennis",
+    "question": "Hoe heet het gebouw waar je schilderijen en oude voorwerpen kunt bekijken?",
+    "options": [
+      "School",
+      "Winkel",
+      "Museum",
+      "Bibliotheek"
+    ],
+    "correct": 2,
+    "extra_info": "In een **museum** kun je kunstwerken en historische voorwerpen bewonderen."
+  },
+  {
+    "id": 52,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'open'?",
+    "options": [
+      "Groot",
+      "Dicht",
+      "Wijd",
+      "Klein"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van open is **dicht**."
+  },
+  {
+    "id": 53,
+    "theme": "algemene kennis",
+    "question": "Welke kleur heeft een brandweerauto?",
+    "options": [
+      "Blauw",
+      "Groen",
+      "Rood",
+      "Geel"
+    ],
+    "correct": 2,
+    "extra_info": "Brandweerauto's zijn meestal **rood** om goed op te vallen in het verkeer."
+  },
+  {
+    "id": 54,
+    "theme": "algemene kennis",
+    "question": "Welke sport speel je op een tennisbaan met een racket?",
+    "options": [
+      "Voetbal",
+      "Basketbal",
+      "Tennis",
+      "Handbal"
+    ],
+    "correct": 2,
+    "extra_info": "**Tennis** is een sport die met een racket en een bal op een tennisbaan wordt gespeeld."
+  },
+  {
+    "id": 55,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het apparaat dat je gebruikt om te bellen en berichten te sturen?",
+    "options": [
+      "Radio",
+      "Televisie",
+      "Telefoon",
+      "Computer"
+    ],
+    "correct": 2,
+    "extra_info": "Een **telefoon** is een apparaat om mee te communiceren over lange afstanden."
+  },
+  {
+    "id": 56,
+    "theme": "algemene kennis",
+    "question": "Hoeveel benen heeft een insect?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "correct": 1,
+    "extra_info": "Insecten hebben typisch **zes poten** (drie paar)."
+  },
+  {
+    "id": 57,
+    "theme": "algemene kennis",
+    "question": "Welk dier leeft in de woestijn en heeft bulten op zijn rug om water en vet op te slaan?",
+    "options": [
+      "Leeuw",
+      "Kameel",
+      "Zebra",
+      "Giraffe"
+    ],
+    "correct": 1,
+    "extra_info": "De **kameel** kan in de woestijn overleven dankzij de opslag van water en vet in zijn bulten."
+  },
+  {
+    "id": 58,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'oud' (als in leeftijd)?",
+    "options": [
+      "Nieuw",
+      "Jong",
+      "Groot",
+      "Klein"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van oud (wat leeftijd betreft) is **jong**."
+  },
+  {
+    "id": 59,
+    "theme": "algemene kennis",
+    "question": "Welke vrucht is geel en heeft een kromme vorm?",
+    "options": [
+      "Appel",
+      "Peer",
+      "Banaan",
+      "Sinaasappel"
+    ],
+    "correct": 2,
+    "extra_info": "Een **banaan** is een gele, kromme vrucht."
+  },
+  {
+    "id": 60,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het instrument waarmee je de tijd afleest?",
+    "options": [
+      "Thermometer",
+      "Lineaal",
+      "Klok",
+      "Verrekijker"
+    ],
+    "correct": 2,
+    "extra_info": "Met een **klok** of horloge kun je zien hoe laat het is."
+  },
+  {
+    "id": 61,
+    "theme": "algemene kennis",
+    "question": "Welk lichaamsdeel beschermt je hersenen?",
+    "options": [
+      "Ruggenwervel",
+      "Schedel",
+      "Ribben",
+      "Borstbeen"
+    ],
+    "correct": 1,
+    "extra_info": "De **schedel** is een benige structuur die de hersenen beschermt."
+  },
+  {
+    "id": 62,
+    "theme": "algemene kennis",
+    "question": "Wat is de hoofdstad van België?",
+    "options": [
+      "Amsterdam",
+      "Parijs",
+      "Brussel",
+      "Berlijn"
+    ],
+    "correct": 2,
+    "extra_info": "**Brussel** is de hoofdstad van België en een belangrijk centrum voor Europa."
+  },
+  {
+    "id": 63,
+    "theme": "algemene kennis",
+    "question": "Welke kleur krijg je als je rood en geel mengt (verf)?",
+    "options": [
+      "Groen",
+      "Paars",
+      "Oranje",
+      "Blauw"
+    ],
+    "correct": 2,
+    "extra_info": "Als je de primaire kleuren rood en geel mengt, krijg je de secundaire kleur **oranje**."
+  },
+  {
+    "id": 64,
+    "theme": "algemene kennis",
+    "question": "Welk dier leeft in de zee en heeft tentakels met zuignappen?",
+    "options": [
+      "Vis",
+      "Kwal",
+      "Inktvis",
+      "Dolfijn"
+    ],
+    "correct": 2,
+    "extra_info": "Een **inktvis** is een weekdier met meerdere armen of tentakels, vaak voorzien van zuignappen."
+  },
+  {
+    "id": 65,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het apparaat dat je gebruikt om schoon te maken met een borstel en zuigkracht?",
+    "options": [
+      "Bezem",
+      "Stofzuiger",
+      "Dweil",
+      "Spons"
+    ],
+    "correct": 1,
+    "extra_info": "Een **stofzuiger** verwijdert stof en vuil van oppervlakken door middel van zuigkracht."
+  },
+  {
+    "id": 66,
+    "theme": "algemene kennis",
+    "question": "Hoeveel poten heeft een spin?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "correct": 2,
+    "extra_info": "Spinnen zijn geleedpotigen en hebben **acht poten**."
+  },
+  {
+    "id": 67,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een groot zeezoogdier en het grootste dier op aarde?",
+    "options": [
+      "Dolfijn",
+      "Haai",
+      "Blauwe vinvis",
+      "Orka"
+    ],
+    "correct": 2,
+    "extra_info": "De **blauwe vinvis** is het grootste dier dat ooit op aarde heeft geleefd."
+  },
+  {
+    "id": 68,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'arm' (als in 'rijk')?",
+    "options": [
+      "Slecht",
+      "Rijk",
+      "Klein",
+      "Groot"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van arm (wat bezit betreft) is **rijk**."
+  },
+  {
+    "id": 69,
+    "theme": "algemene kennis",
+    "question": "Welke vloeistof wordt gemaakt door bijen en is zoet?",
+    "options": [
+      "Water",
+      "Melk",
+      "Honing",
+      "Sap"
+    ],
+    "correct": 2,
+    "extra_info": "**Honing** is een zoete, stroperige vloeistof die door bijen wordt geproduceerd."
+  },
+  {
+    "id": 70,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het instrument waarmee je snaren tokkelt om muziek te maken?",
+    "options": [
+      "Piano",
+      "Drum",
+      "Gitaar",
+      "Trompet"
+    ],
+    "correct": 2,
+    "extra_info": "Een **gitaar** is een snaarinstrument dat wordt bespeeld door de snaren te tokkelen of te strijken."
+  },
+  {
+    "id": 71,
+    "theme": "algemene kennis",
+    "question": "Welk lichaamsdeel helpt je om te proeven?",
+    "options": [
+      "Neus",
+      "Oog",
+      "Tong",
+      "Oor"
+    ],
+    "correct": 2,
+    "extra_info": "De **tong** bevat smaakpapillen waarmee we smaken kunnen waarnemen."
+  },
+  {
+    "id": 72,
+    "theme": "algemene kennis",
+    "question": "Wat is de hoofdstad van Frankrijk?",
+    "options": [
+      "Londen",
+      "Berlijn",
+      "Rome",
+      "Parijs"
+    ],
+    "correct": 3,
+    "extra_info": "**Parijs** is de hoofdstad van Frankrijk en staat bekend om de Eiffeltoren."
+  },
+  {
+    "id": 73,
+    "theme": "algemene kennis",
+    "question": "Welke kleur krijg je als je blauw en geel mengt (verf)?",
+    "options": [
+      "Rood",
+      "Paars",
+      "Groen",
+      "Oranje"
+    ],
+    "correct": 2,
+    "extra_info": "Als je de primaire kleuren blauw en geel mengt, ontstaat de secundaire kleur **groen**."
+  },
+  {
+    "id": 74,
+    "theme": "algemene kennis",
+    "question": "Welk dier leeft in de Noordpool en is wit en groot?",
+    "options": [
+      "Tijger",
+      "Leeuw",
+      "IJsbeer",
+      "Panda"
+    ],
+    "correct": 2,
+    "extra_info": "De **ijsbeer** is een groot wit roofdier dat in de koude Arctische gebieden leeft."
+  },
+  {
+    "id": 75,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het apparaat dat je gebruikt om te schrijven met potlood?",
+    "options": [
+      "Pen",
+      "Krijt",
+      "Potlood",
+      "Marker"
+    ],
+    "correct": 2,
+    "extra_info": "Een **potlood** is een schrijfgereedschap met grafiet."
+  },
+  {
+    "id": 76,
+    "theme": "algemene kennis",
+    "question": "Hoeveel seconden zitten er in één minuut?",
+    "options": [
+      "30",
+      "60",
+      "90",
+      "120"
+    ],
+    "correct": 1,
+    "extra_info": "Eén minuut is gelijk aan **60 seconden**."
+  },
+  {
+    "id": 77,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een amfibie en heeft een gladde huid?",
+    "options": [
+      "Vis",
+      "Kikker",
+      "Slang",
+      "Vogel"
+    ],
+    "correct": 1,
+    "extra_info": "Een **kikker** is een amfibie, wat betekent dat hij zowel op het land als in het water kan leven, en heeft een gladde huid."
+  },
+  {
+    "id": 78,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'vol'?",
+    "options": [
+      "Groot",
+      "Leeg",
+      "Dicht",
+      "Open"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van vol is **leeg**."
+  },
+  {
+    "id": 79,
+    "theme": "algemene kennis",
+    "question": "Welke vloeistof drinken we bij het ontbijt en komt van de koe?",
+    "options": [
+      "Water",
+      "Sap",
+      "Melk",
+      "Thee"
+    ],
+    "correct": 2,
+    "extra_info": "**Melk** is een drank die we vaak bij het ontbijt drinken en die afkomstig is van koeien."
+  },
+  {
+    "id": 80,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het muziekinstrument met witte en zwarte toetsen?",
+    "options": [
+      "Gitaar",
+      "Drum",
+      "Piano",
+      "Viool"
+    ],
+    "correct": 2,
+    "extra_info": "Een **piano** is een toetsinstrument met een reeks witte en zwarte toetsen."
+  },
+  {
+    "id": 81,
+    "theme": "algemene kennis",
+    "question": "Welk lichaamsdeel gebruik je om te voelen of iets warm of koud is?",
+    "options": [
+      "Ogen",
+      "Neus",
+      "Huid",
+      "Tong"
+    ],
+    "correct": 2,
+    "extra_info": "De **huid** is ons grootste orgaan en stelt ons in staat om temperatuur te voelen."
+  },
+  {
+    "id": 82,
+    "theme": "algemene kennis",
+    "question": "Wat is de hoofdstad van Spanje?",
+    "options": [
+      "Lissabon",
+      "Berlijn",
+      "Rome",
+      "Madrid"
+    ],
+    "correct": 3,
+    "extra_info": "**Madrid** is de hoofdstad van Spanje."
+  },
+  {
+    "id": 83,
+    "theme": "algemene kennis",
+    "question": "Welke kleur krijg je als je alle kleuren van de regenboog mengt (licht)?",
+    "options": [
+      "Zwart",
+      "Grijs",
+      "Wit",
+      "Bruin"
+    ],
+    "correct": 2,
+    "extra_info": "Als alle kleuren van het licht samenkomen, ontstaat **wit** licht."
+  },
+  {
+    "id": 84,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een groot, grijs waterdier dat vaak met zijn snuit uit het water steekt?",
+    "options": [
+      "Krokodil",
+      "Nijlpaard",
+      "Olifant",
+      "Walrus"
+    ],
+    "correct": 1,
+    "extra_info": "Een **nijlpaard** is een groot zoogdier dat veel tijd in het water doorbrengt en bekend staat om zijn grote snuit."
+  },
+  {
+    "id": 85,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het apparaat dat je gebruikt om de temperatuur te meten?",
+    "options": [
+      "Klok",
+      "Lineaal",
+      "Thermometer",
+      "Kompas"
+    ],
+    "correct": 2,
+    "extra_info": "Een **thermometer** is een instrument om temperaturen te meten."
+  },
+  {
+    "id": 86,
+    "theme": "algemene kennis",
+    "question": "Hoeveel zintuigen heeft een mens?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 2,
+    "extra_info": "Een mens heeft **vijf zintuigen**: zien, horen, ruiken, proeven en voelen."
+  },
+  {
+    "id": 87,
+    "theme": "algemene kennis",
+    "question": "Welk dier leeft in de bergen en heeft grote, gebogen hoorns?",
+    "options": [
+      "Geit",
+      "Schaap",
+      "Kameel",
+      "Steenbok"
+    ],
+    "correct": 3,
+    "extra_info": "De **steenbok** is een wild geitachtige met indrukwekkende, gekromde hoorns, levend in bergachtige gebieden."
+  },
+  {
+    "id": 88,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'hoog'?",
+    "options": [
+      "Breed",
+      "Laag",
+      "Lang",
+      "Kort"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van hoog is **laag**."
+  },
+  {
+    "id": 89,
+    "theme": "algemene kennis",
+    "question": "Welke vloeistof wordt gemaakt van appels en is lekker zoet?",
+    "options": [
+      "Melk",
+      "Water",
+      "Sinaasappelsap",
+      "Appelsap"
+    ],
+    "correct": 3,
+    "extra_info": "**Appelsap** wordt gemaakt door appels te persen en is een populaire, zoete drank."
+  },
+  {
+    "id": 90,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het muziekinstrument dat je bespeelt met een strijkstok?",
+    "options": [
+      "Gitaar",
+      "Piano",
+      "Drum",
+      "Viool"
+    ],
+    "correct": 3,
+    "extra_info": "Een **viool** is een snaarinstrument dat wordt bespeeld met een strijkstok."
+  },
+  {
+    "id": 91,
+    "theme": "algemene kennis",
+    "question": "Hoe heet het deel van een boom dat onder de grond groeit en water opneemt?",
+    "options": [
+      "Stam",
+      "Tak",
+      "Wortel",
+      "Blad"
+    ],
+    "correct": 2,
+    "extra_info": "De **wortels** van een boom bevinden zich onder de grond en zijn essentieel voor het opnemen van water en voedingsstoffen."
+  },
+  {
+    "id": 92,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een groot, geel en gestreept roofdier dat in de jungle leeft?",
+    "options": [
+      "Leeuw",
+      "Tijger",
+      "Zebra",
+      "Giraffe"
+    ],
+    "correct": 1,
+    "extra_info": "Een **tijger** is een grote katachtige met opvallende zwarte strepen op een oranje vacht."
+  },
+  {
+    "id": 93,
+    "theme": "algemene kennis",
+    "question": "Hoeveel poten heeft een spin?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "correct": 2,
+    "extra_info": "Spinnen zijn geen insecten en hebben **acht poten**."
+  },
+  {
+    "id": 94,
+    "theme": "algemene kennis",
+    "question": "Welke stad is de hoofdstad van Duitsland?",
+    "options": [
+      "Parijs",
+      "Londen",
+      "Berlijn",
+      "Rome"
+    ],
+    "correct": 2,
+    "extra_info": "**Berlijn** is de hoofdstad van Duitsland."
+  },
+  {
+    "id": 95,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'vies'?",
+    "options": [
+      "Slecht",
+      "Mooi",
+      "Schoon",
+      "Groot"
+    ],
+    "correct": 2,
+    "extra_info": "Het tegenovergestelde van vies is **schoon**."
+  },
+  {
+    "id": 96,
+    "theme": "algemene kennis",
+    "question": "Welke vogel kan niet vliegen en leeft op de Zuidpool?",
+    "options": [
+      "Adelaar",
+      "Pinguïn",
+      "Meeuw",
+      "Struisvogel"
+    ],
+    "correct": 1,
+    "extra_info": "Een **pinguïn** is een vogel die goed kan zwemmen, maar niet kan vliegen en leeft in koude gebieden zoals de Zuidpool."
+  },
+  {
+    "id": 97,
+    "theme": "algemene kennis",
+    "question": "Hoe heet het deel van een boom waar bladeren aan groeien?",
+    "options": [
+      "Wortel",
+      "Stam",
+      "Tak",
+      "Schors"
+    ],
+    "correct": 2,
+    "extra_info": "De **takken** van een boom dragen de bladeren, bloemen en vruchten."
+  },
+  {
+    "id": 98,
+    "theme": "algemene kennis",
+    "question": "Welke kleur krijg je als je rood en geel mengt?",
+    "options": [
+      "Groen",
+      "Paars",
+      "Oranje",
+      "Blauw"
+    ],
+    "correct": 2,
+    "extra_info": "Als je de primaire kleuren rood en geel mengt, krijg je de secundaire kleur **oranje**."
+  },
+  {
+    "id": 99,
+    "theme": "algemene kennis",
+    "question": "Wat is het vervoermiddel dat op rails rijdt?",
+    "options": [
+      "Auto",
+      "Fiets",
+      "Trein",
+      "Bus"
+    ],
+    "correct": 2,
+    "extra_info": "Een **trein** rijdt op rails en kan veel mensen of goederen vervoeren."
+  },
+  {
+    "id": 100,
+    "theme": "algemene kennis",
+    "question": "Welke vorm heeft een dobbelsteen?",
+    "options": [
+      "Cirkel",
+      "Driehoek",
+      "Vierkant",
+      "Kubus"
+    ],
+    "correct": 3,
+    "extra_info": "Een dobbelsteen heeft de vorm van een **kubus**, met zes gelijke vierkante zijden."
+  },
+{
+    "id": 101,
+    "theme": "algemene kennis",
+    "question": "Hoe heet het deel van een bloem dat de zaden beschermt en later een vrucht kan worden?",
+    "options": [
+      "Kroonblad",
+      "Stengel",
+      "Vruchtbeginsel",
+      "Kelkblad"
+    ],
+    "correct": 2,
+    "extra_info": "Het **vruchtbeginsel** is het deel van de bloem dat na bestuiving en bevruchting uitgroeit tot een vrucht met zaden."
+  },
+  {
+    "id": 102,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een groot, geel en gestreept roofdier dat in de jungle leeft?",
+    "options": [
+      "Leeuw",
+      "Tijger",
+      "Zebra",
+      "Giraffe"
+    ],
+    "correct": 1,
+    "extra_info": "De **tijger** is een indrukwekkende katachtige met een gestreepte vacht, die vaak in Aziatische jungles te vinden is."
+  },
+  {
+    "id": 103,
+    "theme": "algemene kennis",
+    "question": "Hoeveel liter water zit er in een zwembad (gemiddeld formaat voor in de tuin)?",
+    "options": [
+      "100 liter",
+      "1.000 liter",
+      "10.000 liter",
+      "100.000 liter"
+    ],
+    "correct": 2,
+    "extra_info": "Een gemiddeld tuinzembad kan ongeveer **10.000 liter** water bevatten, afhankelijk van de grootte."
+  },
+  {
+    "id": 104,
+    "theme": "algemene kennis",
+    "question": "Wat is de hoofdstad van de Verenigde Staten?",
+    "options": [
+      "New York",
+      "Los Angeles",
+      "Washington D.C.",
+      "Chicago"
+    ],
+    "correct": 2,
+    "extra_info": "**Washington D.C.** is de hoofdstad van de Verenigde Staten en niet New York, zoals vaak wordt gedacht."
+  },
+  {
+    "id": 105,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'schoon'?",
+    "options": [
+      "Netjes",
+      "Vies",
+      "Nieuw",
+      "Oud"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van schoon is **vies**."
+  },
+  {
+    "id": 106,
+    "theme": "algemene kennis",
+    "question": "Welk lichaamsdeel beschermt je longen en hart?",
+    "options": [
+      "Schedel",
+      "Wervelkolom",
+      "Borstkas",
+      "Bekken"
+    ],
+    "correct": 2,
+    "extra_info": "De **borstkas**, bestaande uit de ribben en het borstbeen, beschermt belangrijke organen zoals je longen en hart."
+  },
+  {
+    "id": 107,
+    "theme": "algemene kennis",
+    "question": "Hoe heet het gas dat wij uitademen en planten inademen?",
+    "options": [
+      "Zuurstof",
+      "Stikstof",
+      "Koolstofdioxide",
+      "Waterstof"
+    ],
+    "correct": 2,
+    "extra_info": "Wij ademen **koolstofdioxide** uit, wat planten nodig hebben voor fotosynthese."
+  },
+  {
+    "id": 108,
+    "theme": "algemene kennis",
+    "question": "Welke kleur krijg je als je alle kleuren van de regenboog mengt (licht)?",
+    "options": [
+      "Zwart",
+      "Grijs",
+      "Wit",
+      "Bruin"
+    ],
+    "correct": 2,
+    "extra_info": "Als alle kleuren van het licht samenkomen (additieve kleurmenging), ontstaat **wit** licht."
+  },
+  {
+    "id": 109,
+    "theme": "algemene kennis",
+    "question": "Wat is het vervoermiddel dat over sporen rijdt en meestal uit meerdere wagons bestaat?",
+    "options": [
+      "Auto",
+      "Boot",
+      "Trein",
+      "Bus"
+    ],
+    "correct": 2,
+    "extra_info": "Een **trein** is een vervoermiddel dat op rails rijdt en vaak veel mensen of goederen kan vervoeren."
+  },
+  {
+    "id": 110,
+    "theme": "algemene kennis",
+    "question": "Welke vorm heeft een piramide aan de onderkant?",
+    "options": [
+      "Cirkel",
+      "Driehoek",
+      "Vierkant",
+      "Ovaal"
+    ],
+    "correct": 2,
+    "extra_info": "De meeste piramides, zoals die in Egypte, hebben een **vierkante** basis."
+  },
+  {
+    "id": 111,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een knaagdier en staat bekend om zijn vermogen om dammen te bouwen?",
+    "options": [
+      "Muis",
+      "Bever",
+      "Konijn",
+      "Eekhoorn"
+    ],
+    "correct": 1,
+    "extra_info": "De **bever** is een knaagdier dat indrukwekkende dammen bouwt met takken, modder en stenen."
+  },
+  {
+    "id": 112,
+    "theme": "algemene kennis",
+    "question": "Hoe heet het orgaan in je lichaam dat bloed pompt?",
+    "options": [
+      "Longen",
+      "Lever",
+      "Hart",
+      "Nieren"
+    ],
+    "correct": 2,
+    "extra_info": "Het **hart** is de spier die bloed door het hele lichaam pompt."
+  },
+  {
+    "id": 113,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'beginnen'?",
+    "options": [
+      "Starten",
+      "Eindigen",
+      "Doen",
+      "Stoppen"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van beginnen is **eindigen** of stoppen."
+  },
+  {
+    "id": 114,
+    "theme": "algemene kennis",
+    "question": "Welke vloeistof is doorzichtig en vormt regen en rivieren?",
+    "options": [
+      "Olie",
+      "Melk",
+      "Water",
+      "Sap"
+    ],
+    "correct": 2,
+    "extra_info": "**Water** is de essentiële vloeistof die de basis vormt van regen, rivieren en oceanen."
+  },
+  {
+    "id": 115,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een vogel en kan zijn kop bijna helemaal ronddraaien?",
+    "options": [
+      "Adelaar",
+      "Uil",
+      "Duif",
+      "Papegaai"
+    ],
+    "correct": 1,
+    "extra_info": "Een **uil** kan zijn kop tot wel 270 graden draaien om zijn omgeving te overzien."
+  },
+  {
+    "id": 116,
+    "theme": "algemene kennis",
+    "question": "Welke planeet staat bekend om zijn grote rode vlek, een gigantische storm?",
+    "options": [
+      "Aarde",
+      "Mars",
+      "Jupiter",
+      "Saturnus"
+    ],
+    "correct": 2,
+    "extra_info": "**Jupiter** heeft een beroemde 'Grote Rode Vlek', een enorme en langdurige storm in zijn atmosfeer."
+  },
+  {
+    "id": 117,
+    "theme": "algemene kennis",
+    "question": "Hoeveel jaar duurt een eeuw?",
+    "options": [
+      "10",
+      "50",
+      "100",
+      "1000"
+    ],
+    "correct": 2,
+    "extra_info": "Een **eeuw** is een tijdsperiode van 100 jaar."
+  },
+  {
+    "id": 118,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van de grote watermassa tussen Europa en Afrika aan de ene kant en Amerika aan de andere kant?",
+    "options": [
+      "De Grote Oceaan",
+      "De Atlantische Oceaan",
+      "De Indische Oceaan",
+      "De Noordelijke IJszee"
+    ],
+    "correct": 1,
+    "extra_info": "De **Atlantische Oceaan** is de oceaan die tussen Europa, Afrika en Amerika ligt."
+  },
+  {
+    "id": 119,
+    "theme": "algemene kennis",
+    "question": "Welke maand komt na augustus?",
+    "options": [
+      "Juli",
+      "September",
+      "Oktober",
+      "November"
+    ],
+    "correct": 1,
+    "extra_info": "Na augustus komt de maand **september**."
+  },
+  {
+    "id": 120,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een groot zoogdier met een lange slurf en grote oren?",
+    "options": [
+      "Neushoorn",
+      "Nijlpaard",
+      "Olifant",
+      "Zebra"
+    ],
+    "correct": 2,
+    "extra_info": "Een **olifant** is het grootste landdier en herkenbaar aan zijn slurf en grote oren."
+  },
+  {
+    "id": 121,
+    "theme": "algemene kennis",
+    "question": "Hoe heet het gebouw waar je boeken kunt lenen en lezen?",
+    "options": [
+      "School",
+      "Museum",
+      "Bibliotheek",
+      "Theater"
+    ],
+    "correct": 2,
+    "extra_info": "Een **bibliotheek** is een plek waar je boeken en andere media kunt lenen."
+  },
+  {
+    "id": 122,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'hoog'?",
+    "options": [
+      "Breed",
+      "Laag",
+      "Lang",
+      "Kort"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van hoog is **laag**."
+  },
+  {
+    "id": 123,
+    "theme": "algemene kennis",
+    "question": "Welke kleur krijg je als je alle kleuren van de regenboog mengt (verf)?",
+    "options": [
+      "Wit",
+      "Grijs",
+      "Zwart",
+      "Bruin"
+    ],
+    "correct": 2,
+    "extra_info": "Als je alle primaire en secundaire kleuren van verf mengt (subtractieve kleurmenging), krijg je vaak een donkere, bijna **zwarte** of bruinachtige kleur."
+  },
+  {
+    "id": 124,
+    "theme": "algemene kennis",
+    "question": "Welke sport speel je op een veld met twee goals en gebruik je je voeten om de bal te bewegen?",
+    "options": [
+      "Basketbal",
+      "Tennis",
+      "Voetbal",
+      "Hockey"
+    ],
+    "correct": 2,
+    "extra_info": "**Voetbal** is een wereldwijd populaire sport waarbij de bal voornamelijk met de voeten wordt gespeeld."
+  },
+  {
+    "id": 125,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het apparaat dat je gebruikt om foto's te maken?",
+    "options": [
+      "Radio",
+      "Telefoon",
+      "Camera",
+      "Computer"
+    ],
+    "correct": 2,
+    "extra_info": "Een **camera** is een apparaat dat wordt gebruikt om beelden vast te leggen."
+  },
+  {
+    "id": 126,
+    "theme": "algemene kennis",
+    "question": "Hoeveel jaar is een millennium?",
+    "options": [
+      "100",
+      "500",
+      "1000",
+      "10000"
+    ],
+    "correct": 2,
+    "extra_info": "Een **millennium** is een periode van 1000 jaar."
+  },
+  {
+    "id": 127,
+    "theme": "algemene kennis",
+    "question": "Welk dier leeft in de Noordpool en heeft grote slagtanden?",
+    "options": [
+      "IJsbeer",
+      "Walrus",
+      "Zeehond",
+      "Dolfijn"
+    ],
+    "correct": 1,
+    "extra_info": "De **walrus** is een Arctisch zeezoogdier dat bekend staat om zijn lange slagtanden."
+  },
+  {
+    "id": 128,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'moeilijk'?",
+    "options": [
+      "Sterk",
+      "Gemakkelijk",
+      "Groot",
+      "Klein"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van moeilijk is **gemakkelijk**."
+  },
+  {
+    "id": 129,
+    "theme": "algemene kennis",
+    "question": "Welke vrucht is rood en heeft kleine pitjes aan de buitenkant?",
+    "options": [
+      "Appel",
+      "Aardbei",
+      "Kers",
+      "Framboos"
+    ],
+    "correct": 1,
+    "extra_info": "De **aardbei** is een rode vrucht met kleine, zichtbare zaadjes aan de buitenkant."
+  },
+  {
+    "id": 130,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het instrument waarmee je een boom omzaagt?",
+    "options": [
+      "Hamer",
+      "Zaag",
+      "Schroevendraaier",
+      "Tang"
+    ],
+    "correct": 1,
+    "extra_info": "Een **zaag** is een gereedschap dat wordt gebruikt om hout te zagen."
+  },
+  {
+    "id": 131,
+    "theme": "algemene kennis",
+    "question": "Welk lichaamsdeel is het grootste orgaan van je lichaam?",
+    "options": [
+      "Hart",
+      "Longen",
+      "Lever",
+      "Huid"
+    ],
+    "correct": 3,
+    "extra_info": "De **huid** is het grootste orgaan van het menselijk lichaam en bedekt de gehele buitenkant."
+  },
+  {
+    "id": 132,
+    "theme": "algemene kennis",
+    "question": "Wat is de hoofdstad van China?",
+    "options": [
+      "Shanghai",
+      "Tokio",
+      "Beijing",
+      "Hongkong"
+    ],
+    "correct": 2,
+    "extra_info": "**Beijing** is de hoofdstad van China, bekend om zijn rijke geschiedenis en moderne ontwikkelingen."
+  },
+  {
+    "id": 133,
+    "theme": "algemene kennis",
+    "question": "Welke kleur krijg je als je wit en zwart mengt?",
+    "options": [
+      "Blauw",
+      "Bruin",
+      "Grijs",
+      "Paars"
+    ],
+    "correct": 2,
+    "extra_info": "Als je wit en zwart mengt, ontstaat de kleur **grijs**."
+  },
+  {
+    "id": 134,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een groot, grijs waterdier dat vaak met zijn snuit uit het water steekt en in Afrika leeft?",
+    "options": [
+      "Krokodil",
+      "Nijlpaard",
+      "Olifant",
+      "Walrus"
+    ],
+    "correct": 1,
+    "extra_info": "Het **nijlpaard** is een groot, semi-aquatisch zoogdier dat veel tijd doorbrengt in rivieren en meren in Afrika."
+  },
+  {
+    "id": 135,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het apparaat dat je gebruikt om schoon te maken met zuigkracht?",
+    "options": [
+      "Bezem",
+      "Stofzuiger",
+      "Dweil",
+      "Borstel"
+    ],
+    "correct": 1,
+    "extra_info": "Een **stofzuiger** is een huishoudelijk apparaat dat vuil en stof opzuigt."
+  },
+  {
+    "id": 136,
+    "theme": "algemene kennis",
+    "question": "Hoeveel hoeken heeft een driehoek?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": 1,
+    "extra_info": "Een **driehoek** is een geometrische vorm met drie hoeken en drie zijden."
+  },
+  {
+    "id": 137,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een reptiel en kan heel snel kruipen en heeft geen poten?",
+    "options": [
+      "Kikker",
+      "Slang",
+      "Hagedis",
+      "Schildpad"
+    ],
+    "correct": 1,
+    "extra_info": "Een **slang** is een reptiel zonder ledematen dat zich voortbeweegt door te kronkelen."
+  },
+  {
+    "id": 138,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'nat'?",
+    "options": [
+      "Koud",
+      "Warm",
+      "Droog",
+      "Schoon"
+    ],
+    "correct": 2,
+    "extra_info": "Het tegenovergestelde van nat is **droog**."
+  },
+  {
+    "id": 139,
+    "theme": "algemene kennis",
+    "question": "Welke vloeistof wordt gemaakt van appels en is lekker zoet?",
+    "options": [
+      "Melk",
+      "Water",
+      "Perensap",
+      "Appelsap"
+    ],
+    "correct": 3,
+    "extra_info": "**Appelsap** is een populaire drank gemaakt van geperste appels."
+  },
+  {
+    "id": 140,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het muziekinstrument met witte en zwarte toetsen waar je op drukt om geluid te maken?",
+    "options": [
+      "Gitaar",
+      "Drum",
+      "Piano",
+      "Viool"
+    ],
+    "correct": 2,
+    "extra_info": "Een **piano** is een toetsinstrument waarbij hamertjes op snaren slaan om geluid te produceren."
+  },
+  {
+    "id": 141,
+    "theme": "algemene kennis",
+    "question": "Welk lichaamsdeel beschermt je ogen?",
+    "options": [
+      "Wimpers",
+      "Wenkbrauwen",
+      "Oogleden",
+      "Neus"
+    ],
+    "correct": 2,
+    "extra_info": "Je **oogleden** beschermen je ogen tegen vuil en overmatig licht."
+  },
+  {
+    "id": 142,
+    "theme": "algemene kennis",
+    "question": "Wat is de hoofdstad van Japan?",
+    "options": [
+      "Seoul",
+      "Beijing",
+      "Tokio",
+      "Bangkok"
+    ],
+    "correct": 2,
+    "extra_info": "**Tokio** is de bruisende hoofdstad van Japan."
+  },
+  {
+    "id": 143,
+    "theme": "algemene kennis",
+    "question": "Welke kleur krijg je als je alle kleuren van de regenboog mengt (verf)?",
+    "options": [
+      "Wit",
+      "Grijs",
+      "Zwart",
+      "Bruin"
+    ],
+    "correct": 2,
+    "extra_info": "Door alle kleuren verf te mengen, krijg je vaak een donkere, modderige kleur die neigt naar **zwart** of bruin."
+  },
+  {
+    "id": 144,
+    "theme": "algemene kennis",
+    "question": "Welk dier leeft op de boerderij en geeft ons vlees en spek?",
+    "options": [
+      "Koe",
+      "Varken",
+      "Kip",
+      "Schaap"
+    ],
+    "correct": 1,
+    "extra_info": "Het **varken** wordt gehouden voor zijn vlees, waaronder spek."
+  },
+  {
+    "id": 145,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het apparaat dat je gebruikt om te luisteren naar muziek of radio-uitzendingen?",
+    "options": [
+      "Televisie",
+      "Radio",
+      "Telefoon",
+      "Computer"
+    ],
+    "correct": 1,
+    "extra_info": "Een **radio** is een apparaat om geluid, zoals muziek en spraak, draadloos te ontvangen."
+  },
+  {
+    "id": 146,
+    "theme": "algemene kennis",
+    "question": "Hoeveel poten heeft een octopus?",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "correct": 1,
+    "extra_info": "Een **octopus** heeft acht armen, die vaak tentakels worden genoemd."
+  },
+  {
+    "id": 147,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een groot roofdier en kan goed zwemmen en jaagt op vissen in koude gebieden?",
+    "options": [
+      "Leeuw",
+      "Beer",
+      "Wolf",
+      "IJsbeer"
+    ],
+    "correct": 3,
+    "extra_info": "De **ijsbeer** is een roofdier dat perfect is aangepast aan het leven in Arctische gebieden en uitstekend kan zwemmen."
+  },
+  {
+    "id": 148,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'binnen'?",
+    "options": [
+      "Naast",
+      "Buiten",
+      "Onder",
+      "Boven"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van binnen is **buiten**."
+  },
+  {
+    "id": 149,
+    "theme": "algemene kennis",
+    "question": "Welke vloeistof wordt gemaakt van gefermenteerde druiven en drinken volwassenen soms op feestjes?",
+    "options": [
+      "Water",
+      "Melk",
+      "Wijn",
+      "Sap"
+    ],
+    "correct": 2,
+    "extra_info": "**Wijn** is een alcoholische drank die wordt gemaakt door gefermenteerde druiven."
+  },
+  {
+    "id": 150,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het muziekinstrument dat je bespeelt door erop te blazen en het heeft vaak een lange schuif?",
+    "options": [
+      "Trompet",
+      "Klarinet",
+      "Trombone",
+      "Fluit"
+    ],
+    "correct": 2,
+    "extra_info": "Een **trombone** is een koperblaasinstrument dat een schuif gebruikt om de toonhoogte te veranderen."
+  },
+{
+    "id": 151,
+    "theme": "algemene kennis",
+    "question": "Welk lichaamsdeel is het hardste van je lichaam?",
+    "options": [
+      "Botten",
+      "Nagels",
+      "Tanden",
+      "Haren"
+    ],
+    "correct": 2,
+    "extra_info": "De **tanden**, en dan met name het glazuur, zijn het hardste materiaal in het menselijk lichaam."
+  },
+  {
+    "id": 152,
+    "theme": "algemene kennis",
+    "question": "Wat is de hoofdstad van Rusland?",
+    "options": [
+      "Sint-Petersburg",
+      "Kiev",
+      "Moskou",
+      "Warschau"
+    ],
+    "correct": 2,
+    "extra_info": "**Moskou** is de hoofdstad van Rusland en een van de grootste steden ter wereld."
+  },
+  {
+    "id": 153,
+    "theme": "algemene kennis",
+    "question": "Welke kleur krijg je als je blauw en rood mengt (verf)?",
+    "options": [
+      "Groen",
+      "Paars",
+      "Oranje",
+      "Geel"
+    ],
+    "correct": 1,
+    "extra_info": "Het mengen van de primaire kleuren blauw en rood levert de secundaire kleur **paars** op."
+  },
+  {
+    "id": 154,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een groot roofdier en de 'koning van de jungle'?",
+    "options": [
+      "Tijger",
+      "Leeuw",
+      "Wolf",
+      "Beer"
+    ],
+    "correct": 1,
+    "extra_info": "De **leeuw** staat bekend als de 'koning van de jungle', hoewel hij voornamelijk op de savanne leeft."
+  },
+  {
+    "id": 155,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het apparaat dat je gebruikt om te schrijven op een computer?",
+    "options": [
+      "Muis",
+      "Toetsenbord",
+      "Scherm",
+      "Printer"
+    ],
+    "correct": 1,
+    "extra_info": "Een **toetsenbord** wordt gebruikt om tekst en commando's in te voeren op een computer."
+  },
+  {
+    "id": 156,
+    "theme": "algemene kennis",
+    "question": "Hoeveel minuten zitten er in een half uur?",
+    "options": [
+      "15",
+      "30",
+      "45",
+      "60"
+    ],
+    "correct": 1,
+    "extra_info": "Een half uur is de helft van 60 minuten, dus **30 minuten**."
+  },
+  {
+    "id": 157,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een vogel en staat bekend om zijn vermogen om stil te hangen in de lucht door snel met zijn vleugels te slaan?",
+    "options": [
+      "Mus",
+      "Kolibrie",
+      "Duif",
+      "Meeuw"
+    ],
+    "correct": 1,
+    "extra_info": "De **kolibrie** is de enige vogel die zowel vooruit als achteruit kan vliegen en stil kan hangen."
+  },
+  {
+    "id": 158,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'snel'?",
+    "options": [
+      "Hard",
+      "Langzaam",
+      "Kort",
+      "Zacht"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van snel is **langzaam**."
+  },
+  {
+    "id": 159,
+    "theme": "algemene kennis",
+    "question": "Welke vloeistof wordt gemaakt van appels en is lekker zoet?",
+    "options": [
+      "Melk",
+      "Water",
+      "Perensap",
+      "Appelsap"
+    ],
+    "correct": 3,
+    "extra_info": "**Appelsap** is een populaire en zoete drank, gemaakt van appels."
+  },
+  {
+    "id": 160,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het muziekinstrument met witte en zwarte toetsen waar je op drukt om geluid te maken?",
+    "options": [
+      "Gitaar",
+      "Drum",
+      "Piano",
+      "Viool"
+    ],
+    "correct": 2,
+    "extra_info": "Een **piano** is een toetsinstrument waarbij hamertjes op snaren slaan om geluid te produceren."
+  },
+  {
+    "id": 161,
+    "theme": "algemene kennis",
+    "question": "Welk lichaamsdeel is het meest flexibel van je lichaam?",
+    "options": [
+      "Botten",
+      "Haren",
+      "Tong",
+      "Tanden"
+    ],
+    "correct": 2,
+    "extra_info": "De **tong** is een zeer flexibele spier die helpt bij spreken, proeven en slikken."
+  },
+  {
+    "id": 162,
+    "theme": "algemene kennis",
+    "question": "Wat is de hoofdstad van Canada?",
+    "options": [
+      "Toronto",
+      "Vancouver",
+      "Montreal",
+      "Ottawa"
+    ],
+    "correct": 3,
+    "extra_info": "**Ottawa** is de hoofdstad van Canada, gelegen in de provincie Ontario."
+  },
+  {
+    "id": 163,
+    "theme": "algemene kennis",
+    "question": "Welke kleur krijg je als je alle kleuren van de regenboog mengt (licht)?",
+    "options": [
+      "Zwart",
+      "Grijs",
+      "Wit",
+      "Bruin"
+    ],
+    "correct": 2,
+    "extra_info": "Als alle kleuren van het licht (zoals in een regenboog) worden gemengd, ontstaat **wit** licht."
+  },
+  {
+    "id": 164,
+    "theme": "algemene kennis",
+    "question": "Welk dier leeft in Afrika en staat bekend als het snelste landdier ter wereld?",
+    "options": [
+      "Leeuw",
+      "Tijger",
+      "Cheetah",
+      "Zebra"
+    ],
+    "correct": 2,
+    "extra_info": "De **cheetah** (of jachtluipaard) kan snelheden tot wel 110 kilometer per uur bereiken."
+  },
+  {
+    "id": 165,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het apparaat dat je gebruikt om schoon te maken met zuigkracht en een slang?",
+    "options": [
+      "Bezem",
+      "Stofzuiger",
+      "Dweil",
+      "Spons"
+    ],
+    "correct": 1,
+    "extra_info": "Een **stofzuiger** is een elektrisch apparaat dat stof en vuil opzuigt."
+  },
+  {
+    "id": 166,
+    "theme": "algemene kennis",
+    "question": "Hoeveel zijden heeft een achthoek?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correct": 2,
+    "extra_info": "Een **achthoek** (octagoon) is een veelhoek met acht zijden."
+  },
+  {
+    "id": 167,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een amfibie en heeft een gladde, vochtige huid?",
+    "options": [
+      "Kikker",
+      "Slang",
+      "Vis",
+      "Schildpad"
+    ],
+    "correct": 0,
+    "extra_info": "Een **kikker** is een amfibie, wat betekent dat hij zowel in het water als op het land leeft, en heeft een gladde huid."
+  },
+  {
+    "id": 168,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'hard' (als in moeilijk)?",
+    "options": [
+      "Sterk",
+      "Gemakkelijk",
+      "Groot",
+      "Klein"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van hard (als in moeilijk) is **gemakkelijk**."
+  },
+  {
+    "id": 169,
+    "theme": "algemene kennis",
+    "question": "Welke vrucht is geel en heeft een kromme vorm?",
+    "options": [
+      "Appel",
+      "Peer",
+      "Banaan",
+      "Sinaasappel"
+    ],
+    "correct": 2,
+    "extra_info": "Een **banaan** is een tropische vrucht die bekend staat om zijn gele kleur en kromme vorm."
+  },
+  {
+    "id": 170,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het instrument waarmee je de tijd afleest op je pols?",
+    "options": [
+      "Klok",
+      "Thermometer",
+      "Horloge",
+      "Kompas"
+    ],
+    "correct": 2,
+    "extra_info": "Een **horloge** is een klein uurwerk dat je om je pols draagt om de tijd af te lezen."
+  },
+  {
+    "id": 171,
+    "theme": "algemene kennis",
+    "question": "Welk lichaamsdeel is het orgaan waarmee je ruikt?",
+    "options": [
+      "Ogen",
+      "Neus",
+      "Oren",
+      "Mond"
+    ],
+    "correct": 1,
+    "extra_info": "De **neus** is het orgaan dat geuren kan waarnemen."
+  },
+  {
+    "id": 172,
+    "theme": "algemene kennis",
+    "question": "Wat is de hoofdstad van Italië?",
+    "options": [
+      "Parijs",
+      "Berlijn",
+      "Rome",
+      "Madrid"
+    ],
+    "correct": 2,
+    "extra_info": "**Rome** is de hoofdstad van Italië en staat bekend om zijn rijke geschiedenis."
+  },
+  {
+    "id": 173,
+    "theme": "algemene kennis",
+    "question": "Welke kleur krijg je als je de kleuren rood en groen mengt (licht)?",
+    "options": [
+      "Geel",
+      "Magenta",
+      "Cyaan",
+      "Wit"
+    ],
+    "correct": 0,
+    "extra_info": "Als je de primaire lichtkleuren rood en groen mengt, ontstaat **geel** licht."
+  },
+  {
+    "id": 174,
+    "theme": "algemene kennis",
+    "question": "Welk dier leeft in de woestijn en heeft een schild op zijn rug?",
+    "options": [
+      "Kameel",
+      "Slang",
+      "Schildpad",
+      "Hagedis"
+    ],
+    "correct": 2,
+    "extra_info": "Sommige soorten **schildpadden** leven in woestijngebieden en hebben een hard schild ter bescherming."
+  },
+  {
+    "id": 175,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het apparaat dat je gebruikt om schoon te maken met water en zeep?",
+    "options": [
+      "Bezem",
+      "Stofzuiger",
+      "Dweil",
+      "Spons"
+    ],
+    "correct": 2,
+    "extra_info": "Een **dweil** wordt gebruikt om vloeren nat schoon te maken, vaak met water en zeep."
+  },
+  {
+    "id": 176,
+    "theme": "algemene kennis",
+    "question": "Hoeveel poten heeft een spin?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "correct": 2,
+    "extra_info": "Spinnen behoren tot de arachniden en hebben **acht poten**."
+  },
+  {
+    "id": 177,
+    "theme": "algemene kennis",
+    "question": "Welk dier heeft een lange nek en eet bladeren van hoge bomen?",
+    "options": [
+      "Olifant",
+      "Zebra",
+      "Giraffe",
+      "Kameel"
+    ],
+    "correct": 2,
+    "extra_info": "De **giraffe** is het hoogste landdier en kan dankzij zijn lange nek gemakkelijk bladeren van bomen eten."
+  },
+  {
+    "id": 178,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'binnen'?",
+    "options": [
+      "Naast",
+      "Buiten",
+      "Onder",
+      "Boven"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van binnen is **buiten**."
+  },
+  {
+    "id": 179,
+    "theme": "algemene kennis",
+    "question": "Welke vloeistof wordt gemaakt van gefermenteerde druiven en drinken volwassenen soms bij het eten?",
+    "options": [
+      "Water",
+      "Melk",
+      "Wijn",
+      "Sap"
+    ],
+    "correct": 2,
+    "extra_info": "**Wijn** is een alcoholische drank die wordt gemaakt van gefermenteerde druiven."
+  },
+  {
+    "id": 180,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het muziekinstrument dat je bespeelt door te trommelen?",
+    "options": [
+      "Gitaar",
+      "Piano",
+      "Drum",
+      "Viool"
+    ],
+    "correct": 2,
+    "extra_info": "Een **drum** is een percussie-instrument dat wordt bespeeld door erop te slaan met stokken of handen."
+  },
+  {
+    "id": 181,
+    "theme": "algemene kennis",
+    "question": "Welk lichaamsdeel is de 'motor' van je lichaam, die je helpt te ademen?",
+    "options": [
+      "Hart",
+      "Longen",
+      "Lever",
+      "Maag"
+    ],
+    "correct": 1,
+    "extra_info": "De **longen** zijn de organen die verantwoordelijk zijn voor de ademhaling en zuurstof opnemen."
+  },
+  {
+    "id": 182,
+    "theme": "algemene kennis",
+    "question": "Wat is de hoofdstad van Australië?",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Perth"
+    ],
+    "correct": 2,
+    "extra_info": "**Canberra** is de hoofdstad van Australië, niet Sydney of Melbourne."
+  },
+  {
+    "id": 183,
+    "theme": "algemene kennis",
+    "question": "Welke kleur krijg je als je wit en zwart mengt?",
+    "options": [
+      "Blauw",
+      "Bruin",
+      "Grijs",
+      "Paars"
+    ],
+    "correct": 2,
+    "extra_info": "Het mengen van wit en zwart resulteert in de kleur **grijs**."
+  },
+  {
+    "id": 184,
+    "theme": "algemene kennis",
+    "question": "Welk dier leeft op de boerderij en geeft ons wol?",
+    "options": [
+      "Koe",
+      "Varken",
+      "Kip",
+      "Schaap"
+    ],
+    "correct": 3,
+    "extra_info": "Een **schaap** wordt gehouden voor zijn wol, die wordt gebruikt om kleding te maken."
+  },
+  {
+    "id": 185,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het apparaat dat je gebruikt om te tekenen met een computermuis?",
+    "options": [
+      "Toetsenbord",
+      "Scherm",
+      "Grafisch tablet",
+      "Printer"
+    ],
+    "correct": 2,
+    "extra_info": "Een **grafisch tablet** of tekentablet wordt vaak gebruikt om digitaal te tekenen met een speciale pen."
+  },
+  {
+    "id": 186,
+    "theme": "algemene kennis",
+    "question": "Hoeveel zijden heeft een vijfhoek?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 2,
+    "extra_info": "Een **vijfhoek** (pentagoon) is een veelhoek met vijf zijden."
+  },
+  {
+    "id": 187,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een amfibie en heeft een lange, kleverige tong om insecten te vangen?",
+    "options": [
+      "Kikker",
+      "Slang",
+      "Hagedis",
+      "Schildpad"
+    ],
+    "correct": 0,
+    "extra_info": "Een **kikker** heeft een lange, snelle, kleverige tong waarmee hij insecten vangt."
+  },
+  {
+    "id": 188,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'leeg'?",
+    "options": [
+      "Groot",
+      "Vol",
+      "Dicht",
+      "Open"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van leeg is **vol**."
+  },
+  {
+    "id": 189,
+    "theme": "algemene kennis",
+    "question": "Welke vloeistof wordt gemaakt van sinaasappels en is oranje van kleur?",
+    "options": [
+      "Water",
+      "Melk",
+      "Appelsap",
+      "Sinaasappelsap"
+    ],
+    "correct": 3,
+    "extra_info": "**Sinaasappelsap** is een populaire drank gemaakt van geperste sinaasappels."
+  },
+  {
+    "id": 190,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het muziekinstrument dat je bespeelt door snaren te tokkelen en vaak staand wordt gebruikt in orkesten?",
+    "options": [
+      "Gitaar",
+      "Piano",
+      "Viool",
+      "Contrabas"
+    ],
+    "correct": 3,
+    "extra_info": "De **contrabas** is het grootste en laagst klinkende snaarinstrument in een orkest en wordt staand bespeeld."
+  },
+  {
+    "id": 191,
+    "theme": "algemene kennis",
+    "question": "Welk lichaamsdeel is het grootste van de mens?",
+    "options": [
+      "Hart",
+      "Longen",
+      "Hersenen",
+      "Huid"
+    ],
+    "correct": 3,
+    "extra_info": "De **huid** is het grootste orgaan van het menselijk lichaam, zowel qua oppervlakte als gewicht."
+  },
+  {
+    "id": 192,
+    "theme": "algemene kennis",
+    "question": "Wat is de hoofdstad van Duitsland?",
+    "options": [
+      "Parijs",
+      "Londen",
+      "Berlijn",
+      "Rome"
+    ],
+    "correct": 2,
+    "extra_info": "**Berlijn** is de hoofdstad van Duitsland en een stad met veel geschiedenis."
+  },
+  {
+    "id": 193,
+    "theme": "algemene kennis",
+    "question": "Welke kleur krijg je als je geel en rood mengt (verf)?",
+    "options": [
+      "Groen",
+      "Paars",
+      "Oranje",
+      "Blauw"
+    ],
+    "correct": 2,
+    "extra_info": "Het mengen van de primaire kleuren geel en rood levert de secundaire kleur **oranje** op."
+  },
+  {
+    "id": 194,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een groot, wit roofdier dat in de koude, besneeuwde gebieden leeft?",
+    "options": [
+      "Leeuw",
+      "Tijger",
+      "IJsbeer",
+      "Panda"
+    ],
+    "correct": 2,
+    "extra_info": "De **ijsbeer** is perfect aangepast aan het leven in het Arctische gebied en is een uitstekende jager."
+  },
+  {
+    "id": 195,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het apparaat dat je gebruikt om te navigeren en de weg te vinden?",
+    "options": [
+      "Klok",
+      "Lineaal",
+      "Kompas",
+      "Thermometer"
+    ],
+    "correct": 2,
+    "extra_info": "Een **kompas** wijst altijd naar het noorden en helpt je om je weg te vinden."
+  },
+  {
+    "id": 196,
+    "theme": "algemene kennis",
+    "question": "Hoeveel seconden zitten er in een kwartier?",
+    "options": [
+      "15",
+      "60",
+      "900",
+      "1800"
+    ],
+    "correct": 2,
+    "extra_info": "Een kwartier is 15 minuten, en 15 minuten * 60 seconden = **900 seconden**."
+  },
+  {
+    "id": 197,
+    "theme": "algemene kennis",
+    "question": "Welk dier leeft in de bergen en heeft grote, gekromde hoorns?",
+    "options": [
+      "Paard",
+      "Geit",
+      "Schaap",
+      "Steenbok"
+    ],
+    "correct": 3,
+    "extra_info": "De **steenbok** is een berggeit die bekend staat om zijn indrukwekkende, gekromde hoorns."
+  },
+  {
+    "id": 198,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'jong'?",
+    "options": [
+      "Nieuw",
+      "Oud",
+      "Klein",
+      "Groot"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van jong is **oud** (in leeftijd)."
+  },
+  {
+    "id": 199,
+    "theme": "algemene kennis",
+    "question": "Welke vloeistof drinken we bij het ontbijt en komt van koeien?",
+    "options": [
+      "Water",
+      "Sap",
+      "Melk",
+      "Thee"
+    ],
+    "correct": 2,
+    "extra_info": "**Melk** is een voedzame drank die vaak bij het ontbijt wordt gedronken en afkomstig is van koeien."
+  },
+  {
+    "id": 200,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het muziekinstrument dat je bespeelt door erop te blazen en het heeft een rietje?",
+    "options": [
+      "Trompet",
+      "Klarinet",
+      "Trombone",
+      "Fluit"
+    ],
+    "correct": 1,
+    "extra_info": "Een **klarinet** is een blaasinstrument dat geluid produceert met behulp van een enkel riet."
+  },
+{
+    "id": 201,
+    "theme": "algemene kennis",
+    "question": "Welk lichaamsdeel is het orgaan waarmee je geluiden hoort?",
+    "options": [
+      "Oog",
+      "Neus",
+      "Oor",
+      "Mond"
+    ],
+    "correct": 2,
+    "extra_info": "Je **oren** zijn de organen die geluidstrillingen opvangen en naar je hersenen sturen."
+  },
+  {
+    "id": 202,
+    "theme": "algemene kennis",
+    "question": "Wat is de hoofdstad van India?",
+    "options": [
+      "Mumbai",
+      "Calcutta",
+      "New Delhi",
+      "Bangalore"
+    ],
+    "correct": 2,
+    "extra_info": "**New Delhi** is de hoofdstad van India, een land in Zuid-Azië."
+  },
+  {
+    "id": 203,
+    "theme": "algemene kennis",
+    "question": "Welke kleur krijg je als je alle kleuren van de regenboog mengt (verf)?",
+    "options": [
+      "Wit",
+      "Grijs",
+      "Zwart",
+      "Bruin"
+    ],
+    "correct": 2,
+    "extra_info": "Als je alle basiskleuren van verf mengt, krijg je een donkere, vaak **zwarte** of bruinachtige kleur (subtractieve kleurmenging)."
+  },
+  {
+    "id": 204,
+    "theme": "algemene kennis",
+    "question": "Welk dier leeft in de zee en heeft tentakels met zuignappen?",
+    "options": [
+      "Vis",
+      "Kwal",
+      "Inktvis",
+      "Dolfijn"
+    ],
+    "correct": 2,
+    "extra_info": "Een **inktvis** is een weekdier dat bekend staat om zijn acht armen of tentakels met zuignappen."
+  },
+  {
+    "id": 205,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het apparaat dat je gebruikt om schoon te maken met zuigkracht en een draad?",
+    "options": [
+      "Bezem",
+      "Stofzuiger",
+      "Dweil",
+      "Spons"
+    ],
+    "correct": 1,
+    "extra_info": "Een **stofzuiger** is een elektrisch apparaat dat stof en vuil opzuigt en vaak een snoer heeft."
+  },
+  {
+    "id": 206,
+    "theme": "algemene kennis",
+    "question": "Hoeveel hoeken heeft een vierkant?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 1,
+    "extra_info": "Een **vierkant** is een meetkundige vorm met vier gelijke zijden en vier rechte hoeken."
+  },
+  {
+    "id": 207,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een amfibie en kan van kikkerbilletje naar volwassen kikker veranderen?",
+    "options": [
+      "Vis",
+      "Kikker",
+      "Slang",
+      "Vogel"
+    ],
+    "correct": 1,
+    "extra_info": "Een **kikker** maakt een metamorfose door van een kikkervisje (larve) naar een volwassen amfibie."
+  },
+  {
+    "id": 208,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'slecht'?",
+    "options": [
+      "Vies",
+      "Mooi",
+      "Goed",
+      "Groot"
+    ],
+    "correct": 2,
+    "extra_info": "Het tegenovergestelde van slecht is **goed**."
+  },
+  {
+    "id": 209,
+    "theme": "algemene kennis",
+    "question": "Welke vrucht is rood en groeit aan een boom, vaak geplukt in het najaar?",
+    "options": [
+      "Banaan",
+      "Sinaasappel",
+      "Appel",
+      "Aardbei"
+    ],
+    "correct": 2,
+    "extra_info": "Een **appel** is een veelvoorkomende vrucht die aan een boom groeit en in de herfst rijp is."
+  },
+  {
+    "id": 210,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het instrument waarmee je een nagel in hout slaat?",
+    "options": [
+      "Zaag",
+      "Schroevendraaier",
+      "Hamer",
+      "Tang"
+    ],
+    "correct": 2,
+    "extra_info": "Een **hamer** wordt gebruikt om spijkers of nagels in materialen te slaan."
+  },
+  {
+    "id": 211,
+    "theme": "algemene kennis",
+    "question": "Welk lichaamsdeel is het orgaan waarmee je de wereld ziet?",
+    "options": [
+      "Neus",
+      "Oor",
+      "Oog",
+      "Mond"
+    ],
+    "correct": 2,
+    "extra_info": "Je **ogen** zijn de zintuigen die licht waarnemen en beelden naar je hersenen sturen."
+  },
+  {
+    "id": 212,
+    "theme": "algemene kennis",
+    "question": "Wat is de hoofdstad van Egypte?",
+    "options": [
+      "Alexandrië",
+      "Luxor",
+      "Caïro",
+      "Gizeh"
+    ],
+    "correct": 2,
+    "extra_info": "**Caïro** is de hoofdstad van Egypte en de grootste stad van Afrika."
+  },
+  {
+    "id": 213,
+    "theme": "algemene kennis",
+    "question": "Welke kleur krijg je als je alle kleuren van de regenboog mengt (licht)?",
+    "options": [
+      "Zwart",
+      "Grijs",
+      "Wit",
+      "Bruin"
+    ],
+    "correct": 2,
+    "extra_info": "Als alle kleuren van het licht (rood, oranje, geel, groen, blauw, indigo, violet) samenkomen, vormen ze **wit** licht."
+  },
+  {
+    "id": 214,
+    "theme": "algemene kennis",
+    "question": "Welk dier leeft in de jungle en is bekend om zijn scherpe klauwen en brul?",
+    "options": [
+      "Leeuw",
+      "Tijger",
+      "Beer",
+      "Wolf"
+    ],
+    "correct": 1,
+    "extra_info": "De **tijger** is een groot en krachtig roofdier dat voornamelijk in de Aziatische jungles leeft en een luide brul heeft."
+  },
+  {
+    "id": 215,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het apparaat dat je gebruikt om te koken door middel van warmte?",
+    "options": [
+      "Koelkast",
+      "Wasmachine",
+      "Fornuis",
+      "Afwasmachine"
+    ],
+    "correct": 2,
+    "extra_info": "Een **fornuis** (of kookplaat) is een apparaat dat warmte gebruikt om voedsel te bereiden."
+  },
+  {
+    "id": 216,
+    "theme": "algemene kennis",
+    "question": "Hoeveel jaar duurt een schrikkeljaar?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "extra_info": "Een **schrikkeljaar** duurt één jaar, maar heeft 366 dagen in plaats van 365. Het komt eens in de vier jaar voor."
+  },
+  {
+    "id": 217,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een groot, wit roofdier dat in de koude, besneeuwde gebieden leeft?",
+    "options": [
+      "Leeuw",
+      "Tijger",
+      "IJsbeer",
+      "Panda"
+    ],
+    "correct": 2,
+    "extra_info": "De **ijsbeer** is perfect aangepast aan het leven in de Arctische gebieden, met zijn dikke vacht en vermogen om te jagen op zeehonden."
+  },
+  {
+    "id": 218,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'licht' (als in gewicht)?",
+    "options": [
+      "Donker",
+      "Zwaar",
+      "Klein",
+      "Groot"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van licht (qua gewicht) is **zwaar**."
+  },
+  {
+    "id": 219,
+    "theme": "algemene kennis",
+    "question": "Welke vloeistof wordt gemaakt van druiven en is paars of rood?",
+    "options": [
+      "Water",
+      "Melk",
+      "Druivensap",
+      "Appelsap"
+    ],
+    "correct": 2,
+    "extra_info": "**Druivensap** is een zoete drank die wordt gemaakt door druiven te persen."
+  },
+  {
+    "id": 220,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het muziekinstrument dat je bespeelt door snaren aan te slaan met een plectrum of vingers?",
+    "options": [
+      "Piano",
+      "Drum",
+      "Gitaar",
+      "Viool"
+    ],
+    "correct": 2,
+    "extra_info": "Een **gitaar** is een snaarinstrument dat wordt bespeeld door de snaren te tokkelen of te slaan."
+  },
+  {
+    "id": 221,
+    "theme": "algemene kennis",
+    "question": "Welk lichaamsdeel is het orgaan waarmee je denkt en leert?",
+    "options": [
+      "Hart",
+      "Longen",
+      "Hersenen",
+      "Maag"
+    ],
+    "correct": 2,
+    "extra_info": "De **hersenen** zijn het controlecentrum van het lichaam en zijn verantwoordelijk voor denken, leren en geheugen."
+  },
+  {
+    "id": 222,
+    "theme": "algemene kennis",
+    "question": "Wat is de hoofdstad van Brazilië?",
+    "options": [
+      "Rio de Janeiro",
+      "São Paulo",
+      "Brasilia",
+      "Buenos Aires"
+    ],
+    "correct": 2,
+    "extra_info": "**Brasilia** is de hoofdstad van Brazilië, bekend om zijn moderne architectuur."
+  },
+  {
+    "id": 223,
+    "theme": "algemene kennis",
+    "question": "Welke kleur krijg je als je alle kleuren van de regenboog mengt (verf)?",
+    "options": [
+      "Wit",
+      "Grijs",
+      "Zwart",
+      "Bruin"
+    ],
+    "correct": 2,
+    "extra_info": "Als je alle basiskleuren van verf mengt, krijg je een donkere, vaak **zwarte** of bruinachtige kleur."
+  },
+  {
+    "id": 224,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een groot, geel en gestreept roofdier dat in de jungle leeft?",
+    "options": [
+      "Leeuw",
+      "Tijger",
+      "Zebra",
+      "Giraffe"
+    ],
+    "correct": 1,
+    "extra_info": "De **tijger** is een indrukwekkende katachtige met een gestreepte vacht, die vaak in Aziatische jungles te vinden is."
+  },
+  {
+    "id": 225,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het apparaat dat je gebruikt om te telefoneren?",
+    "options": [
+      "Radio",
+      "Televisie",
+      "Telefoon",
+      "Computer"
+    ],
+    "correct": 2,
+    "extra_info": "Een **telefoon** is een apparaat waarmee je kunt bellen en berichten kunt versturen."
+  },
+  {
+    "id": 226,
+    "theme": "algemene kennis",
+    "question": "Hoeveel kanten heeft een zeshoek?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correct": 2,
+    "extra_info": "Een **zeshoek** (hexagoon) is een veelhoek met zes zijden."
+  },
+  {
+    "id": 227,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een amfibie en heeft een lange, dunne tong om insecten te vangen?",
+    "options": [
+      "Kikker",
+      "Slang",
+      "Hagedis",
+      "Schildpad"
+    ],
+    "correct": 0,
+    "extra_info": "Een **kikker** staat bekend om zijn snelle, kleverige tong om insecten te vangen."
+  },
+  {
+    "id": 228,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'droog'?",
+    "options": [
+      "Koud",
+      "Warm",
+      "Nat",
+      "Schoon"
+    ],
+    "correct": 2,
+    "extra_info": "Het tegenovergestelde van droog is **nat**."
+  },
+  {
+    "id": 229,
+    "theme": "algemene kennis",
+    "question": "Welke vloeistof wordt gemaakt van appels en is lekker zoet?",
+    "options": [
+      "Melk",
+      "Water",
+      "Perensap",
+      "Appelsap"
+    ],
+    "correct": 3,
+    "extra_info": "**Appelsap** is een populaire drank, gemaakt van geperste appels."
+  },
+  {
+    "id": 230,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het muziekinstrument met witte en zwarte toetsen waar je op drukt om geluid te maken?",
+    "options": [
+      "Gitaar",
+      "Drum",
+      "Piano",
+      "Viool"
+    ],
+    "correct": 2,
+    "extra_info": "Een **piano** is een toetsinstrument waarbij hamertjes op snaren slaan om geluid te produceren."
+  },
+  {
+    "id": 231,
+    "theme": "algemene kennis",
+    "question": "Welk lichaamsdeel is het orgaan waarmee je ademt?",
+    "options": [
+      "Hart",
+      "Longen",
+      "Lever",
+      "Maag"
+    ],
+    "correct": 1,
+    "extra_info": "De **longen** zijn de belangrijkste organen voor ademhaling en gasuitwisseling."
+  },
+  {
+    "id": 232,
+    "theme": "algemene kennis",
+    "question": "Wat is de hoofdstad van Egypte?",
+    "options": [
+      "Alexandrië",
+      "Luxor",
+      "Caïro",
+      "Gizeh"
+    ],
+    "correct": 2,
+    "extra_info": "**Caïro** is de bruisende hoofdstad van Egypte."
+  },
+  {
+    "id": 233,
+    "theme": "algemene kennis",
+    "question": "Welke kleur krijg je als je blauw en geel mengt (verf)?",
+    "options": [
+      "Rood",
+      "Paars",
+      "Groen",
+      "Oranje"
+    ],
+    "correct": 2,
+    "extra_info": "Het mengen van de primaire kleuren blauw en geel levert de secundaire kleur **groen** op."
+  },
+  {
+    "id": 234,
+    "theme": "algemene kennis",
+    "question": "Welk dier leeft op de boerderij en geeft ons melk?",
+    "options": [
+      "Varken",
+      "Schaap",
+      "Kip",
+      "Koe"
+    ],
+    "correct": 3,
+    "extra_info": "Een **koe** is een boerderijdier dat melk produceert, die wordt gebruikt voor diverse zuivelproducten."
+  },
+  {
+    "id": 235,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het apparaat dat je gebruikt om te schrijven op papier met inkt?",
+    "options": [
+      "Potlood",
+      "Krijt",
+      "Pen",
+      "Marker"
+    ],
+    "correct": 2,
+    "extra_info": "Een **pen** is een schrijfgereedschap dat inkt gebruikt om op papier te schrijven."
+  },
+  {
+    "id": 236,
+    "theme": "algemene kennis",
+    "question": "Hoeveel jaar duurt een lustrum?",
+    "options": [
+      "1",
+      "5",
+      "10",
+      "25"
+    ],
+    "correct": 1,
+    "extra_info": "Een **lustrum** is een periode van vijf jaar."
+  },
+  {
+    "id": 237,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een groot roofdier en de 'koning van de jungle'?",
+    "options": [
+      "Tijger",
+      "Leeuw",
+      "Wolf",
+      "Beer"
+    ],
+    "correct": 1,
+    "extra_info": "De **leeuw** staat symbool als de 'koning van de jungle' vanwege zijn kracht en majestueuze uitstraling."
+  },
+  {
+    "id": 238,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'arm' (als in 'rijk')?",
+    "options": [
+      "Slecht",
+      "Rijk",
+      "Klein",
+      "Groot"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van arm (qua bezit) is **rijk**."
+  },
+  {
+    "id": 239,
+    "theme": "algemene kennis",
+    "question": "Welke vloeistof wordt gemaakt door bijen en is zoet?",
+    "options": [
+      "Water",
+      "Melk",
+      "Honing",
+      "Sap"
+    ],
+    "correct": 2,
+    "extra_info": "**Honing** is een natuurlijke zoetstof die door bijen wordt geproduceerd."
+  },
+  {
+    "id": 240,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het muziekinstrument dat je bespeelt door snaren te strijken met een strijkstok?",
+    "options": [
+      "Gitaar",
+      "Piano",
+      "Drum",
+      "Viool"
+    ],
+    "correct": 3,
+    "extra_info": "Een **viool** is een snaarinstrument dat wordt bespeeld met een strijkstok."
+  },
+  {
+    "id": 241,
+    "theme": "algemene kennis",
+    "question": "Welk lichaamsdeel is het orgaan waarmee je voedsel verteert?",
+    "options": [
+      "Hart",
+      "Longen",
+      "Maag",
+      "Hersenen"
+    ],
+    "correct": 2,
+    "extra_info": "De **maag** is een belangrijk orgaan in het spijsverteringsstelsel waar voedsel wordt afgebroken."
+  },
+  {
+    "id": 242,
+    "theme": "algemene kennis",
+    "question": "Wat is de hoofdstad van Zweden?",
+    "options": [
+      "Oslo",
+      "Kopenhagen",
+      "Helsinki",
+      "Stockholm"
+    ],
+    "correct": 3,
+    "extra_info": "**Stockholm** is de hoofdstad van Zweden en is gebouwd op 14 eilanden."
+  },
+  {
+    "id": 243,
+    "theme": "algemene kennis",
+    "question": "Welke kleur krijg je als je alle kleuren van het licht mengt?",
+    "options": [
+      "Zwart",
+      "Grijs",
+      "Wit",
+      "Bruin"
+    ],
+    "correct": 2,
+    "extra_info": "Als alle kleuren van het spectrum van licht samenkomen, vormen ze **wit** licht."
+  },
+  {
+    "id": 244,
+    "theme": "algemene kennis",
+    "question": "Welk dier leeft in de woestijn en heeft bulten op zijn rug om water en vet op te slaan?",
+    "options": [
+      "Leeuw",
+      "Kameel",
+      "Zebra",
+      "Giraffe"
+    ],
+    "correct": 1,
+    "extra_info": "De **kameel** kan dagenlang zonder water overleven dankzij de reserves in zijn bulten."
+  },
+  {
+    "id": 245,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het apparaat dat je gebruikt om te schrijven met potlood?",
+    "options": [
+      "Pen",
+      "Krijt",
+      "Potlood",
+      "Marker"
+    ],
+    "correct": 2,
+    "extra_info": "Een **potlood** is een schrijfgereedschap met grafiet, ideaal om mee te schetsen en te wissen."
+  },
+  {
+    "id": 246,
+    "theme": "algemene kennis",
+    "question": "Hoeveel minuten zitten er in een uur?",
+    "options": [
+      "30",
+      "60",
+      "90",
+      "120"
+    ],
+    "correct": 1,
+    "extra_info": "Eén uur is gelijk aan **60 minuten**."
+  },
+  {
+    "id": 247,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een groot, grijs waterdier dat vaak met zijn snuit uit het water steekt en in Afrika leeft?",
+    "options": [
+      "Krokodil",
+      "Nijlpaard",
+      "Olifant",
+      "Walrus"
+    ],
+    "correct": 1,
+    "extra_info": "Het **nijlpaard** is een groot, semi-aquatisch zoogdier dat veel tijd in het water doorbrengt."
+  },
+  {
+    "id": 248,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'leeg'?",
+    "options": [
+      "Groot",
+      "Vol",
+      "Dicht",
+      "Open"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van leeg is **vol**."
+  },
+  {
+    "id": 249,
+    "theme": "algemene kennis",
+    "question": "Welke vloeistof wordt gemaakt van appels en is lekker zoet?",
+    "options": [
+      "Melk",
+      "Water",
+      "Perensap",
+      "Appelsap"
+    ],
+    "correct": 3,
+    "extra_info": "**Appelsap** is een populaire drank, gemaakt van geperste appels."
+  },
+  {
+    "id": 250,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het muziekinstrument dat je bespeelt door erop te blazen en het heeft vaak een klep en ventielen?",
+    "options": [
+      "Klarinet",
+      "Fluit",
+      "Trompet",
+      "Trombone"
+    ],
+    "correct": 2,
+    "extra_info": "Een **trompet** is een koperblaasinstrument met ventielen die worden ingedrukt om de toonhoogte te veranderen."
+  },
+{
+    "id": 251,
+    "theme": "algemene kennis",
+    "question": "Welk gas ademen planten in om te groeien?",
+    "options": [
+      "Zuurstof",
+      "Stikstof",
+      "Koolstofdioxide",
+      "Waterstof"
+    ],
+    "correct": 2,
+    "extra_info": "Planten gebruiken **koolstofdioxide** uit de lucht voor fotosynthese, het proces waarbij ze hun eigen voedsel maken met behulp van zonlicht."
+  },
+  {
+    "id": 252,
+    "theme": "algemene kennis",
+    "question": "Wat is de hoofdstad van Zuid-Afrika?",
+    "options": [
+      "Kaapstad",
+      "Johannesburg",
+      "Pretoria",
+      "Durban"
+    ],
+    "correct": 2,
+    "extra_info": "Zuid-Afrika heeft drie hoofdsteden: **Pretoria** (uitvoerend), Kaapstad (wetgevend) en Bloemfontein (rechterlijk). De meest algemeen bekende administratieve hoofdstad is Pretoria."
+  },
+  {
+    "id": 253,
+    "theme": "algemene kennis",
+    "question": "Welke kleur krijg je als je de primaire kleuren geel en magenta mengt (licht)?",
+    "options": [
+      "Groen",
+      "Blauw",
+      "Rood",
+      "Wit"
+    ],
+    "correct": 2,
+    "extra_info": "Bij additieve kleurmenging (licht) vormen **geel en magenta samen rood**."
+  },
+  {
+    "id": 254,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een zoogdier, leeft in Australië en draagt zijn jongen in een buidel?",
+    "options": [
+      "Koala",
+      "Kangoeroe",
+      "Echidna",
+      "Platypus"
+    ],
+    "correct": 1,
+    "extra_info": "De **kangoeroe** is een iconisch Australisch buideldier dat zijn jongen in een buidel draagt."
+  },
+  {
+    "id": 255,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het apparaat dat je gebruikt om te communiceren over lange afstanden via internet, met beeld en geluid?",
+    "options": [
+      "Radio",
+      "Televisie",
+      "Videobellen-apparaat",
+      "Telefoon"
+    ],
+    "correct": 2,
+    "extra_info": "Met een **videobellen-apparaat** (zoals een webcam met microfoon op een computer of tablet) kun je over lange afstanden communiceren met beeld en geluid via het internet."
+  },
+  {
+    "id": 256,
+    "theme": "algemene kennis",
+    "question": "Hoeveel jaar duurt een kwarteeuw?",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "50"
+    ],
+    "correct": 2,
+    "extra_info": "Een **kwarteeuw** is een periode van 25 jaar (een kwart van een eeuw)."
+  },
+  {
+    "id": 257,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een amfibie en kan van kleur veranderen om zich aan te passen aan zijn omgeving?",
+    "options": [
+      "Slang",
+      "Kikker",
+      "Salamander",
+      "Hagedis"
+    ],
+    "correct": 2,
+    "extra_info": "De **salamander** is een amfibie die, net als de kameleon, zijn huidskleur kan aanpassen aan zijn omgeving."
+  },
+  {
+    "id": 258,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'verticaal'?",
+    "options": [
+      "Schuin",
+      "Horizontaal",
+      "Recht",
+      "Rond"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van **verticaal** (rechtopstaand) is **horizontaal** (liggend)."
+  },
+  {
+    "id": 259,
+    "theme": "algemene kennis",
+    "question": "Welke vloeistof wordt gewonnen uit oliebronnen en wordt gebruikt als brandstof voor auto's?",
+    "options": [
+      "Water",
+      "Ethanol",
+      "Benzine",
+      "Kerosine"
+    ],
+    "correct": 2,
+    "extra_info": "**Benzine** is een brandstof die wordt geraffineerd uit ruwe olie en wordt gebruikt in verbrandingsmotoren van auto's."
+  },
+  {
+    "id": 260,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het muziekinstrument dat je bespeelt door erop te blazen en het heeft een reeks kleppen en zuigers?",
+    "options": [
+      "Trombone",
+      "Klarinet",
+      "Trompet",
+      "Fluit"
+    ],
+    "correct": 2,
+    "extra_info": "Een **trompet** is een koperblaasinstrument met kleppen (ventielen) die de lengte van de luchtkolom veranderen en zo de toonhoogte beïnvloeden."
+  },
+  {
+    "id": 261,
+    "theme": "algemene kennis",
+    "question": "Welk lichaamsdeel is het grootste interne orgaan van de mens?",
+    "options": [
+      "Hart",
+      "Longen",
+      "Lever",
+      "Maag"
+    ],
+    "correct": 2,
+    "extra_info": "De **lever** is het grootste interne orgaan in het menselijk lichaam en vervult vele vitale functies."
+  },
+  {
+    "id": 262,
+    "theme": "algemene kennis",
+    "question": "Welke stad is bekend om de Eiffeltoren?",
+    "options": [
+      "Londen",
+      "Rome",
+      "Parijs",
+      "Berlijn"
+    ],
+    "correct": 2,
+    "extra_info": "**Parijs**, de hoofdstad van Frankrijk, is wereldberoemd om de iconische Eiffeltoren."
+  },
+  {
+    "id": 263,
+    "theme": "algemene kennis",
+    "question": "Welke kleuren worden gebruikt om secundaire kleuren te maken in de kunst (verf)?",
+    "options": [
+      "Rood, Groen, Blauw",
+      "Geel, Cyaan, Magenta",
+      "Rood, Geel, Blauw",
+      "Wit, Zwart, Grijs"
+    ],
+    "correct": 2,
+    "extra_info": "In de kunst (verf, subtractieve kleurmenging) zijn de primaire kleuren **rood, geel en blauw**. Door deze te mengen, ontstaan secundaire kleuren."
+  },
+  {
+    "id": 264,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een insect en kan licht geven (glow-in-the-dark)?",
+    "options": [
+      "Vlinder",
+      "Mug",
+      "Vuurvliegje",
+      "Mier"
+    ],
+    "correct": 2,
+    "extra_info": "Een **vuurvliegje** is een insect dat door middel van bioluminescentie licht produceert."
+  },
+  {
+    "id": 265,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het apparaat dat je gebruikt om te schrijven met inkt op een computer, zoals op een tablet of touchscreen?",
+    "options": [
+      "Toetsenbord",
+      "Muis",
+      "Stylus",
+      "Printer"
+    ],
+    "correct": 2,
+    "extra_info": "Een **stylus** is een penachtig apparaat dat wordt gebruikt om op touchscreens te schrijven of te tekenen."
+  },
+  {
+    "id": 266,
+    "theme": "algemene kennis",
+    "question": "Hoeveel dagen heeft de kortste maand van het jaar (buiten een schrikkeljaar)?",
+    "options": [
+      "28",
+      "29",
+      "30",
+      "31"
+    ],
+    "correct": 0,
+    "extra_info": "De kortste maand van het jaar is **februari**, die in een normaal jaar 28 dagen heeft."
+  },
+  {
+    "id": 267,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een groot roofdier en de 'koning van de jungle'?",
+    "options": [
+      "Tijger",
+      "Leeuw",
+      "Wolf",
+      "Beer"
+    ],
+    "correct": 1,
+    "extra_info": "De **leeuw** wordt vaak de 'koning van de jungle' genoemd, hoewel hij voornamelijk op de savanne leeft."
+  },
+  {
+    "id": 268,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'complex'?",
+    "options": [
+      "Moeilijk",
+      "Ingewikkeld",
+      "Eenvoudig",
+      "Diepgaand"
+    ],
+    "correct": 2,
+    "extra_info": "Het tegenovergestelde van complex (ingewikkeld) is **eenvoudig**."
+  },
+  {
+    "id": 269,
+    "theme": "algemene kennis",
+    "question": "Welke vloeistof wordt gemaakt van druiven en is paars of rood?",
+    "options": [
+      "Water",
+      "Melk",
+      "Druivensap",
+      "Appelsap"
+    ],
+    "correct": 2,
+    "extra_info": "**Druivensap** is een zoete drank, gemaakt van geperste druiven."
+  },
+  {
+    "id": 270,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het muziekinstrument dat je bespeelt door snaren te tokkelen en dat vaak wordt gebruikt in volksmuziek en country?",
+    "options": [
+      "Piano",
+      "Gitaar",
+      "Banjo",
+      "Viool"
+    ],
+    "correct": 2,
+    "extra_info": "De **banjo** is een snaarinstrument dat vaak wordt geassocieerd met Amerikaanse volks-, bluegrass- en countrymuziek."
+  },
+  {
+    "id": 271,
+    "theme": "algemene kennis",
+    "question": "Welk lichaamsdeel is het orgaan dat bloed filtert en afvalstoffen afvoert?",
+    "options": [
+      "Hart",
+      "Longen",
+      "Nieren",
+      "Lever"
+    ],
+    "correct": 2,
+    "extra_info": "De **nieren** zijn belangrijke organen die het bloed filteren en afvalstoffen via urine afvoeren."
+  },
+  {
+    "id": 272,
+    "theme": "algemene kennis",
+    "question": "Wat is de hoofdstad van Argentinië?",
+    "options": [
+      "Rio de Janeiro",
+      "Santiago",
+      "Buenos Aires",
+      "Lima"
+    ],
+    "correct": 2,
+    "extra_info": "**Buenos Aires** is de hoofdstad van Argentinië en de grootste stad van het land."
+  },
+  {
+    "id": 273,
+    "theme": "algemene kennis",
+    "question": "Welke kleur krijg je als je de primaire kleuren geel en cyaan mengt (licht)?",
+    "options": [
+      "Rood",
+      "Groen",
+      "Blauw",
+      "Wit"
+    ],
+    "correct": 1,
+    "extra_info": "Bij additieve kleurmenging (licht) vormen **geel en cyaan samen groen**."
+  },
+  {
+    "id": 274,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een groot zeezoogdier en staat bekend om zijn echolocatie om prooien te vinden?",
+    "options": [
+      "Haai",
+      "Walvis",
+      "Dolfijn",
+      "Zeehond"
+    ],
+    "correct": 2,
+    "extra_info": "**Dolfijnen** en walvissen gebruiken echolocatie (geluidsgolven) om hun omgeving te 'zien' en prooien te lokaliseren in het water."
+  },
+  {
+    "id": 275,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het apparaat dat je gebruikt om te schrijven op een schoolbord?",
+    "options": [
+      "Pen",
+      "Potlood",
+      "Krijt",
+      "Marker"
+    ],
+    "correct": 2,
+    "extra_info": "**Krijt** wordt traditioneel gebruikt om op schoolborden te schrijven of te tekenen."
+  },
+  {
+    "id": 276,
+    "theme": "algemene kennis",
+    "question": "Hoeveel centimeter zit er in een meter?",
+    "options": [
+      "10",
+      "50",
+      "100",
+      "1000"
+    ],
+    "correct": 2,
+    "extra_info": "Eén meter is gelijk aan **100 centimeter**."
+  },
+  {
+    "id": 277,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een insect en leeft in een grote kolonie met een koningin?",
+    "options": [
+      "Vlinder",
+      "Bij",
+      "Mier",
+      "Wesp"
+    ],
+    "correct": 2,
+    "extra_info": "Een **mier** leeft in grote, georganiseerde kolonies met een strikte hiërarchie, inclusief een koningin."
+  },
+  {
+    "id": 278,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'vrede'?",
+    "options": [
+      "Rust",
+      "Oorlog",
+      "Vriendschap",
+      "Liefde"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van vrede is **oorlog**."
+  },
+  {
+    "id": 279,
+    "theme": "algemene kennis",
+    "question": "Welke vloeistof wordt gemaakt van sinaasappels en is oranje van kleur?",
+    "options": [
+      "Water",
+      "Melk",
+      "Appelsap",
+      "Sinaasappelsap"
+    ],
+    "correct": 3,
+    "extra_info": "**Sinaasappelsap** is een populaire drank, geperst uit sinaasappels."
+  },
+  {
+    "id": 280,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het muziekinstrument dat je bespeelt door te blazen en het heeft een reeks gaten die je bedekt met je vingers?",
+    "options": [
+      "Klarinet",
+      "Trompet",
+      "Fluit",
+      "Saxofoon"
+    ],
+    "correct": 2,
+    "extra_info": "Een **fluit** is een blaasinstrument waarbij de toonhoogte wordt veranderd door gaten met de vingers te bedekken."
+  },
+  {
+    "id": 281,
+    "theme": "algemene kennis",
+    "question": "Welk lichaamsdeel is het orgaan dat voedsel verteert nadat het uit de maag komt?",
+    "options": [
+      "Nieren",
+      "Lever",
+      "Dunne darm",
+      "Dikke darm"
+    ],
+    "correct": 2,
+    "extra_info": "De **dunne darm** is het belangrijkste orgaan voor de vertering en opname van voedingsstoffen in het lichaam."
+  },
+  {
+    "id": 282,
+    "theme": "algemene kennis",
+    "question": "Wat is de hoofdstad van Egypte?",
+    "options": [
+      "Alexandrië",
+      "Luxor",
+      "Caïro",
+      "Gizeh"
+    ],
+    "correct": 2,
+    "extra_info": "**Caïro** is de bruisende hoofdstad van Egypte."
+  },
+  {
+    "id": 283,
+    "theme": "algemene kennis",
+    "question": "Welke kleur krijg je als je rood en blauw mengt (verf)?",
+    "options": [
+      "Groen",
+      "Paars",
+      "Oranje",
+      "Geel"
+    ],
+    "correct": 1,
+    "extra_info": "Het mengen van de primaire kleuren rood en blauw (subtractieve kleurmenging) levert de secundaire kleur **paars** op."
+  },
+  {
+    "id": 284,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een groot, vliegend reptiel uit de prehistorie?",
+    "options": [
+      "Tyrannosaurus Rex",
+      "Triceratops",
+      "Pterodactylus",
+      "Brontosaurus"
+    ],
+    "correct": 2,
+    "extra_info": "De **pterodactylus** was een vliegend reptiel uit het Mesozoïcum, vaak verward met dinosauriërs."
+  },
+  {
+    "id": 285,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het apparaat dat je gebruikt om schoon te maken met water onder hoge druk?",
+    "options": [
+      "Stofzuiger",
+      "Hogedrukreiniger",
+      "Dweil",
+      "Schrobber"
+    ],
+    "correct": 1,
+    "extra_info": "Een **hogedrukreiniger** gebruikt een krachtige straal water om hardnekkig vuil te verwijderen."
+  },
+  {
+    "id": 286,
+    "theme": "algemene kennis",
+    "question": "Hoeveel continenten zijn er op aarde?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "extra_info": "Er zijn **zeven continenten** op aarde: Azië, Afrika, Noord-Amerika, Zuid-Amerika, Antarctica, Europa en Australië (Oceanië)."
+  },
+  {
+    "id": 287,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een groot zoogdier met een hoorn op zijn neus?",
+    "options": [
+      "Olifant",
+      "Nijlpaard",
+      "Neushoorn",
+      "Zebra"
+    ],
+    "correct": 2,
+    "extra_info": "De **neushoorn** is een groot, herbivoor zoogdier dat bekend staat om zijn kenmerkende hoorn(s) op de neus."
+  },
+  {
+    "id": 288,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'donker'?",
+    "options": [
+      "Schaduw",
+      "Licht",
+      "Zwart",
+      "Grijs"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van donker is **licht**."
+  },
+  {
+    "id": 289,
+    "theme": "algemene kennis",
+    "question": "Welke vloeistof wordt gemaakt van appels en is lekker zoet?",
+    "options": [
+      "Melk",
+      "Water",
+      "Perensap",
+      "Appelsap"
+    ],
+    "correct": 3,
+    "extra_info": "**Appelsap** is een populaire drank, gemaakt van geperste appels."
+  },
+  {
+    "id": 290,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het muziekinstrument dat je bespeelt door te blazen en het heeft een lange schuif?",
+    "options": [
+      "Trompet",
+      "Klarinet",
+      "Trombone",
+      "Fluit"
+    ],
+    "correct": 2,
+    "extra_info": "Een **trombone** is een koperblaasinstrument met een karakteristieke schuif die de lengte van de luchtkolom en daarmee de toonhoogte verandert."
+  },
+  {
+    "id": 291,
+    "theme": "algemene kennis",
+    "question": "Welk lichaamsdeel is het orgaan dat voedsel verteert en voedingsstoffen opneemt?",
+    "options": [
+      "Hart",
+      "Longen",
+      "Maag",
+      "Hersenen"
+    ],
+    "correct": 2,
+    "extra_info": "De **maag** en darmen zijn essentiële organen in het spijsverteringsstelsel die voedsel afbreken en voedingsstoffen opnemen."
+  },
+  {
+    "id": 292,
+    "theme": "algemene kennis",
+    "question": "Wat is de hoofdstad van Japan?",
+    "options": [
+      "Seoul",
+      "Beijing",
+      "Tokio",
+      "Bangkok"
+    ],
+    "correct": 2,
+    "extra_info": "**Tokio** is de bruisende hoofdstad van Japan, bekend om zijn technologie en cultuur."
+  },
+  {
+    "id": 293,
+    "theme": "algemene kennis",
+    "question": "Welke kleur krijg je als je alle kleuren van de regenboog mengt (licht)?",
+    "options": [
+      "Zwart",
+      "Grijs",
+      "Wit",
+      "Bruin"
+    ],
+    "correct": 2,
+    "extra_info": "Wanneer alle kleuren van het spectrum van licht samenkomen, vormen ze **wit** licht."
+  },
+  {
+    "id": 294,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een amfibie en kan van kikkerbilletje naar volwassen kikker veranderen?",
+    "options": [
+      "Vis",
+      "Kikker",
+      "Slang",
+      "Vogel"
+    ],
+    "correct": 1,
+    "extra_info": "Een **kikker** ondergaat een metamorfose, waarbij hij van een waterlevend kikkervisje verandert in een volwassen land- en waterlevend amfibie."
+  },
+  {
+    "id": 295,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het apparaat dat je gebruikt om de temperatuur van de lucht te meten?",
+    "options": [
+      "Klok",
+      "Barometer",
+      "Thermometer",
+      "Kompas"
+    ],
+    "correct": 2,
+    "extra_info": "Een **thermometer** is een instrument dat de temperatuur meet, zowel van de lucht als van andere objecten of vloeistoffen."
+  },
+  {
+    "id": 296,
+    "theme": "algemene kennis",
+    "question": "Hoeveel liter water zit er in een volle badkuip (gemiddeld)?",
+    "options": [
+      "50 liter",
+      "100 liter",
+      "150 liter",
+      "200 liter"
+    ],
+    "correct": 2,
+    "extra_info": "Een gemiddelde badkuip kan ongeveer **150 tot 200 liter** water bevatten."
+  },
+  {
+    "id": 297,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een groot roofdier en de 'koning van de jungle'?",
+    "options": [
+      "Tijger",
+      "Leeuw",
+      "Wolf",
+      "Beer"
+    ],
+    "correct": 1,
+    "extra_info": "De **leeuw** staat bekend als de 'koning van de jungle' vanwege zijn kracht en dominantie."
+  },
+  {
+    "id": 298,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'opgewonden'?",
+    "options": [
+      "Vrolijk",
+      "Rustig",
+      "Boos",
+      "Blij"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van opgewonden is **rustig** of kalm."
+  },
+  {
+    "id": 299,
+    "theme": "algemene kennis",
+    "question": "Welke vloeistof wordt gemaakt van appels en is lekker zoet?",
+    "options": [
+      "Melk",
+      "Water",
+      "Perensap",
+      "Appelsap"
+    ],
+    "correct": 3,
+    "extra_info": "**Appelsap** is een populaire drank, gemaakt van geperste appels."
+  },
+  {
+    "id": 300,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het muziekinstrument dat je bespeelt door snaren te tokkelen en vaak wordt gebruikt in Spaanse en Latijns-Amerikaanse muziek?",
+    "options": [
+      "Piano",
+      "Gitaar",
+      "Ukulele",
+      "Mandoline"
+    ],
+    "correct": 1,
+    "extra_info": "De **gitaar** is een snaarinstrument dat wereldwijd wordt gebruikt, maar vooral prominent is in de Spaanse en Latijns-Amerikaanse muziek."
+  },
+  {
+    "id": 301,
+    "theme": "algemene kennis",
+    "question": "Welk lichaamsdeel is het orgaan dat geluidstrillingen omzet in signalen voor de hersenen?",
+    "options": [
+      "Oog",
+      "Neus",
+      "Oor",
+      "Tong"
+    ],
+    "correct": 2,
+    "extra_info": "De **oren** bevatten structuren die geluidstrillingen omzetten in elektrische signalen die door de hersenen worden geïnterpreteerd."
+  },
+  {
+    "id": 302,
+    "theme": "algemene kennis",
+    "question": "Wat is de hoofdstad van Australië?",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Perth"
+    ],
+    "correct": 2,
+    "extra_info": "**Canberra** is de nationale hoofdstad van Australië."
+  },
+  {
+    "id": 303,
+    "theme": "algemene kennis",
+    "question": "Welke kleuren worden gebruikt om een zwart-witfoto te produceren?",
+    "options": [
+      "Rood en Blauw",
+      "Geen specifieke kleuren, maar tinten van grijs",
+      "Geel en Groen",
+      "Oranje en Paars"
+    ],
+    "correct": 1,
+    "extra_info": "Een zwart-witfoto bestaat uit verschillende tinten **grijs**, van zuiver wit tot diep zwart, zonder specifieke kleuren."
+  },
+  {
+    "id": 304,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een groot landzoogdier met een hoorn op zijn neus en leeft in Afrika en Azië?",
+    "options": [
+      "Olifant",
+      "Nijlpaard",
+      "Neushoorn",
+      "Zebra"
+    ],
+    "correct": 2,
+    "extra_info": "De **neushoorn** is een groot en krachtig landzoogdier met een of twee hoorns op zijn neus, afhankelijk van de soort."
+  },
+  {
+    "id": 305,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het apparaat dat je gebruikt om te schrijven op een schoolbord met een wit oppervlak?",
+    "options": [
+      "Krijt",
+      "Stift",
+      "Potlood",
+      "Pen"
+    ],
+    "correct": 1,
+    "extra_info": "Voor een wit schoolbord (whiteboard) wordt meestal een speciale **stift** gebruikt."
+  },
+  {
+    "id": 306,
+    "theme": "algemene kennis",
+    "question": "Hoeveel minuten zitten er in een kwartier?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "correct": 2,
+    "extra_info": "Een **kwartier** is 15 minuten."
+  },
+  {
+    "id": 307,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een insect en kan nectar verzamelen om honing te maken?",
+    "options": [
+      "Vlinder",
+      "Mug",
+      "Bij",
+      "Mier"
+    ],
+    "correct": 2,
+    "extra_info": "De **bij** is een insect dat nectar verzamelt en omzet in honing."
+  },
+  {
+    "id": 308,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'opwaarts'?",
+    "options": [
+      "Voorwaarts",
+      "Neerwaarts",
+      "Achterwaarts",
+      "Zijwaarts"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van opwaarts is **neerwaarts**."
+  },
+  {
+    "id": 309,
+    "theme": "algemene kennis",
+    "question": "Welke vloeistof wordt gemaakt van appels en is lekker zoet?",
+    "options": [
+      "Melk",
+      "Water",
+      "Perensap",
+      "Appelsap"
+    ],
+    "correct": 3,
+    "extra_info": "**Appelsap** is een populaire en zoete drank, gemaakt van appels."
+  },
+  {
+    "id": 310,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het muziekinstrument dat je bespeelt door snaren te tokkelen en dat vaak wordt gebruikt om Hawaiiaanse muziek te maken?",
+    "options": [
+      "Gitaar",
+      "Piano",
+      "Ukulele",
+      "Banjo"
+    ],
+    "correct": 2,
+    "extra_info": "De **ukulele** is een klein snaarinstrument, bekend van Hawaïaanse muziek."
+  },
+  {
+    "id": 311,
+    "theme": "algemene kennis",
+    "question": "Welk lichaamsdeel is het orgaan dat de spijsvertering start door voedsel te kauwen?",
+    "options": [
+      "Tong",
+      "Tanden",
+      "Maag",
+      "Slokdarm"
+    ],
+    "correct": 1,
+    "extra_info": "De **tanden** zijn essentieel voor het kauwen en vermalen van voedsel, de eerste stap in de spijsvertering."
+  },
+  {
+    "id": 312,
+    "theme": "algemene kennis",
+    "question": "Wat is de hoofdstad van Canada?",
+    "options": [
+      "Toronto",
+      "Vancouver",
+      "Ottawa",
+      "Montreal"
+    ],
+    "correct": 2,
+    "extra_info": "**Ottawa** is de hoofdstad van Canada."
+  },
+  {
+    "id": 313,
+    "theme": "algemene kennis",
+    "question": "Welke kleuren worden gebruikt om een regenboog te maken?",
+    "options": [
+      "Rood, Geel, Blauw",
+      "Zwart, Wit, Grijs",
+      "Alle kleuren van het zichtbare spectrum",
+      "Groen, Oranje, Paars"
+    ],
+    "correct": 2,
+    "extra_info": "Een regenboog wordt gevormd door de breking van zonlicht in waterdruppels, waardoor het hele **zichtbare spectrum van kleuren** (rood, oranje, geel, groen, blauw, indigo, violet) zichtbaar wordt."
+  },
+  {
+    "id": 314,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een groot roofdier en de 'koning van de jungle'?",
+    "options": [
+      "Tijger",
+      "Leeuw",
+      "Wolf",
+      "Beer"
+    ],
+    "correct": 1,
+    "extra_info": "De **leeuw** staat bekend als de 'koning van de jungle'."
+  },
+  {
+    "id": 315,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het apparaat dat je gebruikt om te praten met mensen via het internet?",
+    "options": [
+      "Radio",
+      "Telefoon",
+      "Microfoon",
+      "Luidspreker"
+    ],
+    "correct": 2,
+    "extra_info": "Een **microfoon** is een essentieel onderdeel van apparaten (zoals computers of telefoons) die worden gebruikt om te praten via het internet (bijvoorbeeld via VoIP of online games)."
+  },
+  {
+    "id": 316,
+    "theme": "algemene kennis",
+    "question": "Hoeveel uur zitten er in één dag?",
+    "options": [
+      "12",
+      "18",
+      "24",
+      "36"
+    ],
+    "correct": 2,
+    "extra_info": "Eén dag heeft **24 uur**."
+  },
+  {
+    "id": 317,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een klein zoogdier met stekels op zijn rug?",
+    "options": [
+      "Muis",
+      "Egel",
+      "Konijn",
+      "Eekhoorn"
+    ],
+    "correct": 1,
+    "extra_info": "De **egel** is een klein zoogdier dat zich bij gevaar oprolt tot een bal met scherpe stekels ter bescherming."
+  },
+  {
+    "id": 318,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'opnieuw beginnen'?",
+    "options": [
+      "Doorgaan",
+      "Stoppen",
+      "Verbeteren",
+      "Voltooien"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van opnieuw beginnen kan **stoppen** of afronden zijn."
+  },
+  {
+    "id": 319,
+    "theme": "algemene kennis",
+    "question": "Welke vloeistof wordt gemaakt van druiven en is paars of rood?",
+    "options": [
+      "Water",
+      "Melk",
+      "Druivensap",
+      "Appelsap"
+    ],
+    "correct": 2,
+    "extra_info": "**Druivensap** is een zoete drank die wordt gemaakt van geperste druiven."
+  },
+  {
+    "id": 320,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het muziekinstrument dat je bespeelt door snaren aan te slaan met hamertjes van binnenuit?",
+    "options": [
+      "Gitaar",
+      "Piano",
+      "Drum",
+      "Viool"
+    ],
+    "correct": 1,
+    "extra_info": "Een **piano** produceert geluid wanneer hamertjes, die aan toetsen zijn verbonden, tegen snaren slaan."
+  },
+  {
+    "id": 321,
+    "theme": "algemene kennis",
+    "question": "Welk lichaamsdeel is het orgaan dat bloed naar alle delen van het lichaam pompt?",
+    "options": [
+      "Longen",
+      "Lever",
+      "Hart",
+      "Nieren"
+    ],
+    "correct": 2,
+    "extra_info": "Het **hart** is een gespierde pomp die bloed door het hele lichaam circuleert."
+  },
+  {
+    "id": 322,
+    "theme": "algemene kennis",
+    "question": "Wat is de hoofdstad van India?",
+    "options": [
+      "Mumbai",
+      "Calcutta",
+      "New Delhi",
+      "Bangalore"
+    ],
+    "correct": 2,
+    "extra_info": "**New Delhi** is de hoofdstad van India."
+  },
+  {
+    "id": 323,
+    "theme": "algemene kennis",
+    "question": "Welke kleur krijg je als je alle kleuren van de regenboog mengt (verf)?",
+    "options": [
+      "Wit",
+      "Grijs",
+      "Zwart",
+      "Bruin"
+    ],
+    "correct": 2,
+    "extra_info": "Het mengen van alle primaire en secundaire kleuren verf resulteert vaak in een donkere, bijna **zwarte** of bruinachtige kleur."
+  },
+  {
+    "id": 324,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een groot, geel en gestreept roofdier dat in de jungle leeft?",
+    "options": [
+      "Leeuw",
+      "Tijger",
+      "Zebra",
+      "Giraffe"
+    ],
+    "correct": 1,
+    "extra_info": "De **tijger** is een indrukwekkende katachtige met een gestreepte vacht, die vaak in Aziatische jungles te vinden is."
+  },
+  {
+    "id": 325,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het apparaat dat je gebruikt om schoon te maken met zuigkracht en een draad?",
+    "options": [
+      "Bezem",
+      "Stofzuiger",
+      "Dweil",
+      "Spons"
+    ],
+    "correct": 1,
+    "extra_info": "Een **stofzuiger** is een elektrisch apparaat dat stof en vuil opzuigt."
+  },
+  {
+    "id": 326,
+    "theme": "algemene kennis",
+    "question": "Hoeveel liter water zit er in een zwembad (gemiddeld formaat voor in de tuin)?",
+    "options": [
+      "100 liter",
+      "1.000 liter",
+      "10.000 liter",
+      "100.000 liter"
+    ],
+    "correct": 2,
+    "extra_info": "Een gemiddeld tuinzembad kan ongeveer **10.000 liter** water bevatten, afhankelijk van de grootte."
+  },
+  {
+    "id": 327,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een zoogdier, leeft in Australië en draagt zijn jongen in een buidel?",
+    "options": [
+      "Koala",
+      "Kangoeroe",
+      "Echidna",
+      "Platypus"
+    ],
+    "correct": 1,
+    "extra_info": "De **kangoeroe** is een iconisch Australisch buideldier dat zijn jongen in een buidel draagt."
+  },
+  {
+    "id": 328,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'verticaal'?",
+    "options": [
+      "Schuin",
+      "Horizontaal",
+      "Recht",
+      "Rond"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van **verticaal** (rechtopstaand) is **horizontaal** (liggend)."
+  },
+  {
+    "id": 329,
+    "theme": "algemene kennis",
+    "question": "Welke vloeistof wordt gewonnen uit oliebronnen en wordt gebruikt als brandstof voor auto's?",
+    "options": [
+      "Water",
+      "Ethanol",
+      "Benzine",
+      "Kerosine"
+    ],
+    "correct": 2,
+    "extra_info": "**Benzine** is een brandstof die wordt geraffineerd uit ruwe olie en wordt gebruikt in verbrandingsmotoren van auto's."
+  },
+  {
+    "id": 330,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van het muziekinstrument dat je bespeelt door erop te blazen en het heeft een reeks kleppen en zuigers?",
+    "options": [
+      "Trombone",
+      "Klarinet",
+      "Trompet",
+      "Fluit"
+    ],
+    "correct": 2,
+    "extra_info": "Een **trompet** is een koperblaasinstrument met kleppen (ventielen) die de lengte van de luchtkolom veranderen en zo de toonhoogte beïnvloeden."
+  }  
+]

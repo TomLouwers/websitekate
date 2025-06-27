@@ -1,0 +1,3458 @@
+[
+  {
+    "id": 1,
+    "theme": "Thema 4",
+    "question": "het verleden",
+    "options": [
+      "De ruimte waarin zich de aarde, de planeten en de sterren bevinden.",
+      "Maar, echter. Het geeft een tegenstelling aan.",
+      "De tijd die voorbij is.",
+      "Bijna."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 2,
+    "theme": "Thema 4",
+    "question": "het heden",
+    "options": [
+      "De tijd die nu is.",
+      "Iemand die voor zijn beroep gesproken taal vertaalt naar gebarentaal.",
+      "Verschillende.",
+      "Je fantasie. Iets gebeurt niet echt, maar alleen in je gedachten."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 3,
+    "theme": "Thema 4",
+    "question": "de toekomst",
+    "options": [
+      "De tijd die nog komt.",
+      "Iets bereiken doordat je er je best voor hebt gedaan.",
+      "Maar.",
+      "Al heel vaak."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 4,
+    "theme": "Thema 4",
+    "question": "de oorlog",
+    "options": [
+      "Heel erg zwaar, zoals een olifant.",
+      "Langzaam rijden, je gaat niet veel harder dan iemand die loopt.",
+      "Een soort grote verrekijker waarmee je naar de sterren en planeten kijkt.",
+      "Ruzie tussen twee of meer landen."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 5,
+    "theme": "Thema 4",
+    "question": "de vrede",
+    "options": [
+      "Als er geen oorlog is, is er vrede.",
+      "Als je voorrang hebt in het verkeer, dan mag je als eerste rijden of oversteken.",
+      "Zonder gewicht, zoals bijvoorbeeld een astronaut in de ruimte.",
+      "De plaats waar een weg zich in tweeën deelt."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 6,
+    "theme": "Thema 4",
+    "question": "de ellende",
+    "options": [
+      "Je voelt je nergens veiliger en beter op je gemak dan in je eigen huis.",
+      "Even naar buiten gaan.",
+      "Een erg nare toestand.",
+      "Heel boos."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 7,
+    "theme": "Thema 4",
+    "question": "de samenleving",
+    "options": [
+      "Tevreden.",
+      "De eerste.",
+      "Alle mensen in een land.",
+      "Kleine kamer in de gevangenis of het politiebureau waar daders / boeven in worden opgesloten."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 8,
+    "theme": "Thema 4",
+    "question": "de landverrader",
+    "options": [
+      "Iemand die in een oorlog samenwerkt met de vijand.",
+      "Grenspolitie die controleert of mensen of spullen het land in of uit mogen.",
+      "Niet gewoon.",
+      "Heel droevig."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 9,
+    "theme": "Thema 4",
+    "question": "de zoveelste keer",
+    "options": [
+      "Al heel vaak.",
+      "Zonder gewicht, zoals bijvoorbeeld een astronaut in de ruimte.",
+      "Iemand die voor zijn beroep dingen onderzoekt om steeds meer daarover te weten te komen.",
+      "Sinds die tijd."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 10,
+    "theme": "Thema 4",
+    "question": "in de loop van",
+    "options": [
+      "Verdrietig.",
+      "Na een tijdje, tijdens.",
+      "Als je je ogen uitkijkt, dan is er van alles te zien.",
+      "Een apparaat dat om de aarde draait. Het maakt foto's van de aarde, of zendt tv-programma's uit."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 11,
+    "theme": "Thema 4",
+    "question": "de onderduiker",
+    "options": [
+      "Je verkoopt iets voor meer geld dan je er zelf voor hebt betaald. Het geld dat je overhoudt, noem je de winst.",
+      "Iemand die zich tijdens een oorlog verstopt voor de vijand.",
+      "Gekleurde stiften gemaakt van vette stof.",
+      "Iets zeggen waardoor je iemand pijn doet of boos maakt."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 12,
+    "theme": "Thema 4",
+    "question": "het verzet",
+    "options": [
+      "In brand staan.",
+      "Iemand die zieken verzorgt.",
+      "Een attractie waarbij je met een treintje over rails rijdt. De rails gaan omlaag of omhoog, of ze maken gekke bochten.",
+      "De mensen die in een oorlog in het geheim tegen de vijand vechten."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 13,
+    "theme": "Thema 4",
+    "question": "het geheugen",
+    "options": [
+      "De plek waar je je herinneringen bewaart.",
+      "Het geld dat je nog terug moet betalen.",
+      "De mensen die in een oorlog in het geheim tegen de vijand vechten.",
+      "Verdrietig."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 14,
+    "theme": "Thema 4",
+    "question": "de herinnering",
+    "options": [
+      "Als je iets scherp ziet, dan zie je iets duidelijk.",
+      "Een belevenis van vroeger waar je aan denkt.",
+      "Daarna.",
+      "Als je voorrang hebt in het verkeer, dan mag je als eerste rijden of oversteken."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 15,
+    "theme": "Thema 4",
+    "question": "vergeetachtig",
+    "options": [
+      "Als je veel dingen niet kunt onthouden of maar voor korte tijd.",
+      "Je voelt je nergens veiliger en beter op je gemak dan in je eigen huis.",
+      "Het mooiste kunstwerk of het leukste moment.",
+      "Bijna nooit."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 16,
+    "theme": "Thema 4",
+    "question": "voorgoed",
+    "options": [
+      "Iets wat hetzelfde is als je het vergelijkt met iets of iemand anders.",
+      "Gezellig en vriendelijk lachen.",
+      "Voor altijd.",
+      "Dat is onzin."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 17,
+    "theme": "Thema 4",
+    "question": "tijdelijk",
+    "options": [
+      "Tevreden.",
+      "Als je iets goed kunt zonder dat je er veel moeite voor hoeft te doen. Aanleg is een ander woord voor talent.",
+      "Niet voor altijd.",
+      "Een ding waarmee je een probleem kunt oplossen, je gebruikt het onverwacht."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 18,
+    "theme": "Thema 4",
+    "question": "het schroot",
+    "options": [
+      "Stukken oud ijzer.",
+      "Zonder dat het iets oplevert.",
+      "Zonder problemen.",
+      "Daar komt nog bij dat...."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 19,
+    "theme": "Thema 4",
+    "question": "de hersens",
+    "options": [
+      "Plaats waar films, (oude) boeken en andere voorwerpen bewaard worden.",
+      "Je hersens zitten boven in je hoofd, hiermee kun je denken.",
+      "Heel normaal.",
+      "Niet voor altijd."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 20,
+    "theme": "Thema 4",
+    "question": "de verpleger",
+    "options": [
+      "Iemand die in het ziekenhuis voor de zieken zorgt.",
+      "Dat is onzin.",
+      "Al heel vaak.",
+      "Stukken oud ijzer."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 21,
+    "theme": "Thema 4",
+    "question": "allereerst",
+    "options": [
+      "Iemand die iets ergs heeft gedaan wat strafbaar is.",
+      "Een grote ruimte waar proeven gedaan worden. Er worden dingen onderzocht.",
+      "Bibberen van angst, bijvoorbeeld bij een enge film.",
+      "De eerste."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 22,
+    "theme": "Thema 4",
+    "question": "zich afspelen",
+    "options": [
+      "Als er geen oorlog is, is er vrede.",
+      "Zonder gewicht, zoals bijvoorbeeld een astronaut in de ruimte.",
+      "Iets is veel minder leuk of mooi dan je had verwacht.",
+      "Gebeuren."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 23,
+    "theme": "Thema 4",
+    "question": "in geuren en kleuren",
+    "options": [
+      "De planeet waar wij op wonen.",
+      "Iets zo goed of leuk vertellen of doen dat anderen (ook) goede ideeën krijgen of zin krijgen om iets te doen.",
+      "Een ruimtevoertuig waar verschillende astronauten een tijdje blijven om onderzoek te doen.",
+      "Iets op een leuke manier, met veel bijzonderheden vertellen."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 24,
+    "theme": "Thema 4",
+    "question": "aan iemands lippen hangen",
+    "options": [
+      "Iets is veel minder leuk of mooi dan je had verwacht.",
+      "Met veel aandacht naar iemand luisteren.",
+      "De moed verliezen, geen zin meer hebben.",
+      "Iets van de ene taal omzetten in een andere taal."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 25,
+    "theme": "Thema 4",
+    "question": "de fabel",
+    "options": [
+      "Een verzonnen verhaal waarin pratende dieren voorkomen en waarvan je iets leert.",
+      "De hoeveelheid die er van iets gemaakt is. De kwantiteit kan groot of klein zijn.",
+      "Zonder problemen.",
+      "Tenminste."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 26,
+    "theme": "Thema 4",
+    "question": "de legende",
+    "options": [
+      "Een grappig gedicht van vijf regels.",
+      "Taal waarbij je praat door middel van gebaren.",
+      "Als iets krap zit, wringt het.",
+      "Oud verhaal over een held dat vaak is verteld."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 27,
+    "theme": "Thema 4",
+    "question": "de voorouders",
+    "options": [
+      "De tijd vinden om iets te doen.",
+      "Een ding waarmee je een probleem kunt oplossen, je gebruikt het onverwacht.",
+      "Je vader en je moeder, maar ook je opa's en oma's en hun ouders.",
+      "Als je veel dingen niet kunt onthouden of maar voor korte tijd."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 28,
+    "theme": "Thema 4",
+    "question": "het nageslacht",
+    "options": [
+      "Taal waarbij je praat door middel van gebaren.",
+      "Je kinderen, maar ook je kleinkinderen en achterkleinkinderen.",
+      "Iemand die voor zijn beroep geiten houdt.",
+      "Heel erg saai."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 29,
+    "theme": "Thema 4",
+    "question": "het stenen tijdperk",
+    "options": [
+      "Een tijd heel lang geleden, toen mensen dingen van steen maakten en gebruikten.",
+      "Kleine kamer in de gevangenis of het politiebureau waar daders / boeven in worden opgesloten.",
+      "Als je veel dingen niet kunt onthouden of maar voor korte tijd.",
+      "Een rond plein waarop een aantal wegen uitkomt."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 30,
+    "theme": "Thema 4",
+    "question": "de tijdmachine",
+    "options": [
+      "Iets wat je goed weet.",
+      "Snel lopen.",
+      "De tijd die nog komt.",
+      "Apparaat waarmee je door de tijd kunt reizen, naar het verleden of de toekomst. Het apparaat bestaat niet echt."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 31,
+    "theme": "Thema 4",
+    "question": "de tentoonstelling",
+    "options": [
+      "Heel hard lachen met veel lawaai.",
+      "Een bekende voorbij lopen zonder dat je (laat merken dat je) hem ziet.",
+      "Plaats waar je historische of mooie dingen kunt bekijken.",
+      "Heel erg boos, woedend."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 32,
+    "theme": "Thema 4",
+    "question": "historisch",
+    "options": [
+      "Behalve. Bijvoorbeeld: Hein speelt elke dag buiten, met uitzondering van zondag.",
+      "Alles wat te maken heeft met het verleden.",
+      "Heel normaal.",
+      "Als je de auto in een hogere versnelling zet, laat je de motor harder werken. Je kunt dan harder rijden."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 33,
+    "theme": "Thema 4",
+    "question": "hartelijk lachen",
+    "options": [
+      "Gezellig en vriendelijk lachen.",
+      "Een vrachtwagen.",
+      "Schilderijen gemaakt door kunstenaars.",
+      "Iets waar je meer over wilt weten."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 34,
+    "theme": "Thema 4",
+    "question": "het voorwerp",
+    "options": [
+      "Apparaat waarmee je door de tijd kunt reizen, naar het verleden of de toekomst. Het apparaat bestaat niet echt.",
+      "Een ding dat je kunt zien en voelen.",
+      "Een voertuig om mee door de ruimte te reizen.",
+      "De mensen die in een oorlog in het geheim tegen de vijand vechten."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 35,
+    "theme": "Thema 4",
+    "question": "het archief",
+    "options": [
+      "De tijd die nog komt.",
+      "Vanaf nu.",
+      "Dat wat je mooi en belangrijk vindt. Bijvoorbeeld: je kledingsmaak.",
+      "Plaats waar films, (oude) boeken en andere voorwerpen bewaard worden."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 36,
+    "theme": "Thema 4",
+    "question": "stilstaan bij iets",
+    "options": [
+      "Het grapje.",
+      "Oud verhaal over een held dat vaak is verteld.",
+      "Een vrachtwagen.",
+      "Even over iets nadenken."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 37,
+    "theme": "Thema 6",
+    "question": "de lichaamstaal",
+    "options": [
+      "Een brief van je werkgever waar in staat hoe je je werk hebt gedaan.",
+      "Met je lichaam laten zien hoe je je voelt.",
+      "Als je veel dingen niet kunt onthouden of maar voor korte tijd.",
+      "Iemand die voor zijn beroep gesproken taal vertaalt naar gebarentaal."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 38,
+    "theme": "Thema 6",
+    "question": "de gezichtsuitdrukking",
+    "options": [
+      "Het geld dat je nog terug moet betalen.",
+      "Met je gezicht laten zien hoe je je voelt. Bijvoorbeeld boos, verdrietig of blij.",
+      "Heel normaal.",
+      "Maar, echter. Het geeft een tegenstelling aan."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 39,
+    "theme": "Thema 6",
+    "question": "de lichaamshouding",
+    "options": [
+      "De afspraken over wat wel en niet mag in het spel.",
+      "Iets van de ene taal omzetten in een andere taal.",
+      "De manier waarop je staat, zit of ligt. Hiermee laat je vaak zien hoe je je voelt.",
+      "Iets springt met een knal uit elkaar."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 40,
+    "theme": "Thema 6",
+    "question": "oeroud",
+    "options": [
+      "Taal waarbij je praat door middel van gebaren.",
+      "Heel erg oud.",
+      "Iets waarvoor je straf kunt krijgen, is strafbaar. Bijvoorbeeld: iets stelen is strafbaar.",
+      "Iets van de ene taal omzetten in een andere taal."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 41,
+    "theme": "Thema 6",
+    "question": "piepjong",
+    "options": [
+      "Iemand die iets doet voor zijn plezier.",
+      "Iemand die een sluis bedient. Een sluis is een deur die water tegenhoudt.",
+      "Heel erg jong.",
+      "Je verkoopt iets voor meer geld dan je er zelf voor hebt betaald. Het geld dat je overhoudt, noem je de winst."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 42,
+    "theme": "Thema 6",
+    "question": "je verwonderen",
+    "options": [
+      "Je verbazen.",
+      "Als je iets scherp ziet, dan zie je iets duidelijk.",
+      "Een andere kant opgaan.",
+      "De plaats waar twee wegen bij elkaar komen in de vorm van een kruis."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 43,
+    "theme": "Thema 6",
+    "question": "inspireren",
+    "options": [
+      "Iets zo goed of leuk vertellen of doen dat anderen (ook) goede ideeën krijgen of zin krijgen om iets te doen.",
+      "Niet gewoon.",
+      "Een dokter die mensen opereert.",
+      "Na een tijdje, tijdens."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 44,
+    "theme": "Thema 6",
+    "question": "de bijlage",
+    "options": [
+      "Je verbazen.",
+      "Een foto, filmpje of stukje tekst dat je toevoegt aan een e-mail.",
+      "Met een voertuig vervoer je mensen of dingen. Bijvoorbeeld een auto, een fiets of een brommer.",
+      "Kijken of iets in orde is."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 45,
+    "theme": "Thema 6",
+    "question": "tenminste",
+    "options": [
+      "In elk geval, althans.",
+      "Met je lichaam laten zien hoe je je voelt.",
+      "De plek waar je je herinneringen bewaart.",
+      "Een tijd heel lang geleden, toen mensen dingen van steen maakten en gebruikten."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 46,
+    "theme": "Thema 6",
+    "question": "de teleurstelling",
+    "options": [
+      "Een apparaat dat om de aarde draait. Het maakt foto's van de aarde, of zendt tv-programma's uit.",
+      "Een belevenis van vroeger waar je aan denkt.",
+      "De plaats waar je je auto voor een tijdje kunt neerzetten.",
+      "Iets valt tegen, omdat het niet is zoals je had gehoopt of verwacht."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 47,
+    "theme": "Thema 6",
+    "question": "verwijderen",
+    "options": [
+      "Dit zeg je tegen iemand als hij zich bemoeit met iets waar hij geen verstand van heeft.",
+      "Een vrachtwagen.",
+      "Weghalen.",
+      "Taal waarbij je praat door middel van gebaren."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 48,
+    "theme": "Thema 6",
+    "question": "het hoofd laten hangen",
+    "options": [
+      "Heel erg oud.",
+      "De moed verliezen, geen zin meer hebben.",
+      "Verdrietig.",
+      "Als je ergens een tijdje bent en je vindt het er geweldig leuk."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 49,
+    "theme": "Thema 6",
+    "question": "de poëzie",
+    "options": [
+      "Een papier waarop staat dat je geslaagd bent voor iets.",
+      "Gedichten.",
+      "Iets wat moet, bijvoorbeeld fietsen op het fietspad.",
+      "Iets afschieten, iets de lucht in laten gaan. Bijvoorbeeld een raket."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 50,
+    "theme": "Thema 6",
+    "question": "de limerick",
+    "options": [
+      "Iets zeggen waardoor je iemand pijn doet of boos maakt.",
+      "Heel erg boos, woedend.",
+      "Als je dingen over jezelf vertelt, maar daarbij flink overdrijft.",
+      "Een grappig gedicht van vijf regels."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 51,
+    "theme": "Thema 6",
+    "question": "het sonnet",
+    "options": [
+      "Als je je schulden niet meer kunt betalen. Je hebt geen geld meer (op de bank).",
+      "Een gedicht van veertien regels. Het gaat vaak over de gevoelens van de dichter.",
+      "Iets heel goed kunnen.",
+      "Hard en vrolijk lachen."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 52,
+    "theme": "Thema 6",
+    "question": "zelfverzekerd",
+    "options": [
+      "Je hebt veel vertrouwen in jezelf. Je aarzelt niet en bent niet onzeker.",
+      "Iemand die in het ziekenhuis voor de zieken zorgt.",
+      "Zonder problemen.",
+      "Iemand die iets ergs heeft meegemaakt zonder dat hij daar iets aan kon doen."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 53,
+    "theme": "Thema 6",
+    "question": "onzeker",
+    "options": [
+      "Zonder dat het iets oplevert.",
+      "Alle mensen in een land.",
+      "Heel echt, helemaal echt.",
+      "Je hebt weinig vertrouwen in jezelf. Je aarzelt en bent niet zelfverzekerd."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 54,
+    "theme": "Thema 6",
+    "question": "sindsdien",
+    "options": [
+      "Sinds die tijd.",
+      "Bibberen van angst, bijvoorbeeld bij een enge film.",
+      "Iets wat je goed kunt.",
+      "Gedichten."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 55,
+    "theme": "Thema 6",
+    "question": "illustreren",
+    "options": [
+      "Pen die lijkt op een viltstift, maar dunner schrijft.",
+      "Sinds die tijd.",
+      "Een tekening of foto maken bij een tekst.",
+      "Iets wat hetzelfde is als je het vergelijkt met iets of iemand anders."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 56,
+    "theme": "Thema 6",
+    "question": "bescheiden",
+    "options": [
+      "Je bent rustig en hebt geen grote mond. Je schept niet op.",
+      "Als er geen oorlog is, is er vrede.",
+      "Heel snel, bliksemsnel.",
+      "Iemand die schiet met een geweer."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 57,
+    "theme": "Thema 6",
+    "question": "daarentegen",
+    "options": [
+      "Iemand die een sluis bedient. Een sluis is een deur die water tegenhoudt.",
+      "Iemand die iets doet voor zijn plezier.",
+      "Direct, onmiddellijk.",
+      "Maar, echter. Het geeft een tegenstelling aan."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 58,
+    "theme": "Thema 6",
+    "question": "lief en leed delen",
+    "options": [
+      "Direct, onmiddellijk.",
+      "Je hebt veel vertrouwen in jezelf. Je aarzelt niet en bent niet onzeker.",
+      "Al heel vaak.",
+      "Samen met iemand de leuke en vervelende dingen van het leven delen."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 59,
+    "theme": "Thema 6",
+    "question": "iemand straal voorbij lopen",
+    "options": [
+      "Een bekende voorbij lopen zonder dat je (laat merken dat je) hem ziet.",
+      "De tijd die voorbij is.",
+      "Iemand die nieuwe gebouwen bedenkt en tekent.",
+      "Hard en met veel lawaai rijden of lopen."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 60,
+    "theme": "Thema 6",
+    "question": "je tanden bloot lachen",
+    "options": [
+      "Ruzie tussen twee of meer landen.",
+      "Bijna nooit.",
+      "Iemand die op de weg rijdt of loopt.",
+      "Zo hard lachen dat je tanden te zien zijn."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 61,
+    "theme": "Thema 6",
+    "question": "excuses aanbieden",
+    "options": [
+      "Als je de auto in een hogere versnelling zet, laat je de motor harder werken. Je kunt dan harder rijden.",
+      "Heel erg zwaar, zoals een olifant.",
+      "Zeggen dat je ergens spijt van hebt, bijvoorbeeld na een ruzie.",
+      "Grenspolitie die controleert of mensen of spullen het land in of uit mogen."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 62,
+    "theme": "Thema 6",
+    "question": "beledigen",
+    "options": [
+      "Iets zeggen waardoor je iemand pijn doet of boos maakt.",
+      "Vreselijk, akelig.",
+      "Een van je zintuigen. Met je tastzin kun je voelen, bijvoorbeeld met je handen.",
+      "Plaats waar je historische of mooie dingen kunt bekijken."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 63,
+    "theme": "Thema 6",
+    "question": "het scheldwoord",
+    "options": [
+      "Een woord dat mensen gebruiken om iemand te beledigen.",
+      "Iets heel goed kunnen.",
+      "In brand staan.",
+      "Een voertuig om mee door de ruimte te reizen."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 64,
+    "theme": "Thema 6",
+    "question": "nijdig",
+    "options": [
+      "Een deel van iemands lichaam dat niet helemaal in orde is.",
+      "Maar.",
+      "Heel boos.",
+      "Iemand die muziek draait, bijvoorbeeld op de radio of op een feest."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 65,
+    "theme": "Thema 6",
+    "question": "furieus",
+    "options": [
+      "Leegmaken.",
+      "Daar komt nog bij dat....",
+      "Sinds die tijd.",
+      "Heel erg boos, woedend."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 66,
+    "theme": "Thema 6",
+    "question": "zelden",
+    "options": [
+      "Taal waarbij je praat door middel van gebaren.",
+      "Bijna nooit.",
+      "Niet voor altijd.",
+      "Hoe goed of hoe slecht iets (gemaakt) is. De kwaliteit kan goed of slecht zijn."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 67,
+    "theme": "Thema 6",
+    "question": "oftewel",
+    "options": [
+      "Anders gezegd.",
+      "Een bol glas waardoor je kleine dingen een beetje kunt vergroten zodat je ze beter kunt bekijken.",
+      "Vaststellen, zorgen dat je iets zeker weet.",
+      "Een belevenis van vroeger waar je aan denkt."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 68,
+    "theme": "Thema 6",
+    "question": "denderen",
+    "options": [
+      "Hard en met veel lawaai rijden of lopen.",
+      "Iemand die voor zijn beroep dingen onderzoekt om steeds meer daarover te weten te komen.",
+      "Je verkoopt iets voor meer geld dan je er zelf voor hebt betaald. Het geld dat je overhoudt, noem je de winst.",
+      "Grenspolitie die controleert of mensen of spullen het land in of uit mogen."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 69,
+    "theme": "Thema 6",
+    "question": "naarmate",
+    "options": [
+      "Heel blij zijn, je laat dat merken met geluid.",
+      "Er verandert iets en iets anders verandert mee. Naarmate je ouder wordt, word je groter.",
+      "Een attractie waarbij je snel ronddraait. De stoeltjes hangen aan touwen, waardoor je gaat zweven als de molen gaat draaien.",
+      "Het is verstandig om vroeg op te staan in plaats van lang door te slapen."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 70,
+    "theme": "Thema 6",
+    "question": "iets op papier zetten",
+    "options": [
+      "Je krijgt de straf die je verdient.",
+      "Langzaam lopen.",
+      "Een bol in de ruimte die om de zon draait. De aarde is ook een planeet.",
+      "Iets opschrijven om erover na te denken."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 71,
+    "theme": "Thema 6",
+    "question": "hoog oplopen",
+    "options": [
+      "De plek waar je je herinneringen bewaart.",
+      "Een vieze troep.",
+      "Erger worden. Als een ruzie hoog oploopt, wordt de ruzie steeds erger.",
+      "Iemand die op de weg rijdt of loopt."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 72,
+    "theme": "Thema 6",
+    "question": "Kijk uit je doppen!",
+    "options": [
+      "Iets bereiken doordat je er je best voor hebt gedaan.",
+      "Heel verbaasd kijken.",
+      "Verbrand hout, waarmee je zwart kunt tekenen.",
+      "Doppen' wordt gebruikt voor 'ogen'. Het betekent zoiets als: 'Let op wat je doet!'"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 73,
+    "theme": "Thema 7",
+    "question": "de recensie",
+    "options": [
+      "Gebeuren.",
+      "Met veel aandacht naar iemand luisteren.",
+      "Een tekst waarin iemand zijn mening geeft over een boek, film of toneelstuk.",
+      "Even naar buiten gaan."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 74,
+    "theme": "Thema 7",
+    "question": "het argument",
+    "options": [
+      "Langzaam rijden, je gaat niet veel harder dan iemand die loopt.",
+      "Het werk dat je doet.",
+      "De reden waarom je iets vindt of doet.",
+      "Het mooiste kunstwerk of het leukste moment."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 75,
+    "theme": "Thema 7",
+    "question": "het oordeel",
+    "options": [
+      "Hard en met veel lawaai rijden of lopen.",
+      "Een auto die je gebruikt om spullen mee te vervoeren.",
+      "Wat je ergens van vindt, je mening.",
+      "Als je je aandacht goed bij één ding houdt, concentreer je je."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 76,
+    "theme": "Thema 7",
+    "question": "oersaai",
+    "options": [
+      "Bijna.",
+      "Een grote ruimte waar proeven gedaan worden. Er worden dingen onderzocht.",
+      "Heel erg saai.",
+      "Heel echt, helemaal echt."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 77,
+    "theme": "Thema 7",
+    "question": "interessant",
+    "options": [
+      "Iets waar je meer over wilt weten.",
+      "Een georganiseerde wandeling.",
+      "Iets op een leuke manier, met veel bijzonderheden vertellen.",
+      "Precies op een bepaalde tijd. Het gebeurde klokslag twaalf uur, het gebeurde precies om 12 uur."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 78,
+    "theme": "Thema 7",
+    "question": "de burcht",
+    "options": [
+      "Een kasteel.",
+      "Een belevenis van vroeger waar je aan denkt.",
+      "Als iemand in aantocht is, is hij onderweg. Hij komt er binnenkort aan.",
+      "Bijna nooit."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 79,
+    "theme": "Thema 7",
+    "question": "splijten",
+    "options": [
+      "Het deel van een maaltijd dat in één keer wordt opgediend.",
+      "Iets leuks wat je kunt doen of zien, bijvoorbeeld in een pretpark.",
+      "Iemand die zich tijdens een oorlog verstopt voor de vijand.",
+      "Iets in de lengte in stukken slaan of breken. Bijvoorbeeld: een plank splijten."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 80,
+    "theme": "Thema 7",
+    "question": "overigens",
+    "options": [
+      "Iets zo goed of leuk vertellen of doen dat anderen (ook) goede ideeën krijgen of zin krijgen om iets te doen.",
+      "Een auto die je gebruikt om spullen mee te vervoeren.",
+      "Vaststellen, zorgen dat je iets zeker weet.",
+      "Daar komt nog bij dat...."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 81,
+    "theme": "Thema 7",
+    "question": "de wildernis",
+    "options": [
+      "Iemand die als beroep bijen houdt.",
+      "Een woest gebied waar geen mensen wonen.",
+      "Langzaam rijden, je gaat niet veel harder dan iemand die loopt.",
+      "Met veel aandacht naar iemand luisteren."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 82,
+    "theme": "Thema 7",
+    "question": "de smaak",
+    "options": [
+      "Schone lakens op een bed doen of schone kleren aandoen.",
+      "Je verbazen.",
+      "De ruimte waarin zich de aarde, de planeten en de sterren bevinden.",
+      "Dat wat je mooi en belangrijk vindt. Bijvoorbeeld: je kledingsmaak."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 83,
+    "theme": "Thema 7",
+    "question": "de tijd van je leven hebben",
+    "options": [
+      "Als je ergens een tijdje bent en je vindt het er geweldig leuk.",
+      "De planeet waar wij op wonen.",
+      "Als iets krap zit, wringt het.",
+      "Hoe iedereen zich voelt. Als iedereen vrolijk is, hangt er een goede stemming."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 84,
+    "theme": "Thema 7",
+    "question": "aan de ene kant / aan de andere kant",
+    "options": [
+      "Met je lichaam laten zien hoe je je voelt.",
+      "Een apparaat dat om de aarde draait. Het maakt foto's van de aarde, of zendt tv-programma's uit.",
+      "Je vindt iets, je hebt een mening, maar je bekijkt dingen soms van twee kanten. Bijvoorbeeld wat leuk is en wat minder leuk is.",
+      "De verzameling."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 85,
+    "theme": "Thema 7",
+    "question": "de kwaliteit",
+    "options": [
+      "Hoe goed of hoe slecht iets (gemaakt) is. De kwaliteit kan goed of slecht zijn.",
+      "Iets slechts doen wat strafbaar is.",
+      "Zo hard lachen dat je tanden te zien zijn.",
+      "Heel hard lachen met veel lawaai."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 86,
+    "theme": "Thema 7",
+    "question": "de kwantiteit",
+    "options": [
+      "Vanaf nu.",
+      "De hoeveelheid die er van iets gemaakt is. De kwantiteit kan groot of klein zijn.",
+      "Een auto die je gebruikt om spullen mee te vervoeren.",
+      "De plaats waar twee wegen bij elkaar komen in de vorm van een kruis."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 87,
+    "theme": "Thema 7",
+    "question": "het informatiemateriaal",
+    "options": [
+      "Je weet het niet zeker. Je twijfelt.",
+      "Een dokter voor dieren.",
+      "Alle materialen (boeken, folders) waarin of waarop informatie staat.",
+      "Iemand die muziek draait, bijvoorbeeld op de radio of op een feest."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 88,
+    "theme": "Thema 7",
+    "question": "de catalogus",
+    "options": [
+      "Die krijg je van de politie als je je niet aan de verkeersregels houdt. Je moet dan als straf geld betalen.",
+      "Een boek waarin veel informatie staat over een bepaald onderwerp, bijvoorbeeld over alle schilderijen in een museum.",
+      "De afspraken over wat wel en niet mag in het spel.",
+      "Iets waarvoor je straf kunt krijgen, is strafbaar. Bijvoorbeeld: iets stelen is strafbaar."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 89,
+    "theme": "Thema 7",
+    "question": "de folder",
+    "options": [
+      "Je hebt weinig vertrouwen in jezelf. Je aarzelt en bent niet zelfverzekerd.",
+      "Een boekje met korte informatie over een onderwerp.",
+      "Een erg nare toestand.",
+      "Er verandert iets en iets anders verandert mee. Naarmate je ouder wordt, word je groter."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 90,
+    "theme": "Thema 7",
+    "question": "de collectie",
+    "options": [
+      "De verzameling.",
+      "Anders gezegd.",
+      "Een ding waarmee je een probleem kunt oplossen, je gebruikt het onverwacht.",
+      "Als je je schulden niet meer kunt betalen. Je hebt geen geld meer (op de bank)."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 91,
+    "theme": "Thema 7",
+    "question": "het kunstvoorwerp",
+    "options": [
+      "Een beetje bloed uit iemands lichaam halen om te onderzoeken of iemand ziek is.",
+      "Een beeld, schilderij of iets anders wat door een kunstenaar gemaakt is.",
+      "Dit woord geeft een tegenstelling aan: hoewel het regende, ging de wedstrijd door.",
+      "Een andere kant opgaan."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 92,
+    "theme": "Thema 7",
+    "question": "tragisch",
+    "options": [
+      "Je weet het niet zeker. Je twijfelt.",
+      "Een ding dat je kunt zien en voelen.",
+      "Heel droevig.",
+      "Vreselijk, akelig."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 93,
+    "theme": "Thema 7",
+    "question": "het hoogtepunt",
+    "options": [
+      "Als iemand in aantocht is, is hij onderweg. Hij komt er binnenkort aan.",
+      "In elk geval, althans.",
+      "Heel erg zwaar, zoals een olifant.",
+      "Het mooiste kunstwerk of het leukste moment."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 94,
+    "theme": "Thema 7",
+    "question": "vrijwel",
+    "options": [
+      "Maar, echter. Het geeft een tegenstelling aan.",
+      "Vaststellen, zorgen dat je iets zeker weet.",
+      "Bijna.",
+      "Je vader en je moeder, maar ook je opa's en oma's en hun ouders."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 95,
+    "theme": "Thema 7",
+    "question": "in zeer goede staat",
+    "options": [
+      "Angstig.",
+      "Een bewijs waarop staat wie je bent, hoe je eruitziet en waar je vandaan komt. Je neemt je paspoort altijd mee naar het buitenland.",
+      "Als iets er nog heel goed uitziet en ook nog goed werkt.",
+      "Dat wat je mooi en belangrijk vindt. Bijvoorbeeld: je kledingsmaak."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 96,
+    "theme": "Thema 7",
+    "question": "grote ogen opzetten",
+    "options": [
+      "Een attractie waarbij je met een treintje over rails rijdt. De rails gaan omlaag of omhoog, of ze maken gekke bochten.",
+      "Als je iets wazig ziet, dan zie je iets onduidelijk.",
+      "Heel verbaasd kijken.",
+      "De plaats waar je binnenkomt."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 97,
+    "theme": "Thema 7",
+    "question": "de beeldende kunst",
+    "options": [
+      "Langzaam lopen.",
+      "Alle kunst die je kunt zien of aanraken, bijvoorbeeld schilderijen, standbeelden of foto's.",
+      "Daarna.",
+      "Iets springt met een knal uit elkaar."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 98,
+    "theme": "Thema 7",
+    "question": "de schilderkunst",
+    "options": [
+      "Direct, onmiddellijk.",
+      "Schilderijen gemaakt door kunstenaars.",
+      "Zeggen dat je ergens spijt van hebt, bijvoorbeeld na een ruzie.",
+      "Een papier waarop staat dat je geslaagd bent voor iets."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 99,
+    "theme": "Thema 7",
+    "question": "de beeldhouwkunst",
+    "options": [
+      "Vanaf nu.",
+      "Alles wat te maken heeft met het reizen door de ruimte.",
+      "Iets zeggen waardoor je iemand pijn doet of boos maakt.",
+      "Standbeelden gemaakt door kunstenaars."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 100,
+    "theme": "Thema 7",
+    "question": "de overeenkomst",
+    "options": [
+      "Iemand die zieken verzorgt.",
+      "Heel erg licht, zoals een veertje.",
+      "Iemand die in een oorlog samenwerkt met de vijand.",
+      "Iets wat hetzelfde is als je het vergelijkt met iets of iemand anders."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 101,
+    "theme": "Thema 7",
+    "question": "enigszins",
+    "options": [
+      "Kleine, doorzichtige rondjes die je op je ogen doet om beter te zien. Lenzen draag je in plaats van een bril.",
+      "Een attractie waarbij je snel ronddraait. De stoeltjes hangen aan touwen, waardoor je gaat zweven als de molen gaat draaien.",
+      "Een beetje. Bijvoorbeeld: Ik was enigszins in de war.",
+      "Een apparaat waarmee je kleine dingen heel erg kunt vergroten zodat je ze beter kunt bekijken."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 102,
+    "theme": "Thema 7",
+    "question": "met uitzondering van",
+    "options": [
+      "Je verbazen.",
+      "Pen die lijkt op een viltstift, maar dunner schrijft.",
+      "De zon en de planeten die om de zon draaien.",
+      "Behalve. Bijvoorbeeld: Hein speelt elke dag buiten, met uitzondering van zondag."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 103,
+    "theme": "Thema 7",
+    "question": "de schulden",
+    "options": [
+      "Als iets ergens om draait, dan gaat het daarover, dan is dat het belangrijkste.",
+      "Als er geen oorlog is, is er vrede.",
+      "Het geld dat je nog terug moet betalen.",
+      "Een ruimtevoertuig waar verschillende astronauten een tijdje blijven om onderzoek te doen."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 104,
+    "theme": "Thema 7",
+    "question": "bankroet",
+    "options": [
+      "Regelen, zorgen dat iets gebeurt.",
+      "Ruzie tussen twee of meer landen.",
+      "Als je je schulden niet meer kunt betalen. Je hebt geen geld meer (op de bank).",
+      "Niet voor altijd."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 105,
+    "theme": "Thema 7",
+    "question": "de architect",
+    "options": [
+      "Plaats waar je historische of mooie dingen kunt bekijken.",
+      "Iemand die nieuwe gebouwen bedenkt en tekent.",
+      "De moed verliezen, geen zin meer hebben.",
+      "De tijd die nu is."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 106,
+    "theme": "Thema 7",
+    "question": "de schutter",
+    "options": [
+      "Iemand die muziek draait, bijvoorbeeld op de radio of op een feest.",
+      "Een foto, filmpje of stukje tekst dat je toevoegt aan een e-mail.",
+      "Iemand die schiet met een geweer.",
+      "Heel erg boos, woedend."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 107,
+    "theme": "Thema 7",
+    "question": "een drukte van belang",
+    "options": [
+      "Lachen zonder je mond open te doen en geluid te maken.",
+      "Iemand die een sluis bedient. Een sluis is een deur die water tegenhoudt.",
+      "Als je je aandacht goed bij één ding houdt, concentreer je je.",
+      "Heel erg druk."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 108,
+    "theme": "Thema 7",
+    "question": "de wacht houden",
+    "options": [
+      "Opletten en bewaken.",
+      "De tijd die nog komt.",
+      "In elk geval, althans.",
+      "Je verkoopt iets voor meer geld dan je er zelf voor hebt betaald. Het geld dat je overhoudt, noem je de winst."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 109,
+    "theme": "Thema 1",
+    "question": "de verkeersregels",
+    "options": [
+      "Afspraken die gelden in het verkeer.",
+      "Heel snel, bliksemsnel.",
+      "Je verkoopt iets voor meer geld dan je er zelf voor hebt betaald. Het geld dat je overhoudt, noem je de winst.",
+      "Toevallig ergens terechtkomen."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 110,
+    "theme": "Thema 1",
+    "question": "het verbod",
+    "options": [
+      "De plaats waar twee wegen bij elkaar komen in de vorm van een kruis.",
+      "Een ding waarmee je een probleem kunt oplossen, je gebruikt het onverwacht.",
+      "Een bekende voorbij lopen zonder dat je (laat merken dat je) hem ziet.",
+      "Iets wat niet mag, bijvoorbeeld oversteken als het stoplicht op rood staat."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 111,
+    "theme": "Thema 1",
+    "question": "het gebod",
+    "options": [
+      "Je verbazen.",
+      "Iets wat moet, bijvoorbeeld fietsen op het fietspad.",
+      "Alleen de heenreis, niet de terugreis.",
+      "Een kasteel."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 112,
+    "theme": "Thema 1",
+    "question": "van richting veranderen",
+    "options": [
+      "Een andere kant opgaan.",
+      "Iets valt tegen, omdat het niet is zoals je had gehoopt of verwacht.",
+      "Bijna nooit.",
+      "Voor een deel."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 113,
+    "theme": "Thema 1",
+    "question": "de splitsing",
+    "options": [
+      "Alles wat te maken heeft met het verleden.",
+      "De plaats waar een weg zich in tweeën deelt.",
+      "Een attractie waarbij je met een treintje over rails rijdt. De rails gaan omlaag of omhoog, of ze maken gekke bochten.",
+      "Zoals het is."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 114,
+    "theme": "Thema 1",
+    "question": "de kruising",
+    "options": [
+      "Het grapje.",
+      "Heel erg jong.",
+      "De plaats waar twee wegen bij elkaar komen in de vorm van een kruis.",
+      "Spullen om mee te tekenen."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 115,
+    "theme": "Thema 1",
+    "question": "de rotonde",
+    "options": [
+      "Iemand die muziek draait, bijvoorbeeld op de radio of op een feest.",
+      "Een tekening of foto maken bij een tekst.",
+      "Als iets is afgezet, dan kun je er niet langs, de toegang is afgesloten.",
+      "Een rond plein waarop een aantal wegen uitkomt."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 116,
+    "theme": "Thema 1",
+    "question": "de bekeuring",
+    "options": [
+      "Die krijg je van de politie als je je niet aan de verkeersregels houdt. Je moet dan als straf geld betalen.",
+      "Zo hard lachen dat je tanden te zien zijn.",
+      "Je doet net alsof je iets niet hoort, maar eigenlijk hoor je het wel.",
+      "Een bol glas waardoor je kleine dingen een beetje kunt vergroten zodat je ze beter kunt bekijken."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 117,
+    "theme": "Thema 1",
+    "question": "de toegang",
+    "options": [
+      "De plaats waar je binnenkomt.",
+      "Iemand die iets ergs heeft gedaan wat strafbaar is.",
+      "Als je iets scherp ziet, dan zie je iets duidelijk.",
+      "Maar, echter. Het geeft een tegenstelling aan."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 118,
+    "theme": "Thema 1",
+    "question": "wegens",
+    "options": [
+      "Even over iets nadenken.",
+      "Dit woord geeft een tegenstelling aan: hoewel het regende, ging de wedstrijd door.",
+      "Doordat.",
+      "Een attractie waarbij je met een treintje over rails rijdt. De rails gaan omlaag of omhoog, of ze maken gekke bochten."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 119,
+    "theme": "Thema 1",
+    "question": "in het vervolg",
+    "options": [
+      "Iets springt met een knal uit elkaar.",
+      "In elk geval, althans.",
+      "Vanaf nu.",
+      "Een uitstapje waarbij je iets leert."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 120,
+    "theme": "Thema 1",
+    "question": "in de prak",
+    "options": [
+      "Een belevenis van vroeger waar je aan denkt.",
+      "Samen met iemand de leuke en vervelende dingen van het leven delen.",
+      "Als een auto of een fiets kapot is door een aanrijding ligt hij in de prak.",
+      "Erger worden. Als een ruzie hoog oploopt, wordt de ruzie steeds erger."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 121,
+    "theme": "Thema 1",
+    "question": "het voertuig",
+    "options": [
+      "Een foto, filmpje of stukje tekst dat je toevoegt aan een e-mail.",
+      "Met een voertuig vervoer je mensen of dingen. Bijvoorbeeld een auto, een fiets of een brommer.",
+      "Dat wat je mooi en belangrijk vindt. Bijvoorbeeld: je kledingsmaak.",
+      "Door, met hulp van."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 122,
+    "theme": "Thema 1",
+    "question": "de bestelwagen",
+    "options": [
+      "Hoe iedereen zich voelt. Als iedereen vrolijk is, hangt er een goede stemming.",
+      "Heel erg zwaar, zoals een olifant.",
+      "Iets op een leuke manier, met veel bijzonderheden vertellen.",
+      "Een auto die je gebruikt om spullen mee te vervoeren."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 123,
+    "theme": "Thema 1",
+    "question": "de truck",
+    "options": [
+      "Een woest gebied waar geen mensen wonen.",
+      "Een vrachtwagen.",
+      "Je verkoopt iets voor meer geld dan je er zelf voor hebt betaald. Het geld dat je overhoudt, noem je de winst.",
+      "De plaats waar twee wegen bij elkaar komen in de vorm van een kruis."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 124,
+    "theme": "Thema 1",
+    "question": "de koets",
+    "options": [
+      "Kijken of iets in orde is.",
+      "Een voertuig dat wordt getrokken door paarden.",
+      "Een papier waarop staat dat je geslaagd bent voor iets.",
+      "Apparaat waarmee je door de tijd kunt reizen, naar het verleden of de toekomst. Het apparaat bestaat niet echt."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 125,
+    "theme": "Thema 1",
+    "question": "stapvoets",
+    "options": [
+      "Regelen, zorgen dat iets gebeurt.",
+      "Langzaam rijden, je gaat niet veel harder dan iemand die loopt.",
+      "Je voelt je nergens veiliger en beter op je gemak dan in je eigen huis.",
+      "Zonder problemen."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 126,
+    "theme": "Thema 1",
+    "question": "pijlsnel",
+    "options": [
+      "Sinds die tijd.",
+      "De mensen die in een oorlog in het geheim tegen de vijand vechten.",
+      "Heel snel, bliksemsnel.",
+      "Iemand die schiet met een geweer."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 127,
+    "theme": "Thema 1",
+    "question": "in aantocht zijn",
+    "options": [
+      "Precies op een bepaalde tijd. Het gebeurde klokslag twaalf uur, het gebeurde precies om 12 uur.",
+      "Iemand die schiet met een geweer.",
+      "Iemand die een opleiding volgt, gaat naar school of leert een vak.",
+      "Als iemand in aantocht is, is hij onderweg. Hij komt er binnenkort aan."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 128,
+    "theme": "Thema 1",
+    "question": "echter",
+    "options": [
+      "Het is verstandig om vroeg op te staan in plaats van lang door te slapen.",
+      "Alle mensen in een land.",
+      "Iets leuks wat je kunt doen of zien, bijvoorbeeld in een pretpark.",
+      "Maar."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 129,
+    "theme": "Thema 1",
+    "question": "vervolgens",
+    "options": [
+      "Daarna.",
+      "Een voertuig dat wordt getrokken door paarden.",
+      "Standbeelden gemaakt door kunstenaars.",
+      "Bijna."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 130,
+    "theme": "Thema 1",
+    "question": "de weggebruiker",
+    "options": [
+      "Als je niet meer zenuwachtig of bang bent.",
+      "Een brief van je werkgever waar in staat hoe je je werk hebt gedaan.",
+      "Iemand die op de weg rijdt of loopt.",
+      "De afspraken over wat wel en niet mag in het spel."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 131,
+    "theme": "Thema 1",
+    "question": "de versnelling",
+    "options": [
+      "Een belevenis van vroeger waar je aan denkt.",
+      "Je vader en je moeder, maar ook je opa's en oma's en hun ouders.",
+      "Heel erg licht, zoals een veertje.",
+      "Als je de auto in een hogere versnelling zet, laat je de motor harder werken. Je kunt dan harder rijden."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 132,
+    "theme": "Thema 1",
+    "question": "belanden",
+    "options": [
+      "Een winkel waar je spullen kunt kopen om grappen mee uit te halen.",
+      "Langzaam lopen.",
+      "Alleen de heenreis, niet de terugreis.",
+      "Toevallig ergens terechtkomen."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 133,
+    "theme": "Thema 1",
+    "question": "strafbaar",
+    "options": [
+      "Iets waarvoor je straf kunt krijgen, is strafbaar. Bijvoorbeeld: iets stelen is strafbaar.",
+      "Langzaam lopen.",
+      "Je fantasie. Iets gebeurt niet echt, maar alleen in je gedachten.",
+      "Een soort grote verrekijker waarmee je naar de sterren en planeten kijkt."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 134,
+    "theme": "Thema 1",
+    "question": "je straf ontlopen",
+    "options": [
+      "Iemand die in een oorlog samenwerkt met de vijand.",
+      "Als je iets scherp ziet, dan zie je iets duidelijk.",
+      "Je straf op één of andere manier niet krijgen.",
+      "Verbrand hout, waarmee je zwart kunt tekenen."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 135,
+    "theme": "Thema 1",
+    "question": "Boontje komt om zijn loontje",
+    "options": [
+      "Een voertuig om mee door de ruimte te reizen.",
+      "Doppen' wordt gebruikt voor 'ogen'. Het betekent zoiets als: 'Let op wat je doet!'",
+      "Je krijgt de straf die je verdient.",
+      "Als je iets scherp ziet, dan zie je iets duidelijk."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 136,
+    "theme": "Thema 1",
+    "question": "de dader",
+    "options": [
+      "Iemand die iets ergs heeft gedaan wat strafbaar is.",
+      "Een dokter die mensen opereert.",
+      "Iemand die iets doet voor zijn plezier.",
+      "Als er geen oorlog is, is er vrede."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 137,
+    "theme": "Thema 1",
+    "question": "het slachtoffer",
+    "options": [
+      "Een tijd heel lang geleden, toen mensen dingen van steen maakten en gebruikten.",
+      "Heel erg bang.",
+      "Iets springt met een knal uit elkaar.",
+      "Iemand die iets ergs heeft meegemaakt zonder dat hij daar iets aan kon doen."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 138,
+    "theme": "Thema 1",
+    "question": "een misdaad begaan",
+    "options": [
+      "Iets slechts doen wat strafbaar is.",
+      "Iemand die voor zijn beroep geiten houdt.",
+      "Alles wat te maken heeft met het verleden.",
+      "Een uitstapje waarbij je iets leert."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 139,
+    "theme": "Thema 1",
+    "question": "vergeefs",
+    "options": [
+      "Zonder dat het iets oplevert.",
+      "Iets van de ene taal omzetten in een andere taal.",
+      "Alle materialen (boeken, folders) waarin of waarop informatie staat.",
+      "Als je je ogen uitkijkt, dan is er van alles te zien."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 140,
+    "theme": "Thema 1",
+    "question": "de cel",
+    "options": [
+      "Een apparaat waarmee je kleine dingen heel erg kunt vergroten zodat je ze beter kunt bekijken.",
+      "Kleine kamer in de gevangenis of het politiebureau waar daders / boeven in worden opgesloten.",
+      "Een beeld van een persoon. Iemand kan een standbeeld krijgen als hij of zij iets bijzonders heeft gedaan.",
+      "Heel droevig."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 141,
+    "theme": "Thema 1",
+    "question": "de spelregels",
+    "options": [
+      "In brand staan.",
+      "Een ding waarmee je een probleem kunt oplossen, je gebruikt het onverwacht.",
+      "Heel snel, bliksemsnel.",
+      "De afspraken over wat wel en niet mag in het spel."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 142,
+    "theme": "Thema 1",
+    "question": "de voorrang",
+    "options": [
+      "Iets wat je goed weet.",
+      "Als je voorrang hebt in het verkeer, dan mag je als eerste rijden of oversteken.",
+      "Een attractie waarbij je snel ronddraait. De stoeltjes hangen aan touwen, waardoor je gaat zweven als de molen gaat draaien.",
+      "Als je je aandacht goed bij één ding houdt, concentreer je je."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 143,
+    "theme": "Thema 1",
+    "question": "de parkeerplaats",
+    "options": [
+      "De plaats waar je je auto voor een tijdje kunt neerzetten.",
+      "Een beeld, schilderij of iets anders wat door een kunstenaar gemaakt is.",
+      "Als iemand in aantocht is, is hij onderweg. Hij komt er binnenkort aan.",
+      "De tijd die nu is."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 144,
+    "theme": "Thema 1",
+    "question": "dat slaat nergens op",
+    "options": [
+      "Alles wat te maken heeft met het reizen door de ruimte.",
+      "Iemand die muziek draait, bijvoorbeeld op de radio of op een feest.",
+      "Iemand die voor zijn beroep gesproken taal vertaalt naar gebarentaal.",
+      "Dat is onzin."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 145,
+    "theme": "Thema 8",
+    "question": "de verpleegkundige",
+    "options": [
+      "Als je ergens een tijdje bent en je vindt het er geweldig leuk.",
+      "Iemand die zieken verzorgt.",
+      "Zeggen dat je ergens spijt van hebt, bijvoorbeeld na een ruzie.",
+      "Vreselijk, akelig."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 146,
+    "theme": "Thema 8",
+    "question": "de chirurg",
+    "options": [
+      "Een kasteel.",
+      "Als je iets zonder nadenken doet. Het tegenovergestelde van bedachtzaam.",
+      "Een woord dat mensen gebruiken om iemand te beledigen.",
+      "Een dokter die mensen opereert."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 147,
+    "theme": "Thema 8",
+    "question": "de fysiotherapeut",
+    "options": [
+      "Je vader en je moeder, maar ook je opa's en oma's en hun ouders.",
+      "Doppen' wordt gebruikt voor 'ogen'. Het betekent zoiets als: 'Let op wat je doet!'",
+      "Iemand die als beroep mensen oefeningen laat doen met hun lichaam om weer gezond te worden.",
+      "Vaststellen, zorgen dat je iets zeker weet."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 148,
+    "theme": "Thema 8",
+    "question": "de imker",
+    "options": [
+      "Iets waarvoor je straf kunt krijgen, is strafbaar. Bijvoorbeeld: iets stelen is strafbaar.",
+      "Dat wat je mooi en belangrijk vindt. Bijvoorbeeld: je kledingsmaak.",
+      "Iemand die als beroep bijen houdt.",
+      "Iets is veel minder leuk of mooi dan je had verwacht."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 149,
+    "theme": "Thema 8",
+    "question": "de dierenarts",
+    "options": [
+      "Een dokter voor dieren.",
+      "Dat is onzin.",
+      "Maar, echter. Het geeft een tegenstelling aan.",
+      "Tevreden."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 150,
+    "theme": "Thema 8",
+    "question": "de geitenfokker",
+    "options": [
+      "Je weet het niet zeker. Je twijfelt.",
+      "De plaats waar een weg zich in tweeën deelt.",
+      "Iemand die zieken verzorgt.",
+      "Iemand die voor zijn beroep geiten houdt."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 151,
+    "theme": "Thema 8",
+    "question": "deskundig",
+    "options": [
+      "De hoeveelheid die er van iets gemaakt is. De kwantiteit kan groot of klein zijn.",
+      "Als je ergens verstand van hebt, ben je deskundig.",
+      "Maar, echter. Het geeft een tegenstelling aan.",
+      "Een gedicht van veertien regels. Het gaat vaak over de gevoelens van de dichter."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 152,
+    "theme": "Thema 8",
+    "question": "legen",
+    "options": [
+      "Dat wat je mooi en belangrijk vindt. Bijvoorbeeld: je kledingsmaak.",
+      "Tevreden.",
+      "Leegmaken.",
+      "Iets waar je meer over wilt weten."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 153,
+    "theme": "Thema 8",
+    "question": "bloed afnemen",
+    "options": [
+      "Een soort grote verrekijker waarmee je naar de sterren en planeten kijkt.",
+      "Alles wat te maken heeft met het reizen door de ruimte.",
+      "De hoeveelheid die er van iets gemaakt is. De kwantiteit kan groot of klein zijn.",
+      "Een beetje bloed uit iemands lichaam halen om te onderzoeken of iemand ziek is."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 154,
+    "theme": "Thema 8",
+    "question": "verschonen",
+    "options": [
+      "Een uitstapje waarbij je iets leert.",
+      "Schone lakens op een bed doen of schone kleren aandoen.",
+      "Een van je zintuigen. Met je zicht kun je zien.",
+      "Iemand die op de weg rijdt of loopt."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 155,
+    "theme": "Thema 8",
+    "question": "ergens aan toekomen",
+    "options": [
+      "De tijd vinden om iets te doen.",
+      "Je weet het niet zeker. Je twijfelt.",
+      "Zonder gewicht, zoals bijvoorbeeld een astronaut in de ruimte.",
+      "Als het de hoogste tijd is, is het echt tijd om iets te gaan doen."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 156,
+    "theme": "Thema 8",
+    "question": "wringen",
+    "options": [
+      "De mensen die in een oorlog in het geheim tegen de vijand vechten.",
+      "Als iets krap zit, wringt het.",
+      "Een winkel waar je spullen kunt kopen om grappen mee uit te halen.",
+      "Een ding waarmee je een probleem kunt oplossen, je gebruikt het onverwacht."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 157,
+    "theme": "Thema 8",
+    "question": "de opleiding",
+    "options": [
+      "Een kasteel.",
+      "Een tijd heel lang geleden, toen mensen dingen van steen maakten en gebruikten.",
+      "Iemand die op de weg rijdt of loopt.",
+      "Iemand die een opleiding volgt, gaat naar school of leert een vak."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 158,
+    "theme": "Thema 8",
+    "question": "de kennis",
+    "options": [
+      "Iets wat je goed weet.",
+      "Heel boos.",
+      "Daar komt nog bij dat....",
+      "De plaats waar je binnenkomt."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 159,
+    "theme": "Thema 8",
+    "question": "het getuigschrift",
+    "options": [
+      "Doppen' wordt gebruikt voor 'ogen'. Het betekent zoiets als: 'Let op wat je doet!'",
+      "Je vader en je moeder, maar ook je opa's en oma's en hun ouders.",
+      "Een brief van je werkgever waar in staat hoe je je werk hebt gedaan.",
+      "Als er geen oorlog is, is er vrede."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 160,
+    "theme": "Thema 8",
+    "question": "de baan",
+    "options": [
+      "De plek waar je je herinneringen bewaart.",
+      "Een apparaatje waarmee je beter kunt horen.",
+      "Voor een deel.",
+      "Het werk dat je doet."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 161,
+    "theme": "Thema 8",
+    "question": "de vaardigheid",
+    "options": [
+      "Iets wat je goed kunt.",
+      "Als je ergens verstand van hebt, ben je deskundig.",
+      "Precies op een bepaalde tijd. Het gebeurde klokslag twaalf uur, het gebeurde precies om 12 uur.",
+      "Iets zeggen waardoor je iemand pijn doet of boos maakt."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 162,
+    "theme": "Thema 8",
+    "question": "de fopwinkel",
+    "options": [
+      "Een vieze troep.",
+      "Er verandert iets en iets anders verandert mee. Naarmate je ouder wordt, word je groter.",
+      "Een winkel waar je spullen kunt kopen om grappen mee uit te halen.",
+      "Daarna."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 163,
+    "theme": "Thema 8",
+    "question": "ontploffen",
+    "options": [
+      "Iets springt met een knal uit elkaar.",
+      "De planeet waar wij op wonen.",
+      "Wat je ergens van vindt, je mening.",
+      "Voor een deel."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 164,
+    "theme": "Thema 8",
+    "question": "het niespoeder",
+    "options": [
+      "Fijngemalen stof waarmee je iemand kunt laten niesen.",
+      "Iets zeggen waardoor je iemand pijn doet of boos maakt.",
+      "Een nieuw stuk tekst in een gedicht of liedje.",
+      "Iets wat je goed weet."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 165,
+    "theme": "Thema 8",
+    "question": "behalen",
+    "options": [
+      "De manier waarop je staat, zit of ligt. Hiermee laat je vaak zien hoe je je voelt.",
+      "Iets bereiken doordat je er je best voor hebt gedaan.",
+      "Hard en vrolijk lachen.",
+      "Zoals het is."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 166,
+    "theme": "Thema 8",
+    "question": "de winst",
+    "options": [
+      "Je verkoopt iets voor meer geld dan je er zelf voor hebt betaald. Het geld dat je overhoudt, noem je de winst.",
+      "Kijken of iets goed is, bepalen of iets goed is.",
+      "Iets zo goed of leuk vertellen of doen dat anderen (ook) goede ideeën krijgen of zin krijgen om iets te doen.",
+      "Heel boos."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 167,
+    "theme": "Thema 8",
+    "question": "jong geleerd, oud gedaan",
+    "options": [
+      "De manier waarop je staat, zit of ligt. Hiermee laat je vaak zien hoe je je voelt.",
+      "Een dokter voor dieren.",
+      "Een tijd heel lang geleden, toen mensen dingen van steen maakten en gebruikten.",
+      "Wat je in je jeugd leert, kan de rest van je leven nuttig zijn."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 168,
+    "theme": "Thema 8",
+    "question": "ergens in uitblinken",
+    "options": [
+      "Een ruimtevaarder. Iemand die door de ruimte reist.",
+      "Spullen om mee te tekenen.",
+      "Plaats waar films, (oude) boeken en andere voorwerpen bewaard worden.",
+      "Iets heel goed kunnen."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 169,
+    "theme": "Thema 8",
+    "question": "de professional",
+    "options": [
+      "Iemand die iets doet voor zijn beroep.",
+      "Een auto die je gebruikt om spullen mee te vervoeren.",
+      "Iets afschieten, iets de lucht in laten gaan. Bijvoorbeeld een raket.",
+      "De moed verliezen, geen zin meer hebben."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 170,
+    "theme": "Thema 8",
+    "question": "de amateur",
+    "options": [
+      "Iemand die iets doet voor zijn plezier.",
+      "Een voertuig dat wordt getrokken door paarden.",
+      "De reden waarom je iets vindt of doet.",
+      "Kijken of iets in orde is."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 171,
+    "theme": "Thema 8",
+    "question": "het tekenmateriaal",
+    "options": [
+      "Als je de auto in een hogere versnelling zet, laat je de motor harder werken. Je kunt dan harder rijden.",
+      "De verzameling.",
+      "Even over iets nadenken.",
+      "Spullen om mee te tekenen."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 172,
+    "theme": "Thema 8",
+    "question": "het waskrijt",
+    "options": [
+      "Heel erg licht, zoals een veertje.",
+      "Een bol in de ruimte die om de zon draait. De aarde is ook een planeet.",
+      "Iemand die als beroep mensen oefeningen laat doen met hun lichaam om weer gezond te worden.",
+      "Gekleurde stiften gemaakt van vette stof."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 173,
+    "theme": "Thema 8",
+    "question": "de fineliner",
+    "options": [
+      "Regelen, zorgen dat iets gebeurt.",
+      "Sinds die tijd.",
+      "Een bewijs waarop staat wie je bent, hoe je eruitziet en waar je vandaan komt. Je neemt je paspoort altijd mee naar het buitenland.",
+      "Pen die lijkt op een viltstift, maar dunner schrijft."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 174,
+    "theme": "Thema 8",
+    "question": "de houtskool",
+    "options": [
+      "Direct, onmiddellijk.",
+      "Verbrand hout, waarmee je zwart kunt tekenen.",
+      "Het werk dat je doet.",
+      "Je vindt iets, je hebt een mening, maar je bekijkt dingen soms van twee kanten. Bijvoorbeeld wat leuk is en wat minder leuk is."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 175,
+    "theme": "Thema 8",
+    "question": "de striptekenaar",
+    "options": [
+      "De hoeveelheid die er van iets gemaakt is. De kwantiteit kan groot of klein zijn.",
+      "Iemand die stripverhalen tekent.",
+      "Iets wat je goed weet.",
+      "Iemand die in het ziekenhuis voor de zieken zorgt."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 176,
+    "theme": "Thema 8",
+    "question": "de sluiswachter",
+    "options": [
+      "Iemand die een sluis bedient. Een sluis is een deur die water tegenhoudt.",
+      "Heel hard lachen met veel lawaai.",
+      "Iemand die stripverhalen tekent.",
+      "Als iemand in aantocht is, is hij onderweg. Hij komt er binnenkort aan."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 177,
+    "theme": "Thema 8",
+    "question": "de diskjockey",
+    "options": [
+      "Iets waar je meer over wilt weten.",
+      "Snel lopen.",
+      "Een attractie waarbij je met een treintje over rails rijdt. De rails gaan omlaag of omhoog, of ze maken gekke bochten.",
+      "Iemand die muziek draait, bijvoorbeeld op de radio of op een feest."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 178,
+    "theme": "Thema 8",
+    "question": "de aanleg",
+    "options": [
+      "Een van je zintuigen. Met je reuk kun je ruiken.",
+      "Een apparaat waarmee je kleine dingen heel erg kunt vergroten zodat je ze beter kunt bekijken.",
+      "Gekleurde stiften gemaakt van vette stof.",
+      "Als je iets goed kunt zonder dat je er veel moeite voor hoeft te doen. Aanleg is een ander woord voor talent."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 179,
+    "theme": "Thema 8",
+    "question": "schoenmaker, blijf bij je leest",
+    "options": [
+      "Snel lopen.",
+      "Iets zeggen waardoor je iemand pijn doet of boos maakt.",
+      "Dit zeg je tegen iemand als hij zich bemoeit met iets waar hij geen verstand van heeft.",
+      "Wat je ergens van vindt, je mening."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 180,
+    "theme": "Thema 8",
+    "question": "dat is niet mijn ding",
+    "options": [
+      "Kleine, doorzichtige rondjes die je op je ogen doet om beter te zien. Lenzen draag je in plaats van een bril.",
+      "Dit zeg je als je ergens niet goed in bent of ergens niet van houdt.",
+      "Verschillende.",
+      "Iets wat moet, bijvoorbeeld fietsen op het fietspad."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 181,
+    "theme": "Thema 5",
+    "question": "de ruimtevaart",
+    "options": [
+      "Een onderzoek(je) naar hoe iets werkt.",
+      "Stukken oud ijzer.",
+      "Alles wat te maken heeft met het reizen door de ruimte.",
+      "Een deel van iemands lichaam dat niet helemaal in orde is."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 182,
+    "theme": "Thema 5",
+    "question": "de astronaut",
+    "options": [
+      "Je verkoopt iets voor meer geld dan je er zelf voor hebt betaald. Het geld dat je overhoudt, noem je de winst.",
+      "Een ruimtevaarder. Iemand die door de ruimte reist.",
+      "De tijd die nu is.",
+      "Langzaam lopen."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 183,
+    "theme": "Thema 5",
+    "question": "het heelal",
+    "options": [
+      "Al heel vaak.",
+      "Heel erg saai.",
+      "Je voelt je nergens veiliger en beter op je gemak dan in je eigen huis.",
+      "De ruimte waarin zich de aarde, de planeten en de sterren bevinden."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 184,
+    "theme": "Thema 5",
+    "question": "het ruimteschip",
+    "options": [
+      "De tijd vinden om iets te doen.",
+      "Een voertuig om mee door de ruimte te reizen.",
+      "Iets wat moet, bijvoorbeeld fietsen op het fietspad.",
+      "Iemand die in een oorlog samenwerkt met de vijand."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 185,
+    "theme": "Thema 5",
+    "question": "vastberaden",
+    "options": [
+      "Als iets is afgezet, dan kun je er niet langs, de toegang is afgesloten.",
+      "Een stuk tekst in een gedicht of liedje dat regelmatig terugkomt.",
+      "Als je vast van plan bent om te doen wat je besloten hebt. Je twijfelt niet.",
+      "Dat wat je mooi en belangrijk vindt. Bijvoorbeeld: je kledingsmaak."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 186,
+    "theme": "Thema 5",
+    "question": "weifelend",
+    "options": [
+      "Een voertuig dat wordt getrokken door paarden.",
+      "Een ding dat je kunt zien en voelen.",
+      "Met je gezicht laten zien hoe je je voelt. Bijvoorbeeld boos, verdrietig of blij.",
+      "Je weet het niet zeker. Je twijfelt."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 187,
+    "theme": "Thema 5",
+    "question": "de verbeelding",
+    "options": [
+      "Je fantasie. Iets gebeurt niet echt, maar alleen in je gedachten.",
+      "Je krijgt de straf die je verdient.",
+      "Iets is veel minder leuk of mooi dan je had verwacht.",
+      "De moed verliezen, geen zin meer hebben."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 188,
+    "theme": "Thema 5",
+    "question": "buitenaards",
+    "options": [
+      "Iets wat niet van de aarde komt, zoals een maansteen.",
+      "Een attractie waarbij je met een treintje over rails rijdt. De rails gaan omlaag of omhoog, of ze maken gekke bochten.",
+      "Als een auto of een fiets kapot is door een aanrijding ligt hij in de prak.",
+      "Een beetje. Bijvoorbeeld: Ik was enigszins in de war."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 189,
+    "theme": "Thema 5",
+    "question": "de planeet",
+    "options": [
+      "Een bol in de ruimte die om de zon draait. De aarde is ook een planeet.",
+      "Met een voertuig vervoer je mensen of dingen. Bijvoorbeeld een auto, een fiets of een brommer.",
+      "Iemand die muziek draait, bijvoorbeeld op de radio of op een feest.",
+      "Je straf op één of andere manier niet krijgen."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 190,
+    "theme": "Thema 5",
+    "question": "amper",
+    "options": [
+      "Heel blij zijn, je laat dat merken met geluid.",
+      "Met veel aandacht naar iemand luisteren.",
+      "Een apparaat dat om de aarde draait. Het maakt foto's van de aarde, of zendt tv-programma's uit.",
+      "Nauwelijks. Bijna niet."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 191,
+    "theme": "Thema 5",
+    "question": "de enkele reis",
+    "options": [
+      "Alleen de heenreis, niet de terugreis.",
+      "Een attractie waarbij je met een bootje over wild stromend water vaart.",
+      "Door, met hulp van.",
+      "Gedichten."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 192,
+    "theme": "Thema 5",
+    "question": "lanceren",
+    "options": [
+      "De tijd vinden om iets te doen.",
+      "Iets afschieten, iets de lucht in laten gaan. Bijvoorbeeld een raket.",
+      "De mensen die in een oorlog in het geheim tegen de vijand vechten.",
+      "Oud verhaal over een held dat vaak is verteld."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 193,
+    "theme": "Thema 5",
+    "question": "het ruimtestation",
+    "options": [
+      "Langzaam rijden, je gaat niet veel harder dan iemand die loopt.",
+      "Iets slechts doen wat strafbaar is.",
+      "Een ruimtevoertuig waar verschillende astronauten een tijdje blijven om onderzoek te doen.",
+      "Angstig."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 194,
+    "theme": "Thema 5",
+    "question": "de aarde",
+    "options": [
+      "De planeet waar wij op wonen.",
+      "Met je lichaam laten zien hoe je je voelt.",
+      "Iemand die als beroep bijen houdt.",
+      "Als je je aandacht goed bij één ding houdt, concentreer je je."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 195,
+    "theme": "Thema 5",
+    "question": "de satelliet",
+    "options": [
+      "Een apparaat dat om de aarde draait. Het maakt foto's van de aarde, of zendt tv-programma's uit.",
+      "Als je voorrang hebt in het verkeer, dan mag je als eerste rijden of oversteken.",
+      "Heel boos.",
+      "Iets zo goed of leuk vertellen of doen dat anderen (ook) goede ideeën krijgen of zin krijgen om iets te doen."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 196,
+    "theme": "Thema 5",
+    "question": "het laboratorium",
+    "options": [
+      "Een bol in de ruimte die om de zon draait. De aarde is ook een planeet.",
+      "Samen met iemand de leuke en vervelende dingen van het leven delen.",
+      "Een grote ruimte waar proeven gedaan worden. Er worden dingen onderzocht.",
+      "Bijna nooit."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 197,
+    "theme": "Thema 5",
+    "question": "de wetenschapper",
+    "options": [
+      "Iemand die een sluis bedient. Een sluis is een deur die water tegenhoudt.",
+      "De planeet waar wij op wonen.",
+      "Iemand die voor zijn beroep dingen onderzoekt om steeds meer daarover te weten te komen.",
+      "Je verkoopt iets voor meer geld dan je er zelf voor hebt betaald. Het geld dat je overhoudt, noem je de winst."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 198,
+    "theme": "Thema 5",
+    "question": "de proef",
+    "options": [
+      "Heel verbaasd kijken.",
+      "Als je je ogen uitkijkt, dan is er van alles te zien.",
+      "Een onderzoek(je) naar hoe iets werkt.",
+      "Een beeld, schilderij of iets anders wat door een kunstenaar gemaakt is."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 199,
+    "theme": "Thema 5",
+    "question": "op slag",
+    "options": [
+      "Het werk dat je doet.",
+      "Opeens.",
+      "Een attractie waarbij je met een treintje over rails rijdt. De rails gaan omlaag of omhoog, of ze maken gekke bochten.",
+      "Iets zeggen waardoor je iemand pijn doet of boos maakt."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 200,
+    "theme": "Thema 5",
+    "question": "het zonnestelsel",
+    "options": [
+      "De zon en de planeten die om de zon draaien.",
+      "Dit zeg je als je ergens niet goed in bent of ergens niet van houdt.",
+      "Iets van de ene taal omzetten in een andere taal.",
+      "Zonder problemen."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 201,
+    "theme": "Thema 5",
+    "question": "de smeerboel",
+    "options": [
+      "Heel erg druk.",
+      "Kleine, doorzichtige rondjes die je op je ogen doet om beter te zien. Lenzen draag je in plaats van een bril.",
+      "Een vieze troep.",
+      "Iemand die als beroep bijen houdt."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 202,
+    "theme": "Thema 5",
+    "question": "de telescoop",
+    "options": [
+      "Heel hard lachen met veel lawaai.",
+      "Als je ergens een tijdje bent en je vindt het er geweldig leuk.",
+      "Behalve. Bijvoorbeeld: Hein speelt elke dag buiten, met uitzondering van zondag.",
+      "Een soort grote verrekijker waarmee je naar de sterren en planeten kijkt."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 203,
+    "theme": "Thema 5",
+    "question": "gedeeltelijk",
+    "options": [
+      "Een ding waarmee je een probleem kunt oplossen, je gebruikt het onverwacht.",
+      "Een beetje. Bijvoorbeeld: Ik was enigszins in de war.",
+      "Voor een deel.",
+      "Een tekst waarin iemand zijn mening geeft over een boek, film of toneelstuk."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 204,
+    "theme": "Thema 5",
+    "question": "een luchtje scheppen",
+    "options": [
+      "In brand staan.",
+      "Behalve. Bijvoorbeeld: Hein speelt elke dag buiten, met uitzondering van zondag.",
+      "Even naar buiten gaan.",
+      "Spullen om mee te tekenen."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 205,
+    "theme": "Thema 5",
+    "question": "spontaan",
+    "options": [
+      "Als je iets zonder nadenken doet. Het tegenovergestelde van bedachtzaam.",
+      "Iets in de lengte in stukken slaan of breken. Bijvoorbeeld: een plank splijten.",
+      "Opeens.",
+      "Fijngemalen stof waarmee je iemand kunt laten niesen."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 206,
+    "theme": "Thema 5",
+    "question": "bedachtzaam",
+    "options": [
+      "Heel erg oud.",
+      "Als je eerst goed nadenkt voor je iets doet. Het tegenovergestelde van spontaan.",
+      "Vanaf nu.",
+      "Een attractie waarbij je snel ronddraait. De stoeltjes hangen aan touwen, waardoor je gaat zweven als de molen gaat draaien."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 207,
+    "theme": "Thema 5",
+    "question": "gewichtloos",
+    "options": [
+      "Zonder gewicht, zoals bijvoorbeeld een astronaut in de ruimte.",
+      "Opeens.",
+      "Daar komt nog bij dat....",
+      "Iemand die voor zijn beroep gesproken taal vertaalt naar gebarentaal."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 208,
+    "theme": "Thema 5",
+    "question": "vederlicht",
+    "options": [
+      "Heel erg licht, zoals een veertje.",
+      "De tijd die nu is.",
+      "De plaats waar je je auto voor een tijdje kunt neerzetten.",
+      "Vanaf nu."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 209,
+    "theme": "Thema 5",
+    "question": "loodzwaar",
+    "options": [
+      "Dit woord geeft een tegenstelling aan: hoewel het regende, ging de wedstrijd door.",
+      "Heel erg zwaar, zoals een olifant.",
+      "Als je vast van plan bent om te doen wat je besloten hebt. Je twijfelt niet.",
+      "Kijken of iets goed is, bepalen of iets goed is."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 210,
+    "theme": "Thema 5",
+    "question": "rasecht",
+    "options": [
+      "Een apparaat waarmee je kleine dingen heel erg kunt vergroten zodat je ze beter kunt bekijken.",
+      "Heel echt, helemaal echt.",
+      "Iets bereiken doordat je er je best voor hebt gedaan.",
+      "Snel lopen."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 211,
+    "theme": "Thema 5",
+    "question": "het couplet",
+    "options": [
+      "Oud verhaal over een held dat vaak is verteld.",
+      "Schilderijen gemaakt door kunstenaars.",
+      "Een nieuw stuk tekst in een gedicht of liedje.",
+      "De mensen die in een oorlog in het geheim tegen de vijand vechten."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 212,
+    "theme": "Thema 5",
+    "question": "het refrein",
+    "options": [
+      "Zeggen dat je ergens spijt van hebt, bijvoorbeeld na een ruzie.",
+      "Iets zeggen waardoor je iemand pijn doet of boos maakt.",
+      "Een stuk tekst in een gedicht of liedje dat regelmatig terugkomt.",
+      "Wat je in je jeugd leert, kan de rest van je leven nuttig zijn."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 213,
+    "theme": "Thema 5",
+    "question": "luchtig",
+    "options": [
+      "Zonder problemen.",
+      "Stukken oud ijzer.",
+      "Een beetje bloed uit iemands lichaam halen om te onderzoeken of iemand ziek is.",
+      "Het werk dat je doet."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 214,
+    "theme": "Thema 5",
+    "question": "de toestand",
+    "options": [
+      "Als je ergens verstand van hebt, ben je deskundig.",
+      "Zintuigen geven je informatie over de wereld om je heen. Je kunt ermee horen, zien, ruiken, proeven en voelen.",
+      "Iets wat je kunt zien.",
+      "Zoals het is."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 215,
+    "theme": "Thema 5",
+    "question": "Zoals het klokje thuis tikt, tikt het nergens",
+    "options": [
+      "Met je gezicht laten zien hoe je je voelt. Bijvoorbeeld boos, verdrietig of blij.",
+      "Heel erg druk.",
+      "Je voelt je nergens veiliger en beter op je gemak dan in je eigen huis.",
+      "Een vieze troep."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 216,
+    "theme": "Thema 5",
+    "question": "De morgenstond heeft goud in de mond",
+    "options": [
+      "Het is verstandig om vroeg op te staan in plaats van lang door te slapen.",
+      "Met je gezicht laten zien hoe je je voelt. Bijvoorbeeld boos, verdrietig of blij.",
+      "Iets zo goed of leuk vertellen of doen dat anderen (ook) goede ideeën krijgen of zin krijgen om iets te doen.",
+      "Zonder gewicht, zoals bijvoorbeeld een astronaut in de ruimte."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 217,
+    "theme": "Thema 3",
+    "question": "glimlachen",
+    "options": [
+      "Iemand die in het ziekenhuis voor de zieken zorgt.",
+      "Lachen zonder je mond open te doen en geluid te maken.",
+      "Angstig.",
+      "Iemand die muziek draait, bijvoorbeeld op de radio of op een feest."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 218,
+    "theme": "Thema 3",
+    "question": "schateren",
+    "options": [
+      "Hard en vrolijk lachen.",
+      "Als je dingen over jezelf vertelt, maar daarbij flink overdrijft.",
+      "Als een auto of een fiets kapot is door een aanrijding ligt hij in de prak.",
+      "Een van je zintuigen. Met je tastzin kun je voelen, bijvoorbeeld met je handen."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 219,
+    "theme": "Thema 3",
+    "question": "het uitgieren",
+    "options": [
+      "Heel hard lachen met veel lawaai.",
+      "Heel verbaasd kijken.",
+      "Direct, onmiddellijk.",
+      "Voor een deel."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 220,
+    "theme": "Thema 3",
+    "question": "opgelucht",
+    "options": [
+      "Iets springt met een knal uit elkaar.",
+      "Kijken of iets goed is, bepalen of iets goed is.",
+      "Als je niet meer zenuwachtig of bang bent.",
+      "Opeens."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 221,
+    "theme": "Thema 3",
+    "question": "benauwd",
+    "options": [
+      "Als je voorrang hebt in het verkeer, dan mag je als eerste rijden of oversteken.",
+      "De verzameling.",
+      "Je voelt je nergens veiliger en beter op je gemak dan in je eigen huis.",
+      "Angstig."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 222,
+    "theme": "Thema 3",
+    "question": "organiseren",
+    "options": [
+      "Als je je ogen uitkijkt, dan is er van alles te zien.",
+      "Het grapje.",
+      "Doordat.",
+      "Regelen, zorgen dat iets gebeurt."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 223,
+    "theme": "Thema 3",
+    "question": "de wandeltocht",
+    "options": [
+      "Een beetje bloed uit iemands lichaam halen om te onderzoeken of iemand ziek is.",
+      "Daarna.",
+      "Een georganiseerde wandeling.",
+      "Iemand die in het ziekenhuis voor de zieken zorgt."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 224,
+    "theme": "Thema 3",
+    "question": "acuut",
+    "options": [
+      "Direct, onmiddellijk.",
+      "Angstig.",
+      "De plaats waar je binnenkomt.",
+      "Als het de hoogste tijd is, is het echt tijd om iets te gaan doen."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 225,
+    "theme": "Thema 3",
+    "question": "klokslag",
+    "options": [
+      "Precies op een bepaalde tijd. Het gebeurde klokslag twaalf uur, het gebeurde precies om 12 uur.",
+      "Behalve. Bijvoorbeeld: Hein speelt elke dag buiten, met uitzondering van zondag.",
+      "Alle kunst die je kunt zien of aanraken, bijvoorbeeld schilderijen, standbeelden of foto's.",
+      "Je vader en je moeder, maar ook je opa's en oma's en hun ouders."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 226,
+    "theme": "Thema 3",
+    "question": "hoewel",
+    "options": [
+      "Dit woord geeft een tegenstelling aan: hoewel het regende, ging de wedstrijd door.",
+      "Iets van de ene taal omzetten in een andere taal.",
+      "Hoe goed of hoe slecht iets (gemaakt) is. De kwaliteit kan goed of slecht zijn.",
+      "Als je je aandacht goed bij één ding houdt, concentreer je je."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 227,
+    "theme": "Thema 3",
+    "question": "het geheime wapen",
+    "options": [
+      "Een ding waarmee je een probleem kunt oplossen, je gebruikt het onverwacht.",
+      "Heel boos.",
+      "Iets waarvoor je straf kunt krijgen, is strafbaar. Bijvoorbeeld: iets stelen is strafbaar.",
+      "Als iets is afgezet, dan kun je er niet langs, de toegang is afgesloten."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 228,
+    "theme": "Thema 3",
+    "question": "het valt vies tegen",
+    "options": [
+      "Een vrachtwagen.",
+      "Als je eerst goed nadenkt voor je iets doet. Het tegenovergestelde van spontaan.",
+      "Fijngemalen stof waarmee je iemand kunt laten niesen.",
+      "Iets is veel minder leuk of mooi dan je had verwacht."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 229,
+    "theme": "Thema 3",
+    "question": "de stemming",
+    "options": [
+      "Taal waarbij je praat door middel van gebaren.",
+      "Kijken of iets in orde is.",
+      "Als je niet meer zenuwachtig of bang bent.",
+      "Hoe iedereen zich voelt. Als iedereen vrolijk is, hangt er een goede stemming."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 230,
+    "theme": "Thema 3",
+    "question": "uitgelaten",
+    "options": [
+      "Heel erg boos, woedend.",
+      "Gezellig en vriendelijk lachen.",
+      "Heel blij zijn, je laat dat merken met geluid.",
+      "De zon en de planeten die om de zon draaien."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 231,
+    "theme": "Thema 3",
+    "question": "droevig",
+    "options": [
+      "Met je lichaam laten zien hoe je je voelt.",
+      "Verdrietig.",
+      "Als je eerst goed nadenkt voor je iets doet. Het tegenovergestelde van spontaan.",
+      "Een van je zintuigen. Met je tastzin kun je voelen, bijvoorbeeld met je handen."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 232,
+    "theme": "Thema 3",
+    "question": "bezorgd",
+    "options": [
+      "Hoe iedereen zich voelt. Als iedereen vrolijk is, hangt er een goede stemming.",
+      "Bang zijn dat er iets fout gaat.",
+      "Kleine, doorzichtige rondjes die je op je ogen doet om beter te zien. Lenzen draag je in plaats van een bril.",
+      "Als je je schulden niet meer kunt betalen. Je hebt geen geld meer (op de bank)."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 233,
+    "theme": "Thema 3",
+    "question": "de attractie",
+    "options": [
+      "Iets leuks wat je kunt doen of zien, bijvoorbeeld in een pretpark.",
+      "Een boek waarin veel informatie staat over een bepaald onderwerp, bijvoorbeeld over alle schilderijen in een museum.",
+      "De plaats waar twee wegen bij elkaar komen in de vorm van een kruis.",
+      "De plaats waar je binnenkomt."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 234,
+    "theme": "Thema 3",
+    "question": "de wildwaterbaan",
+    "options": [
+      "Hard en vrolijk lachen.",
+      "Een attractie waarbij je met een bootje over wild stromend water vaart.",
+      "Met een voertuig vervoer je mensen of dingen. Bijvoorbeeld een auto, een fiets of een brommer.",
+      "Zonder problemen."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 235,
+    "theme": "Thema 3",
+    "question": "de achtbaan",
+    "options": [
+      "Een attractie waarbij je met een treintje over rails rijdt. De rails gaan omlaag of omhoog, of ze maken gekke bochten.",
+      "Een tekst waarin iemand zijn mening geeft over een boek, film of toneelstuk.",
+      "Afspraken die gelden in het verkeer.",
+      "In de tussentijd."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 236,
+    "theme": "Thema 3",
+    "question": "de zweefmolen",
+    "options": [
+      "Een attractie waarbij je snel ronddraait. De stoeltjes hangen aan touwen, waardoor je gaat zweven als de molen gaat draaien.",
+      "Een beeld van een persoon. Iemand kan een standbeeld krijgen als hij of zij iets bijzonders heeft gedaan.",
+      "Het deel van een maaltijd dat in één keer wordt opgediend.",
+      "Oud verhaal over een held dat vaak is verteld."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 237,
+    "theme": "Thema 3",
+    "question": "de excursie",
+    "options": [
+      "Met je lichaam laten zien hoe je je voelt.",
+      "Voor altijd.",
+      "De planeet waar wij op wonen.",
+      "Een uitstapje waarbij je iets leert."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 238,
+    "theme": "Thema 3",
+    "question": "afzetten",
+    "options": [
+      "Als iets is afgezet, dan kun je er niet langs, de toegang is afgesloten.",
+      "Iemand die zieken verzorgt.",
+      "Iemand die iets doet voor zijn beroep.",
+      "Ruzie tussen twee of meer landen."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 239,
+    "theme": "Thema 3",
+    "question": "in de fik staan",
+    "options": [
+      "In brand staan.",
+      "Iets waarvoor je straf kunt krijgen, is strafbaar. Bijvoorbeeld: iets stelen is strafbaar.",
+      "Iemand die een opleiding volgt, gaat naar school of leert een vak.",
+      "Nauwelijks. Bijna niet."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 240,
+    "theme": "Thema 3",
+    "question": "inmiddels",
+    "options": [
+      "In de tussentijd.",
+      "Iets in de lengte in stukken slaan of breken. Bijvoorbeeld: een plank splijten.",
+      "Alles wat te maken heeft met het verleden.",
+      "Een ding waarmee je een probleem kunt oplossen, je gebruikt het onverwacht."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 241,
+    "theme": "Thema 3",
+    "question": "het paspoort",
+    "options": [
+      "Een bewijs waarop staat wie je bent, hoe je eruitziet en waar je vandaan komt. Je neemt je paspoort altijd mee naar het buitenland.",
+      "Heel erg boos, woedend.",
+      "Een auto die je gebruikt om spullen mee te vervoeren.",
+      "Iemand die als beroep bijen houdt."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 242,
+    "theme": "Thema 3",
+    "question": "de douane",
+    "options": [
+      "Kleine kamer in de gevangenis of het politiebureau waar daders / boeven in worden opgesloten.",
+      "Als je je aandacht goed bij één ding houdt, concentreer je je.",
+      "Alle kunst die je kunt zien of aanraken, bijvoorbeeld schilderijen, standbeelden of foto's.",
+      "Grenspolitie die controleert of mensen of spullen het land in of uit mogen."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 243,
+    "theme": "Thema 3",
+    "question": "de controle",
+    "options": [
+      "Na een tijdje, tijdens.",
+      "Als je niet meer zenuwachtig of bang bent.",
+      "Iemand die zich tijdens een oorlog verstopt voor de vijand.",
+      "Kijken of iets in orde is."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 244,
+    "theme": "Thema 3",
+    "question": "slenteren",
+    "options": [
+      "Langzaam lopen.",
+      "In brand staan.",
+      "Een attractie waarbij je snel ronddraait. De stoeltjes hangen aan touwen, waardoor je gaat zweven als de molen gaat draaien.",
+      "Een boek waarin veel informatie staat over een bepaald onderwerp, bijvoorbeeld over alle schilderijen in een museum."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 245,
+    "theme": "Thema 3",
+    "question": "kuieren",
+    "options": [
+      "Je verkoopt iets voor meer geld dan je er zelf voor hebt betaald. Het geld dat je overhoudt, noem je de winst.",
+      "Lopen.",
+      "Iemand die zich tijdens een oorlog verstopt voor de vijand.",
+      "Een winkel waar je spullen kunt kopen om grappen mee uit te halen."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 246,
+    "theme": "Thema 3",
+    "question": "doorstappen",
+    "options": [
+      "Iets wat je goed kunt.",
+      "Iets springt met een knal uit elkaar.",
+      "Snel lopen.",
+      "De eerste."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 247,
+    "theme": "Thema 3",
+    "question": "de reisleider",
+    "options": [
+      "Iemand die meereist met een groep mensen op vakantie en alles voor ze regelt.",
+      "Als het de hoogste tijd is, is het echt tijd om iets te gaan doen.",
+      "In elk geval, althans.",
+      "Iemand die schiet met een geweer."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 248,
+    "theme": "Thema 3",
+    "question": "diverse",
+    "options": [
+      "Verschillende.",
+      "Heel snel, bliksemsnel.",
+      "Zonder gewicht, zoals bijvoorbeeld een astronaut in de ruimte.",
+      "Je straf op één of andere manier niet krijgen."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 249,
+    "theme": "Thema 3",
+    "question": "het standbeeld",
+    "options": [
+      "Taal waarbij je praat door middel van gebaren.",
+      "In elk geval, althans.",
+      "Een beeld van een persoon. Iemand kan een standbeeld krijgen als hij of zij iets bijzonders heeft gedaan.",
+      "De planeet waar wij op wonen."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 250,
+    "theme": "Thema 3",
+    "question": "voldaan",
+    "options": [
+      "Tevreden.",
+      "Ruzie tussen twee of meer landen.",
+      "Een woord dat mensen gebruiken om iemand te beledigen.",
+      "Je hebt veel vertrouwen in jezelf. Je aarzelt niet en bent niet onzeker."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 251,
+    "theme": "Thema 3",
+    "question": "je kijkt je ogen uit",
+    "options": [
+      "Iets slechts doen wat strafbaar is.",
+      "Als je je ogen uitkijkt, dan is er van alles te zien.",
+      "Een boekje met korte informatie over een onderwerp.",
+      "Iets waar je meer over wilt weten."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 252,
+    "theme": "Thema 3",
+    "question": "de hoogste tijd",
+    "options": [
+      "Als het de hoogste tijd is, is het echt tijd om iets te gaan doen.",
+      "Al heel vaak.",
+      "Alle materialen (boeken, folders) waarin of waarop informatie staat.",
+      "Afspraken die gelden in het verkeer."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 253,
+    "theme": "Thema 2",
+    "question": "de zintuigen",
+    "options": [
+      "Iets springt met een knal uit elkaar.",
+      "Iemand die een sluis bedient. Een sluis is een deur die water tegenhoudt.",
+      "Zintuigen geven je informatie over de wereld om je heen. Je kunt ermee horen, zien, ruiken, proeven en voelen.",
+      "Een uitstapje waarbij je iets leert."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 254,
+    "theme": "Thema 2",
+    "question": "de reuk",
+    "options": [
+      "Een van je zintuigen. Met je reuk kun je ruiken.",
+      "Een brief van je werkgever waar in staat hoe je je werk hebt gedaan.",
+      "Gekleurde stiften gemaakt van vette stof.",
+      "Gezellig en vriendelijk lachen."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 255,
+    "theme": "Thema 2",
+    "question": "de tastzin",
+    "options": [
+      "Iemand die voor zijn beroep dingen onderzoekt om steeds meer daarover te weten te komen.",
+      "Een van je zintuigen. Met je tastzin kun je voelen, bijvoorbeeld met je handen.",
+      "Een andere kant opgaan.",
+      "Een bekende voorbij lopen zonder dat je (laat merken dat je) hem ziet."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 256,
+    "theme": "Thema 2",
+    "question": "het zicht",
+    "options": [
+      "Een speciale, scherpe smaak. Witlof is bijvoorbeeld bitter.",
+      "Heel erg zwaar, zoals een olifant.",
+      "Een van je zintuigen. Met je zicht kun je zien.",
+      "Iets valt tegen, omdat het niet is zoals je had gehoopt of verwacht."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 257,
+    "theme": "Thema 2",
+    "question": "buitengewoon",
+    "options": [
+      "Ruzie tussen twee of meer landen.",
+      "Regelen, zorgen dat iets gebeurt.",
+      "Alles wat te maken heeft met het verleden.",
+      "Niet gewoon."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 258,
+    "theme": "Thema 2",
+    "question": "doodnormaal",
+    "options": [
+      "Heel normaal.",
+      "Iets springt met een knal uit elkaar.",
+      "zielig, jammer",
+      "De tijd die voorbij is."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 259,
+    "theme": "Thema 2",
+    "question": "keuren",
+    "options": [
+      "Met je gezicht laten zien hoe je je voelt. Bijvoorbeeld boos, verdrietig of blij.",
+      "Een andere kant opgaan.",
+      "Als je vast van plan bent om te doen wat je besloten hebt. Je twijfelt niet.",
+      "Kijken of iets goed is, bepalen of iets goed is."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 260,
+    "theme": "Thema 2",
+    "question": "het gerecht",
+    "options": [
+      "Met een voertuig vervoer je mensen of dingen. Bijvoorbeeld een auto, een fiets of een brommer.",
+      "Iets zeggen waardoor je iemand pijn doet of boos maakt.",
+      "Alles wat te maken heeft met het reizen door de ruimte.",
+      "Het deel van een maaltijd dat in één keer wordt opgediend."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 261,
+    "theme": "Thema 2",
+    "question": "bepalen",
+    "options": [
+      "Vaststellen, zorgen dat je iets zeker weet.",
+      "Heel erg saai.",
+      "Iemand die meereist met een groep mensen op vakantie en alles voor ze regelt.",
+      "Met veel aandacht naar iemand luisteren."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 262,
+    "theme": "Thema 2",
+    "question": "bitter",
+    "options": [
+      "Een tekst waarin iemand zijn mening geeft over een boek, film of toneelstuk.",
+      "Een speciale, scherpe smaak. Witlof is bijvoorbeeld bitter.",
+      "Iets waarvoor je straf kunt krijgen, is strafbaar. Bijvoorbeeld: iets stelen is strafbaar.",
+      "De mensen die in een oorlog in het geheim tegen de vijand vechten."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 263,
+    "theme": "Thema 2",
+    "question": "dankzij",
+    "options": [
+      "Iemand die iets ergs heeft meegemaakt zonder dat hij daar iets aan kon doen.",
+      "De tijd die voorbij is.",
+      "Iemand die zich tijdens een oorlog verstopt voor de vijand.",
+      "Door, met hulp van."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 264,
+    "theme": "Thema 2",
+    "question": "draaien om",
+    "options": [
+      "Iets afschieten, iets de lucht in laten gaan. Bijvoorbeeld een raket.",
+      "Doordat.",
+      "Als iets ergens om draait, dan gaat het daarover, dan is dat het belangrijkste.",
+      "Een kasteel."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 265,
+    "theme": "Thema 2",
+    "question": "slechthorend",
+    "options": [
+      "Ruzie tussen twee of meer landen.",
+      "Hoe iedereen zich voelt. Als iedereen vrolijk is, hangt er een goede stemming.",
+      "Als je niet zo goed kunt horen, ben je slechthorend.",
+      "Iemand die nieuwe gebouwen bedenkt en tekent."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 266,
+    "theme": "Thema 2",
+    "question": "de doventolk",
+    "options": [
+      "Een van je zintuigen. Met je tastzin kun je voelen, bijvoorbeeld met je handen.",
+      "Gebeuren.",
+      "Iemand die voor zijn beroep gesproken taal vertaalt naar gebarentaal.",
+      "Een bewijs waarop staat wie je bent, hoe je eruitziet en waar je vandaan komt. Je neemt je paspoort altijd mee naar het buitenland."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 267,
+    "theme": "Thema 2",
+    "question": "de gebarentaal",
+    "options": [
+      "Fijngemalen stof waarmee je iemand kunt laten niesen.",
+      "Een ruimtevoertuig waar verschillende astronauten een tijdje blijven om onderzoek te doen.",
+      "In de tussentijd.",
+      "Taal waarbij je praat door middel van gebaren."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 268,
+    "theme": "Thema 2",
+    "question": "Oost-Indisch doof zijn (gezegde)",
+    "options": [
+      "Alleen de heenreis, niet de terugreis.",
+      "Met veel aandacht naar iemand luisteren.",
+      "Je doet net alsof je iets niet hoort, maar eigenlijk hoor je het wel.",
+      "Een grappig gedicht van vijf regels."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 269,
+    "theme": "Thema 2",
+    "question": "vertalen",
+    "options": [
+      "Een uitstapje waarbij je iets leert.",
+      "Iets van de ene taal omzetten in een andere taal.",
+      "Iets terugdoen of terugzeggen.",
+      "Iets wat niet van de aarde komt, zoals een maansteen."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 270,
+    "theme": "Thema 2",
+    "question": "het gehoorapparaat",
+    "options": [
+      "Een papier waarop staat dat je geslaagd bent voor iets.",
+      "Hard en met veel lawaai rijden of lopen.",
+      "Zoals het is.",
+      "Een apparaatje waarmee je beter kunt horen."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 271,
+    "theme": "Thema 2",
+    "question": "het gebrek",
+    "options": [
+      "Heel boos.",
+      "Lachen zonder je mond open te doen en geluid te maken.",
+      "zielig, jammer",
+      "Een deel van iemands lichaam dat niet helemaal in orde is."
+    ],
+    "correct": 3
+  },
+  {
+    "id": 272,
+    "theme": "Thema 2",
+    "question": "het diploma",
+    "options": [
+      "Iets afschieten, iets de lucht in laten gaan. Bijvoorbeeld een raket.",
+      "Een papier waarop staat dat je geslaagd bent voor iets.",
+      "Niet voor altijd.",
+      "Een dokter die mensen opereert."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 273,
+    "theme": "Thema 2",
+    "question": "opscheppen",
+    "options": [
+      "Een attractie waarbij je met een treintje over rails rijdt. De rails gaan omlaag of omhoog, of ze maken gekke bochten.",
+      "Als je dingen over jezelf vertelt, maar daarbij flink overdrijft.",
+      "Lopen.",
+      "Het mooiste kunstwerk of het leukste moment."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 274,
+    "theme": "Thema 2",
+    "question": "reageren",
+    "options": [
+      "Een apparaat waarmee je kleine dingen heel erg kunt vergroten zodat je ze beter kunt bekijken.",
+      "Iets terugdoen of terugzeggen.",
+      "Weghalen.",
+      "Iemand die zich tijdens een oorlog verstopt voor de vijand."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 275,
+    "theme": "Thema 2",
+    "question": "zich concentreren",
+    "options": [
+      "Afspraken die gelden in het verkeer.",
+      "Nauwelijks. Bijna niet.",
+      "Als je je aandacht goed bij één ding houdt, concentreer je je.",
+      "Iemand die op de weg rijdt of loopt."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 276,
+    "theme": "Thema 2",
+    "question": "sneu",
+    "options": [
+      "Een tijd heel lang geleden, toen mensen dingen van steen maakten en gebruikten.",
+      "zielig, jammer",
+      "De moed verliezen, geen zin meer hebben.",
+      "Een deel van iemands lichaam dat niet helemaal in orde is."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 277,
+    "theme": "Thema 2",
+    "question": "scherp",
+    "options": [
+      "Als je iets scherp ziet, dan zie je iets duidelijk.",
+      "Heel hard lachen met veel lawaai.",
+      "Als je iets goed kunt zonder dat je er veel moeite voor hoeft te doen. Aanleg is een ander woord voor talent.",
+      "Een winkel waar je spullen kunt kopen om grappen mee uit te halen."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 278,
+    "theme": "Thema 2",
+    "question": "wazig",
+    "options": [
+      "Als je iets wazig ziet, dan zie je iets onduidelijk.",
+      "Maar.",
+      "Als je veel dingen niet kunt onthouden of maar voor korte tijd.",
+      "Het verschil zien tussen twee dingen."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 279,
+    "theme": "Thema 2",
+    "question": "de lenzen",
+    "options": [
+      "Een ruimtevoertuig waar verschillende astronauten een tijdje blijven om onderzoek te doen.",
+      "Alleen de heenreis, niet de terugreis.",
+      "Kleine, doorzichtige rondjes die je op je ogen doet om beter te zien. Lenzen draag je in plaats van een bril.",
+      "Snel lopen."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 280,
+    "theme": "Thema 2",
+    "question": "de loep",
+    "options": [
+      "Een bol glas waardoor je kleine dingen een beetje kunt vergroten zodat je ze beter kunt bekijken.",
+      "Als je niet meer zenuwachtig of bang bent.",
+      "Iemand die iets doet voor zijn beroep.",
+      "Met je lichaam laten zien hoe je je voelt."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 281,
+    "theme": "Thema 2",
+    "question": "de microscoop",
+    "options": [
+      "Een apparaat waarmee je kleine dingen heel erg kunt vergroten zodat je ze beter kunt bekijken.",
+      "Een papier waarop staat dat je geslaagd bent voor iets.",
+      "Alleen de heenreis, niet de terugreis.",
+      "Een bol in de ruimte die om de zon draait. De aarde is ook een planeet."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 282,
+    "theme": "Thema 2",
+    "question": "doodsbang",
+    "options": [
+      "Heel erg bang.",
+      "Een attractie waarbij je snel ronddraait. De stoeltjes hangen aan touwen, waardoor je gaat zweven als de molen gaat draaien.",
+      "Opletten en bewaken.",
+      "Als je je schulden niet meer kunt betalen. Je hebt geen geld meer (op de bank)."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 283,
+    "theme": "Thema 2",
+    "question": "onderscheiden",
+    "options": [
+      "Een bol glas waardoor je kleine dingen een beetje kunt vergroten zodat je ze beter kunt bekijken.",
+      "Iemand die op de weg rijdt of loopt.",
+      "Het verschil zien tussen twee dingen.",
+      "Alles wat te maken heeft met het reizen door de ruimte."
+    ],
+    "correct": 2
+  },
+  {
+    "id": 284,
+    "theme": "Thema 2",
+    "question": "het geintje",
+    "options": [
+      "Het grapje.",
+      "De plek waar je je herinneringen bewaart.",
+      "Hard en met veel lawaai rijden of lopen.",
+      "Je hersens zitten boven in je hoofd, hiermee kun je denken."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 285,
+    "theme": "Thema 2",
+    "question": "zichtbaar",
+    "options": [
+      "Iets wat je kunt zien.",
+      "Iets slechts doen wat strafbaar is.",
+      "Daarna.",
+      "Bijna nooit."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 286,
+    "theme": "Thema 2",
+    "question": "griezelen",
+    "options": [
+      "Een speciale, scherpe smaak. Witlof is bijvoorbeeld bitter.",
+      "Bibberen van angst, bijvoorbeeld bij een enge film.",
+      "Iemand die op de weg rijdt of loopt.",
+      "Behalve. Bijvoorbeeld: Hein speelt elke dag buiten, met uitzondering van zondag."
+    ],
+    "correct": 1
+  },
+  {
+    "id": 287,
+    "theme": "Thema 2",
+    "question": "althans",
+    "options": [
+      "Tenminste.",
+      "Zoals het is.",
+      "Iets waarvoor je straf kunt krijgen, is strafbaar. Bijvoorbeeld: iets stelen is strafbaar.",
+      "Een attractie waarbij je snel ronddraait. De stoeltjes hangen aan touwen, waardoor je gaat zweven als de molen gaat draaien."
+    ],
+    "correct": 0
+  },
+  {
+    "id": 288,
+    "theme": "Thema 2",
+    "question": "gruwelijk",
+    "options": [
+      "Vreselijk, akelig.",
+      "Iemand die muziek draait, bijvoorbeeld op de radio of op een feest.",
+      "Een attractie waarbij je met een treintje over rails rijdt. De rails gaan omlaag of omhoog, of ze maken gekke bochten.",
+      "Met een voertuig vervoer je mensen of dingen. Bijvoorbeeld een auto, een fiets of een brommer."
+    ],
+    "correct": 0
+  }
+]
