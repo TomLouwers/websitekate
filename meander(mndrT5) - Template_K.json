@@ -1,0 +1,288 @@
+[
+  {
+    "id": 11,
+    "theme": "Les 2 Bij de rivier",
+    "question": "Wat is een uiterwaard?",
+    "options": [
+      "Het stuk land tussen de zomerdijk en de winterdijk dat bij hoogwater onderloopt",
+      "De plek waar de rivier in zee stroomt",
+      "Een hoge dijk ver van de rivier",
+      "Kleine, ronde steentjes in de rivier"
+    ],
+    "correct": 0,
+    "extra_info": "Uiterwaarden liggen tussen de zomerdijk en winterdijk en lopen in de winter onder."
+  },
+  {
+    "id": 3,
+    "theme": "Les 1 Volg de Rijn",
+    "question": "Wat is de bron van een rivier?",
+    "options": [
+      "De plek waar de rivier in zee stroomt",
+      "Het begin van een rivier",
+      "Het gebied met eilandjes aan het einde van een rivier",
+      "Een plek waar water wordt opgepompt"
+    ],
+    "correct": 1,
+    "extra_info": "De bron is het beginpunt van een rivier."
+  },
+  {
+    "id": 21,
+    "theme": "Los het op",
+    "question": "Wat oefende je bij Les 1 om een probleem op te lossen?",
+    "options": [
+      "Een landkaart gebruiken",
+      "Vragen beantwoorden over het probleem",
+      "Aangeven wat de oorzaak is en wat het gevolg",
+      "Bepalen of iets bij een probleem hoort"
+    ],
+    "correct": 2,
+    "extra_info": "Je leerde oorzaak en gevolg benoemen om het probleem te begrijpen."
+  },
+  {
+    "id": 7,
+    "theme": "Les 1 Volg de Rijn",
+    "question": "Wat is een delta?",
+    "options": [
+      "De plek waar een rivier begint",
+      "Een wild stromende bergrivier",
+      "Het gebied aan het einde van een rivier met eilandjes en riviertjes",
+      "Een hoge dijk die water tegenhoudt"
+    ],
+    "correct": 2,
+    "extra_info": "In een delta splitst de rivier zich in kleinere rivieren en eilandjes."
+  },
+  {
+    "id": 1,
+    "theme": "Les 1 Volg de Rijn",
+    "question": "Waar ligt de bron van de Rijn volgens de tekst?",
+    "options": [
+      "In de bergen",
+      "In zee",
+      "In Nederland",
+      "In een delta"
+    ],
+    "correct": 0,
+    "extra_info": "De Rijn begint als kleine stroompjes in de bergen."
+  },
+  {
+    "id": 17,
+    "theme": "Les 2 Bij de rivier",
+    "question": "Waarom zijn er hoge winterdijken?",
+    "options": [
+      "Omdat het water in de winter hoog kan staan en anders kan overstromen",
+      "Omdat schepen in de winter hoger varen",
+      "Omdat er in de winter minder neerslag is",
+      "Omdat de rivier in de winter smaller wordt"
+    ],
+    "correct": 0,
+    "extra_info": "In de winter komt er veel neerslag en smeltwater in de rivier."
+  },
+  {
+    "id": 8,
+    "theme": "Les 1 Volg de Rijn",
+    "question": "Wat is de monding?",
+    "options": [
+      "De plek waar de rivier in zee stroomt",
+      "Het begin van de rivier",
+      "Een stuk land tussen twee dijken",
+      "Een gebied met heide"
+    ],
+    "correct": 0,
+    "extra_info": "De monding is waar de rivier eindigt in zee."
+  },
+  {
+    "id": 6,
+    "theme": "Les 1 Volg de Rijn",
+    "question": "Waar ontstaat grind volgens de tekst?",
+    "options": [
+      "Bij de zee",
+      "In een delta",
+      "Bij de bron in de bergen, doordat rotsen afslijten",
+      "In uiterwaarden, doordat klei indroogt"
+    ],
+    "correct": 2,
+    "extra_info": "Snelstromend water slijpt rotsen af: zo ontstaat grind."
+  },
+  {
+    "id": 12,
+    "theme": "Les 2 Bij de rivier",
+    "question": "Wat is een zomerdijk?",
+    "options": [
+      "Een hoge dijk verder van de rivier",
+      "Een lage dijk dicht bij de rivier die in de zomer het water samenperst",
+      "Een stuk land dat in de winter onderloopt",
+      "De plek waar de rivier in zee stroomt"
+    ],
+    "correct": 1,
+    "extra_info": "Zomerdijken zorgen ervoor dat het water in de zomer hoog genoeg blijft voor schepen."
+  },
+  {
+    "id": 20,
+    "theme": "Les 3 Wateren",
+    "question": "Wat moet je kunnen met de topografie van de wateren?",
+    "options": [
+      "Alleen herkennen",
+      "Alleen aanwijzen",
+      "Schrijven zonder fouten, aanwijzen en herkennen",
+      "Alleen opnoemen uit je hoofd"
+    ],
+    "correct": 2,
+    "extra_info": "Je moet namen correct kunnen schrijven (met hoofdletters), aanwijzen en herkennen."
+  },
+  {
+    "id": 15,
+    "theme": "Les 2 Bij de rivier",
+    "question": "Waarom blijft het water in de zomer hoog genoeg voor schepen?",
+    "options": [
+      "Omdat er meer regen valt",
+      "Omdat de rivier breder wordt",
+      "Omdat de zomerdijken het water samenpersen",
+      "Omdat de winterdijken het water hoger maken"
+    ],
+    "correct": 2,
+    "extra_info": "In de zomer is er weinig water; zomerdijken houden het vaarwater diep genoeg."
+  },
+  {
+    "id": 4,
+    "theme": "Les 1 Volg de Rijn",
+    "question": "Wat is rivierklei?",
+    "options": [
+      "Klei die door de rivier wordt gevormd als kleine deeltjes naar de bodem zakken en aan elkaar blijven zitten",
+      "Kleine, ronde steentjes",
+      "Heel kleine en lichte stukjes grind",
+      "Een zandbank in zee"
+    ],
+    "correct": 0,
+    "extra_info": "Rivierklei ontstaat doordat fijne deeltjes bezinken en samenklonteren."
+  },
+  {
+    "id": 18,
+    "theme": "Les 2 Bij de rivier",
+    "question": "Wat ligt tussen de winterdijken en zomerdijken?",
+    "options": [
+      "De uiterwaarden",
+      "De bron",
+      "De monding",
+      "Het grind"
+    ],
+    "correct": 0,
+    "extra_info": "Uiterwaarden kunnen in de winter overstromen."
+  },
+  {
+    "id": 2,
+    "theme": "Les 1 Volg de Rijn",
+    "question": "Wat is een rivier?",
+    "options": [
+      "Een kronkelende stroom water die door de natuur is ontstaan",
+      "Een kanaal dat door mensen is gegraven",
+      "Een grote plas water bij de zee",
+      "Een gebied met eilandjes"
+    ],
+    "correct": 0,
+    "extra_info": "Een rivier is natuurlijk ontstaan."
+  },
+  {
+    "id": 16,
+    "theme": "Les 2 Bij de rivier",
+    "question": "Wat kan er in de winter gebeuren met een rivier?",
+    "options": [
+      "Hij kan overstromen",
+      "Hij droogt helemaal op",
+      "Hij wordt zout",
+      "Hij splitst zich in een delta"
+    ],
+    "correct": 0,
+    "extra_info": "Door neerslag en smeltwater kan het waterpeil sterk stijgen."
+  },
+  {
+    "id": 9,
+    "theme": "Les 1 Volg de Rijn",
+    "question": "Wat is zand volgens de tekst?",
+    "options": [
+      "Heel kleine en lichte stukjes grind",
+      "Klei die aan elkaar blijft plakken",
+      "Grote scherpe stenen",
+      "Een dijkmateriaal"
+    ],
+    "correct": 0,
+    "extra_info": "Zand bestaat uit heel kleine en lichte stukjes grind."
+  },
+  {
+    "id": 10,
+    "theme": "Les 2 Bij de rivier",
+    "question": "Wat is een winterdijk?",
+    "options": [
+      "Een hoge dijk verder van de rivier die water tegenhoudt bij hoogwater",
+      "Een lage dijk dicht bij de rivier die water samenperst",
+      "Een stuk land tussen twee dijken",
+      "Een gebied aan het einde van de rivier"
+    ],
+    "correct": 0,
+    "extra_info": "Winterdijken beschermen bij hoog water in de winter."
+  },
+  {
+    "id": 19,
+    "theme": "Los het op",
+    "question": "Wat oefende je bij Les 2 om een probleem duidelijk te krijgen?",
+    "options": [
+      "Bepalen wat wel en niet bij het probleem hoort",
+      "Vragen beantwoorden die met het probleem te maken hebben",
+      "Oorzaak en gevolg benoemen",
+      "Een landkaart tekenen"
+    ],
+    "correct": 1,
+    "extra_info": "Door gerichte vragen wordt het probleem duidelijker."
+  },
+  {
+    "id": 13,
+    "theme": "Les 1 Volg de Rijn",
+    "question": "Wat gebeurt er met kleine deeltjes als de Rijn langzamer stroomt?",
+    "options": [
+      "Ze verdwijnen",
+      "Ze zakken naar de bodem",
+      "Ze worden groter",
+      "Ze veranderen in grind"
+    ],
+    "correct": 1,
+    "extra_info": "Bij minder stroming bezinken de kleine deeltjes."
+  },
+  {
+    "id": 22,
+    "theme": "Zo leer je voor de toets",
+    "question": "Wat is een goede manier om te leren voor de toets?",
+    "options": [
+      "De samenvatting bekijken, teksten en dikgedrukte woorden leren en iemand vragen om te overhoren",
+      "Alles overslaan en gokken",
+      "Alleen plaatjes kijken",
+      "Alleen moeilijke woorden overschrijven"
+    ],
+    "correct": 0,
+    "extra_info": "De tekst raadt aan: samenvatting, leren en overhoren."
+  },
+  {
+    "id": 23,
+    "theme": "Les 3 Wateren",
+    "question": "Welke twee gebieden staan in de lijst met Gebieden?",
+    "options": [
+      "Biesbos en Rijnmond",
+      "Rotterdamse haven en Schiphol",
+      "IJsselmeer en Markermeer",
+      "Waddenzee en Oosterschelde"
+    ],
+    "correct": 0,
+    "extra_info": "Naast wateren leer je ook deze gebieden: Biesbos en Rijnmond."
+  },
+  {
+    "id": 14,
+    "theme": "Los het op",
+    "question": "Wat oefende je bij Les 3 om problemen op te lossen?",
+    "options": [
+      "Oorzaak en gevolg opschrijven",
+      "Vragen beantwoorden",
+      "Bepalen of iets wel of niet bij een probleem hoort",
+      "Een kaart inkleuren"
+    ],
+    "correct": 2,
+    "extra_info": "Je leert onderscheid maken: hoort dit bij het probleem of niet?"
+  }
+]

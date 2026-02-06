@@ -1,0 +1,301 @@
+[
+  {
+    "id": 6,
+    "theme": "Les 1 Laag en nat",
+    "question": "Wat is laag Nederland?",
+    "options": [
+      "Het deel van Nederland dat boven de zeespiegel ligt",
+      "Het deel van Nederland dat onder de zeespiegel ligt",
+      "Het deel van Nederland met veel heuvels",
+      "Het deel van Nederland dat altijd droog is"
+    ],
+    "correct": 1,
+    "extra_info": "Laag Nederland ligt onder de zeespiegel."
+  },
+  {
+    "id": 14,
+    "theme": "Les 2 Hoog en droog",
+    "question": "Wat betekent NAP?",
+    "options": [
+      "Natuurlijk Amsterdams Peil",
+      "Normaal Amsterdams Peil",
+      "Nieuw Algemeen Peil",
+      "Nationaal Aardpunt"
+    ],
+    "correct": 1,
+    "extra_info": "NAP is een vaste maat voor de hoogte van het water: Normaal Amsterdams Peil."
+  },
+  {
+    "id": 3,
+    "theme": "Les 1 Laag en nat",
+    "question": "Wat doen dijken?",
+    "options": [
+      "Ze maken het water hoger",
+      "Ze houden water van zee en rivieren tegen",
+      "Ze zorgen voor heide",
+      "Ze maken zandgrond vruchtbaar"
+    ],
+    "correct": 1,
+    "extra_info": "Dijken beschermen laag Nederland tegen overstroming."
+  },
+  {
+    "id": 18,
+    "theme": "Les 2 Hoog en droog",
+    "question": "Hoe is de ondergrond van hoog Nederland meestal?",
+    "options": [
+      "Natte klei met veel voeding",
+      "Droog zand met weinig voedingsstoffen",
+      "Rotsen met veel heuvels",
+      "Modder met veel water"
+    ],
+    "correct": 1,
+    "extra_info": "Hoog Nederland heeft vaak droog zand met weinig voedingsstoffen."
+  },
+  {
+    "id": 1,
+    "theme": "Les 1 Laag en nat",
+    "question": "Wat is de zeespiegel?",
+    "options": [
+      "De gemiddelde hoogte van het zeewater",
+      "De hoogste golf van de dag",
+      "Het diepste punt van de zee",
+      "De hoeveelheid zout in het water"
+    ],
+    "correct": 0,
+    "extra_info": "De zeespiegel is de gemiddelde hoogte van het zeewater."
+  },
+  {
+    "id": 12,
+    "theme": "Les 1 Laag en nat",
+    "question": "Wat is een polder?",
+    "options": [
+      "Een stuk land tussen dijken op een plaats waar vroeger water was",
+      "Een hoge heuvel in Nederland",
+      "Een bos met veel struiken",
+      "Een rivier die door Nederland stroomt"
+    ],
+    "correct": 0,
+    "extra_info": "Polders zijn leeggepompte plassen en meren."
+  },
+  {
+    "id": 20,
+    "theme": "Les 2 Hoog en droog",
+    "question": "Hoe ontstond heide volgens de tekst?",
+    "options": [
+      "Door windmolens die water wegpompten",
+      "Door schapen die jonge bomen opaten maar struikjes lieten staan",
+      "Door dijken die het water tegenhielden",
+      "Door veel regen op zandgrond"
+    ],
+    "correct": 1,
+    "extra_info": "Schapen graasden jonge bomen weg, maar harde struikjes bleven staan: zo ontstond heide."
+  },
+  {
+    "id": 10,
+    "theme": "Les 1 Laag en nat",
+    "question": "Waardoor kunnen sommige polders steeds lager worden?",
+    "options": [
+      "Door inklinking: de grond droogt uit en krimpt",
+      "Door teveel regen",
+      "Door te veel zand in de klei",
+      "Door schapen die grazen"
+    ],
+    "correct": 0,
+    "extra_info": "Inklinking zorgt ervoor dat natte klei krimpt en de grond zakt."
+  },
+  {
+    "id": 8,
+    "theme": "Les 1 Laag en nat",
+    "question": "Waarmee werden polders vroeger droog gehouden?",
+    "options": [
+      "Elektrische gemalen",
+      "Windmolens",
+      "Stadsmuren",
+      "Kompasnaalden"
+    ],
+    "correct": 1,
+    "extra_info": "Vroeger pompten windmolens water weg; nu gebeurt dat met elektrische gemalen."
+  },
+  {
+    "id": 22,
+    "theme": "Laat het zien",
+    "question": "Wat helpt bij Les 3 om iets uit te leggen?",
+    "options": [
+      "Alleen moeilijke woorden gebruiken",
+      "Een kaart maken",
+      "Niets tekenen",
+      "Alleen naar een plaatje kijken"
+    ],
+    "correct": 1,
+    "extra_info": "Een kaart maken kan helpen om iets duidelijk uit te leggen."
+  },
+  {
+    "id": 16,
+    "theme": "Les 2 Hoog en droog",
+    "question": "Waarom meten we de hoogte van het water met NAP?",
+    "options": [
+      "Omdat de zeespiegel altijd even hoog is",
+      "Omdat de zeespiegel niet altijd even hoog is",
+      "Omdat NAP de temperatuur meet",
+      "Omdat NAP de wind meet"
+    ],
+    "correct": 1,
+    "extra_info": "De zeespiegel verandert; daarom gebruiken we een vaste maat: NAP."
+  },
+  {
+    "id": 2,
+    "theme": "Les 2 Hoog en droog",
+    "question": "Wat is hoog Nederland?",
+    "options": [
+      "Het deel van Nederland dat boven de zeespiegel ligt",
+      "Het deel van Nederland dat onder de zeespiegel ligt",
+      "Een gebied met alleen polders",
+      "Een gebied met natte klei"
+    ],
+    "correct": 0,
+    "extra_info": "Hoog Nederland ligt boven de zeespiegel."
+  },
+  {
+    "id": 13,
+    "theme": "Les 1 Laag en nat",
+    "question": "Wat is een gemaal?",
+    "options": [
+      "Een machine die water uit lage polders naar hoger land pompt",
+      "Een strook grond langs een rivier",
+      "Een stuk land met heide",
+      "Een vaste maat voor waterhoogte"
+    ],
+    "correct": 0,
+    "extra_info": "Gemalen regelen het waterpeil door water weg te pompen."
+  },
+  {
+    "id": 17,
+    "theme": "Les 2 Hoog en droog",
+    "question": "Wat is landschap?",
+    "options": [
+      "Alleen heuvels en bergen",
+      "Een gebied en alles wat je daarin ziet",
+      "Een kaart met provincies",
+      "De hoogte van het water"
+    ],
+    "correct": 1,
+    "extra_info": "Landschap omvat alles wat je ziet, zoals bossen, heide en weilanden."
+  },
+  {
+    "id": 5,
+    "theme": "Les 1 Laag en nat",
+    "question": "Waaruit bestaat de ondergrond van laag Nederland vooral?",
+    "options": [
+      "Droog zand",
+      "Natte klei",
+      "Rotsen",
+      "Grind"
+    ],
+    "correct": 1,
+    "extra_info": "Laag Nederland heeft vooral natte klei als ondergrond."
+  },
+  {
+    "id": 21,
+    "theme": "Laat het zien",
+    "question": "Wat helpt bij Les 2 om iets duidelijker te maken?",
+    "options": [
+      "Tekeningen maken bij een uitleg",
+      "Alleen hardop lezen",
+      "Een kaart uit het hoofd leren",
+      "Alles overslaan"
+    ],
+    "correct": 0,
+    "extra_info": "Tekeningen bij een uitleg maken helpt om het duidelijker te maken."
+  },
+  {
+    "id": 19,
+    "theme": "Les 2 Hoog en droog",
+    "question": "Waarom lieten boeren vroeger schapen grazen op zandgrond?",
+    "options": [
+      "Om het water weg te pompen",
+      "Omdat schapen zorgden voor mest",
+      "Om dijken te bouwen",
+      "Omdat schapen zand eten"
+    ],
+    "correct": 1,
+    "extra_info": "Zandgrond heeft weinig voedingsstoffen; schapen zorgden voor mest."
+  },
+  {
+    "id": 7,
+    "theme": "Les 1 Laag en nat",
+    "question": "Wat gebeurt er als je in een polder niets doet?",
+    "options": [
+      "De polder loopt weer vol water",
+      "De polder wordt een heuvel",
+      "De polder wordt heide",
+      "De polder wordt droger vanzelf"
+    ],
+    "correct": 0,
+    "extra_info": "Polders zijn leeggepompte gebieden; zonder pompen komt het water terug."
+  },
+  {
+    "id": 11,
+    "theme": "Les 1 Laag en nat",
+    "question": "Wat is inklinking?",
+    "options": [
+      "De grond wordt natter en stijgt",
+      "Het krimpen van grond doordat hij droger wordt",
+      "Het bouwen van een dijk",
+      "Het ontstaan van heide"
+    ],
+    "correct": 1,
+    "extra_info": "Bij inklinking krimpt de grond en zakt."
+  },
+  {
+    "id": 15,
+    "theme": "Les 2 Hoog en droog",
+    "question": "Welke uitspraak klopt over hoog Nederland?",
+    "options": [
+      "Het landschap bestaat vooral uit hoge bergen",
+      "Het landschap is voor een groot deel plat",
+      "De ondergrond is natte klei",
+      "Er zijn overal polders"
+    ],
+    "correct": 1,
+    "extra_info": "Hoog Nederland is maar voor een klein deel heuvelachtig; veel is plat."
+  },
+  {
+    "id": 23,
+    "theme": "Zo leer je voor de toets",
+    "question": "Wat is een goede manier om te leren voor de toets?",
+    "options": [
+      "Alles overslaan en gokken",
+      "De samenvatting bekijken, teksten en dikgedrukte woorden leren en iemand vragen om te overhoren",
+      "Alleen plaatjes kijken",
+      "Alleen moeilijke woorden opschrijven"
+    ],
+    "correct": 1,
+    "extra_info": "De tekst raadt aan: samenvatting, woorden leren en overhoren."
+  },
+  {
+    "id": 9,
+    "theme": "Les 3 Provincies van Nederland",
+    "question": "Wat moet je met de topografie kunnen volgens de tekst?",
+    "options": [
+      "Alleen aanwijzen",
+      "Schrijven zonder fouten, aanwijzen en herkennen",
+      "Alleen herkennen op een foto",
+      "Alleen de eilanden leren"
+    ],
+    "correct": 1,
+    "extra_info": "Je moet de provincies kunnen schrijven, aanwijzen en herkennen."
+  },
+  {
+    "id": 4,
+    "theme": "Les 2 Hoog en droog",
+    "question": "Wat is heide?",
+    "options": [
+      "Een gebied met bijna alleen harde struikjes (heideplantjes)",
+      "Een polder met water",
+      "Een dijk langs de zee",
+      "Een machine die water pompt"
+    ],
+    "correct": 0,
+    "extra_info": "Heide bestaat vooral uit heideplantjes met paarse of witte bloemetjes."
+  }
+]

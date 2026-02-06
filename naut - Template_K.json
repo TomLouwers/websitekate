@@ -1,0 +1,266 @@
+[
+  {
+    "id": 7,
+    "theme": "Les 2 Rotsvast",
+    "question": "Wat wordt water als het bevriest?",
+    "options": ["IJs", "Mist", "Waterdamp", "Lucht"],
+    "correct": 0,
+    "extra_info": "Bevriezen is het veranderen van water (vloeistof) in ijs (vaste stof)."
+  },
+  {
+    "id": 14,
+    "theme": "Les 3 Alleen te ruiken",
+    "question": "Wat kan er gebeuren als een vloeistof verdampt?",
+    "options": ["Het krijgt een vaste vorm", "Het wordt zwaarder", "Het wordt een gas", "Het wordt direct een vaste stof"],
+    "correct": 2,
+    "extra_info": "Verdampen is het veranderen van een vloeistof in een gas."
+  },
+  {
+    "id": 3,
+    "theme": "Les 1 Niet vast te pakken",
+    "question": "Wat betekent 'volume'?",
+    "options": ["Hoe warm iets is", "De ruimte die een stof inneemt", "Hoe zwaar iets is", "De kleur van een stof"],
+    "correct": 1,
+    "extra_info": "Volume is de ruimte die een stof inneemt (bijvoorbeeld een halve liter)."
+  },
+  {
+    "id": 18,
+    "theme": "Les 3 Alleen te ruiken",
+    "question": "Welke uitspraak klopt volgens de tekst over warme en koude lucht?",
+    "options": ["Warme lucht weegt meer dan koude lucht", "Koude lucht zet altijd meer uit", "In warme lucht kunnen meer moleculen dan in koude lucht", "Warme lucht weegt minder dan koude lucht"],
+    "correct": 3,
+    "extra_info": "Volgens de tekst weegt warme lucht minder dan koude lucht."
+  },
+  {
+    "id": 11,
+    "theme": "Les 2 Rotsvast",
+    "question": "Wat betekent 'oplossen' volgens de tekst?",
+    "options": [
+      "Een stof wordt zwaarder",
+      "Moleculen van een vaste stof laten elkaar los in een vloeistof",
+      "Een vloeistof wordt gas",
+      "Vaste deeltjes zakken naar de bodem"
+    ],
+    "correct": 1,
+    "extra_info": "Oplossen is wanneer moleculen van een vaste stof loslaten in een vloeistof."
+  },
+  {
+    "id": 1,
+    "theme": "Les 1 Niet vast te pakken",
+    "question": "Wat is water volgens de tekst?",
+    "options": ["Een gas", "Een vloeistof", "Een vaste stof", "Een poeder"],
+    "correct": 1,
+    "extra_info": "Water is een voorbeeld van een vloeistof: het heeft geen vaste vorm, maar wel een vast volume."
+  },
+  {
+    "id": 20,
+    "theme": "Laat het zien",
+    "question": "Welke manier helpt volgens de tekst om iets beter uit te leggen bij Les 1?",
+    "options": [
+      "Zo snel mogelijk praten",
+      "Een proefje tekenen",
+      "Alleen moeilijke woorden gebruiken",
+      "Een liedje zingen"
+    ],
+    "correct": 1,
+    "extra_info": "Bij Les 1 helpt het tekenen van een proefje om iets duidelijk uit te leggen."
+  },
+  {
+    "id": 9,
+    "theme": "Les 2 Rotsvast",
+    "question": "Wat is 'smelten'?",
+    "options": [
+      "Het mengen van twee vloeistoffen",
+      "Het veranderen van gas in water",
+      "Het veranderen van een vaste stof in een vloeistof",
+      "Het veranderen van een vloeistof in een gas"
+    ],
+    "correct": 2,
+    "extra_info": "Smelten is het veranderen van een vaste stof in een vloeistof."
+  },
+  {
+    "id": 16,
+    "theme": "Les 3 Alleen te ruiken",
+    "question": "Hoe noem je verdampt water?",
+    "options": ["Stof", "Waterdamp", "Miststeen", "IJs"],
+    "correct": 1,
+    "extra_info": "Als water verdampt, noem je het gas waterdamp."
+  },
+  {
+    "id": 6,
+    "theme": "Les 1 Niet vast te pakken",
+    "question": "Sommige vloeistoffen mengen niet. Wat gebeurt er dan vaak?",
+    "options": [
+      "Alles verdampt direct",
+      "De vloeistoffen worden allebei gas",
+      "De lichtste vloeistof vormt een laag bovenop de zwaardere",
+      "De zwaarste vloeistof drijft bovenop"
+    ],
+    "correct": 2,
+    "extra_info": "Als vloeistoffen niet mengen, drijft de lichtste bovenop."
+  },
+  {
+    "id": 22,
+    "theme": "Laat het zien",
+    "question": "Wat helpt volgens de tekst bij Les 3 om een goede uitleg te geven?",
+    "options": [
+      "Niets voorbereiden",
+      "Alleen moeilijke termen gebruiken",
+      "Bedenken welke materialen je nodig hebt",
+      "Vergeten wat je nodig hebt"
+    ],
+    "correct": 2,
+    "extra_info": "Bij Les 3 helpt het om vooraf na te denken over materialen."
+  },
+  {
+    "id": 4,
+    "theme": "Les 1 Niet vast te pakken",
+    "question": "Wat zijn moleculen volgens de tekst?",
+    "options": [
+      "Een soort luchtbel",
+      "Grote klonten van een stof",
+      "De buitenkant van een materiaal",
+      "Het kleinste bouwsteentje van een materiaal"
+    ],
+    "correct": 3,
+    "extra_info": "Een molecuul is het kleinste bouwsteentje van een materiaal."
+  },
+  {
+    "id": 13,
+    "theme": "Les 2 Rotsvast",
+    "question": "Wat betekent 'bezinken'?",
+    "options": [
+      "Het mengen van stoffen",
+      "Het groter worden van het volume",
+      "Het naar de bodem zakken van vaste deeltjes in een vloeistof",
+      "Het veranderen van water in waterdamp"
+    ],
+    "correct": 2,
+    "extra_info": "Bezinken betekent dat vaste deeltjes naar de bodem zakken."
+  },
+  {
+    "id": 8,
+    "theme": "Les 2 Rotsvast",
+    "question": "Welke uitspraak past bij een vaste stof?",
+    "options": [
+      "Moleculen trekken elkaar niet aan",
+      "Een vaste stof heeft geen volume",
+      "Moleculen bewegen om elkaar heen",
+      "Moleculen staan op een vaste plek naast elkaar"
+    ],
+    "correct": 3,
+    "extra_info": "In een vaste stof hebben moleculen een vaste plek."
+  },
+  {
+    "id": 17,
+    "theme": "Les 3 Alleen te ruiken",
+    "question": "Wat is 'condenseren'?",
+    "options": [
+      "Het mengen van twee vaste stoffen",
+      "Het veranderen van waterdamp in water",
+      "Het groter worden van volume door kou",
+      "Het veranderen van water in ijs"
+    ],
+    "correct": 1,
+    "extra_info": "Condenseren is het veranderen van gas in vloeistof."
+  },
+  {
+    "id": 10,
+    "theme": "Les 2 Rotsvast",
+    "question": "Welke term hoort bij het veranderen van een vloeistof in een vaste stof?",
+    "options": [
+      "Verdampen",
+      "Condenseren",
+      "Uitzetten",
+      "Bevriezen of stollen"
+    ],
+    "correct": 3,
+    "extra_info": "Bij afkoelen kan een vloeistof bevriezen of stollen."
+  },
+  {
+    "id": 19,
+    "theme": "Les 3 Alleen te ruiken",
+    "question": "Wat betekent 'uitzetten'?",
+    "options": [
+      "Een stof lost op in water",
+      "Een stof verandert van gas naar vloeistof",
+      "Een stof krijgt een kleiner volume",
+      "Een stof krijgt een groter volume, vaak door warmte"
+    ],
+    "correct": 3,
+    "extra_info": "Door warmte zetten stoffen uit."
+  },
+  {
+    "id": 12,
+    "theme": "Les 2 Rotsvast",
+    "question": "In welke vloeistof gaat oplossen sneller volgens de tekst?",
+    "options": ["In olie", "In warme vloeistof", "In koude vloeistof", "In ijswater"],
+    "correct": 1,
+    "extra_info": "Warmte zorgt ervoor dat moleculen sneller bewegen."
+  },
+  {
+    "id": 21,
+    "theme": "Laat het zien",
+    "question": "Welke aanpak hoort bij Les 2 om een proces beter te begrijpen?",
+    "options": [
+      "Een goed voorbeeld zoeken",
+      "De tekst overslaan",
+      "Alles uit je hoofd leren zonder voorbeeld",
+      "Alleen plaatjes kijken"
+    ],
+    "correct": 0,
+    "extra_info": "Een goed voorbeeld helpt bij het begrijpen van processen."
+  },
+  {
+    "id": 2,
+    "theme": "Les 1 Niet vast te pakken",
+    "question": "Welke eigenschap past bij een vloeistof?",
+    "options": [
+      "Heeft altijd een vaste vorm",
+      "Is altijd zichtbaar als rook",
+      "Neemt de vorm aan van de beker of fles",
+      "Heeft geen volume"
+    ],
+    "correct": 2,
+    "extra_info": "Vloeistoffen passen zich aan aan hun verpakking."
+  },
+  {
+    "id": 15,
+    "theme": "Les 3 Alleen te ruiken",
+    "question": "Hoe bewegen moleculen in een gas volgens de tekst?",
+    "options": [
+      "Ze zakken naar de bodem",
+      "Ze staan stil op een vaste plek",
+      "Ze bewegen om elkaar heen maar blijven contact houden",
+      "Ze vliegen alle kanten op en trekken elkaar niet aan"
+    ],
+    "correct": 3,
+    "extra_info": "Gasdeeltjes bewegen vrij door elkaar."
+  },
+  {
+    "id": 5,
+    "theme": "Les 1 Niet vast te pakken",
+    "question": "Wat gebeurt er als je twee vloeistoffen mengt die wél mengen?",
+    "options": [
+      "De vloeistof wordt meteen een vaste stof",
+      "De moleculen stoppen met bewegen",
+      "De moleculen blijven in aparte lagen",
+      "De moleculen van beide vloeistoffen gaan door elkaar"
+    ],
+    "correct": 3,
+    "extra_info": "Moleculen van mengbare stoffen verdelen zich door elkaar."
+  },
+  {
+    "id": 23,
+    "theme": "Zo leer je voor de toets",
+    "question": "Wat is volgens de tekst een goede manier om te leren voor de toets?",
+    "options": [
+      "Niet oefenen en gokken",
+      "Alleen de plaatjes bekijken",
+      "Alleen moeilijke woorden overschrijven",
+      "De samenvatting bekijken en de dikgedrukte woorden leren"
+    ],
+    "correct": 3,
+    "extra_info": "Actief leren en oefenen helpt bij het onthouden."
+  }
+]

@@ -1,0 +1,288 @@
+[
+  {
+    "id": 5,
+    "theme": "Les 1 Landbouw is er voor jou",
+    "question": "Wat is landbouw?",
+    "options": [
+      "Het werk dat boeren doen op het land",
+      "Het vervoer van producten",
+      "Het bouwen van boerderijen",
+      "Het verkopen van dieren"
+    ],
+    "correct": 0,
+    "extra_info": "Landbouw is al het werk dat boeren doen op het land."
+  },
+  {
+    "id": 14,
+    "theme": "Les 2 Boerderijen van nu",
+    "question": "Waarom gebruiken boeren machines?",
+    "options": [
+      "Omdat er veel mensen werken",
+      "Omdat machines goedkoop zijn",
+      "Omdat boerderijen groot zijn en er weinig mensen werken",
+      "Omdat dieren anders niet groeien"
+    ],
+    "correct": 2,
+    "extra_info": "Machines zijn nodig omdat boerderijen groot zijn en er weinig mensen werken."
+  },
+  {
+    "id": 19,
+    "theme": "Les 3 Op de kaart",
+    "question": "Wat laat een noordpijl zien?",
+    "options": [
+      "Waar het zuiden is",
+      "Waar het noorden is",
+      "Waar het oosten is",
+      "Waar het westen is"
+    ],
+    "correct": 1,
+    "extra_info": "De noordpijl wijst altijd naar het noorden."
+  },
+  {
+    "id": 1,
+    "theme": "Les 1 Landbouw is er voor jou",
+    "question": "Wat is akkerbouw?",
+    "options": [
+      "Dieren houden voor melk en vlees",
+      "Planten laten groeien op een akker",
+      "Groenten kweken in een kas",
+      "Bloemen verkopen"
+    ],
+    "correct": 1,
+    "extra_info": "Bij akkerbouw laat een boer planten groeien, zoals aardappels en graan."
+  },
+  {
+    "id": 8,
+    "theme": "Les 2 Boerderijen van nu",
+    "question": "Wat betekent specialiseren?",
+    "options": [
+      "Alles tegelijk doen",
+      "Je vooral met één soort werk bezighouden",
+      "Alleen met dieren werken",
+      "Kleine boerderijen hebben"
+    ],
+    "correct": 1,
+    "extra_info": "Boeren kiezen één soort bedrijf en worden daar heel goed in."
+  },
+  {
+    "id": 21,
+    "theme": "Vind een antwoord",
+    "question": "Wat helpt bij Les 1 om een antwoord te vinden?",
+    "options": [
+      "Een landkaart gebruiken",
+      "Resultaten van een onderzoek bestuderen",
+      "Een plattegrond tekenen",
+      "Voordelen en nadelen opschrijven"
+    ],
+    "correct": 1,
+    "extra_info": "Onderzoeksresultaten helpen bij het beantwoorden van vragen."
+  },
+  {
+    "id": 4,
+    "theme": "Les 1 Landbouw is er voor jou",
+    "question": "Welke gewassen groeien op een akker?",
+    "options": [
+      "Graan, aardappels en bieten",
+      "Appels en peren",
+      "Bloemen en planten",
+      "Bomen en struiken"
+    ],
+    "correct": 0,
+    "extra_info": "Akkerbouw gaat over gewassen zoals graan en aardappels."
+  },
+  {
+    "id": 16,
+    "theme": "Les 3 Op de kaart",
+    "question": "Waar ligt het oosten op een kaart?",
+    "options": [
+      "Boven",
+      "Rechts",
+      "Links",
+      "Onder"
+    ],
+    "correct": 1,
+    "extra_info": "Op kaarten ligt het oosten meestal rechts."
+  },
+  {
+    "id": 10,
+    "theme": "Les 2 Boerderijen van nu",
+    "question": "Wat doet een melkveehouder?",
+    "options": [
+      "Houdt dieren voor hun melk",
+      "Teelt groenten in een kas",
+      "Verbouwt alleen graan",
+      "Houdt vogels voor eieren"
+    ],
+    "correct": 0,
+    "extra_info": "Melkveehouders houden bijvoorbeeld koeien en geiten."
+  },
+  {
+    "id": 23,
+    "theme": "Zo leer je voor de toets",
+    "question": "Wat is een goede manier om te leren voor de toets?",
+    "options": [
+      "Alleen plaatjes kijken",
+      "De samenvatting bekijken en je laten overhoren",
+      "Niet oefenen",
+      "Alles overslaan"
+    ],
+    "correct": 1,
+    "extra_info": "Herhalen en laten overhoren helpt bij leren."
+  },
+  {
+    "id": 7,
+    "theme": "Les 1 Landbouw is er voor jou",
+    "question": "Wat is veeteelt?",
+    "options": [
+      "Het houden van vee voor melk, vlees of eieren",
+      "Het verbouwen van bloemen",
+      "Het werken in een kas",
+      "Het bouwen van stallen"
+    ],
+    "correct": 0,
+    "extra_info": "Veeteelt gaat over dieren zoals koeien en kippen."
+  },
+  {
+    "id": 18,
+    "theme": "Les 3 Op de kaart",
+    "question": "Wat is een legenda?",
+    "options": [
+      "Een verhaal over een kaart",
+      "De uitleg van kleuren en symbolen op een kaart",
+      "De schaal van een kaart",
+      "De titel van de kaart"
+    ],
+    "correct": 1,
+    "extra_info": "Met de legenda begrijp je wat je op de kaart ziet."
+  },
+  {
+    "id": 2,
+    "theme": "Les 1 Landbouw is er voor jou",
+    "question": "Wat is tuinbouw?",
+    "options": [
+      "Groenten en fruit met veel zorg laten groeien, soms in een kas",
+      "Het houden van koeien en schapen",
+      "Graan verbouwen op grote akkers",
+      "Machines maken"
+    ],
+    "correct": 0,
+    "extra_info": "Tuinbouw is een dure vorm van landbouw."
+  },
+  {
+    "id": 12,
+    "theme": "Les 2 Boerderijen van nu",
+    "question": "Waarom kiezen boeren één soort bedrijf?",
+    "options": [
+      "Omdat machines duur en ingewikkeld zijn",
+      "Omdat ze geen keuze hebben",
+      "Omdat dieren dat willen",
+      "Omdat boeren klein willen blijven"
+    ],
+    "correct": 0,
+    "extra_info": "Specialisatie helpt boeren efficiënter werken."
+  },
+  {
+    "id": 20,
+    "theme": "Vind een antwoord",
+    "question": "Wat helpt bij Les 3 om een antwoord te vinden?",
+    "options": [
+      "Iemand ondervragen",
+      "Een kaart gebruiken",
+      "Onderzoek doen",
+      "Voordelen en nadelen opschrijven"
+    ],
+    "correct": 1,
+    "extra_info": "Kaarten helpen bij het vinden van informatie."
+  },
+  {
+    "id": 9,
+    "theme": "Les 2 Boerderijen van nu",
+    "question": "Wat doet een pluimveehouder?",
+    "options": [
+      "Houdt vogels voor eieren of vlees",
+      "Houdt koeien voor melk",
+      "Verbouwt aardappels",
+      "Maakt landbouwmachines"
+    ],
+    "correct": 0,
+    "extra_info": "Voorbeelden zijn kippen en kalkoenen."
+  },
+  {
+    "id": 6,
+    "theme": "Les 1 Landbouw is er voor jou",
+    "question": "Wat is een kas?",
+    "options": [
+      "Een glazen gebouw waarin het warmer is dan buiten",
+      "Een schuur voor machines",
+      "Een groot akkerland",
+      "Een stal voor dieren"
+    ],
+    "correct": 0,
+    "extra_info": "In een kas groeien planten beter."
+  },
+  {
+    "id": 17,
+    "theme": "Les 3 Op de kaart",
+    "question": "Waar ligt het zuiden op een kaart?",
+    "options": [
+      "Boven",
+      "Onder",
+      "Links",
+      "Rechts"
+    ],
+    "correct": 1,
+    "extra_info": "De onderkant van een kaart is meestal het zuiden."
+  },
+  {
+    "id": 3,
+    "theme": "Les 1 Landbouw is er voor jou",
+    "question": "Wat zijn gewassen?",
+    "options": [
+      "Dieren op de boerderij",
+      "Planten die boeren laten groeien",
+      "Machines die boeren gebruiken",
+      "Gebouwen op de boerderij"
+    ],
+    "correct": 1,
+    "extra_info": "Voorbeelden zijn graan en aardappels."
+  },
+  {
+    "id": 22,
+    "theme": "Vind een antwoord",
+    "question": "Wat helpt bij Les 2 om een antwoord te vinden?",
+    "options": [
+      "Een kaart gebruiken",
+      "De juiste persoon vragen",
+      "Onderzoek doen",
+      "Samenvatten"
+    ],
+    "correct": 1,
+    "extra_info": "De juiste persoon kan vaak het beste helpen."
+  },
+  {
+    "id": 11,
+    "theme": "Les 2 Boerderijen van nu",
+    "question": "Waarom werken er weinig mensen op moderne boerderijen?",
+    "options": [
+      "Omdat boeren alleen willen werken",
+      "Omdat machines veel werk overnemen",
+      "Omdat er weinig landbouw is",
+      "Omdat dieren zelfstandig werken"
+    ],
+    "correct": 1,
+    "extra_info": "Machines maken het werk sneller."
+  },
+  {
+    "id": 15,
+    "theme": "Les 3 Op de kaart",
+    "question": "Waarvoor kijk je naar een legenda?",
+    "options": [
+      "Om te weten waar het noorden is",
+      "Om te begrijpen wat kleuren en lijnen betekenen",
+      "Om te zien hoe groot een gebied is",
+      "Om te weten wie de kaart maakte"
+    ],
+    "correct": 1,
+    "extra_info": "De legenda helpt bij het lezen van een kaart."
+  }
+]
