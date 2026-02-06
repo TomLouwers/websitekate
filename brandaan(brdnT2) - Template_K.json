@@ -1,0 +1,296 @@
+[
+  {
+    "id": 6,
+    "theme": "Les 1 Soldaten uit Rome",
+    "question": "Wat betekent 'verdeel en heers'?",
+    "options": [
+      "Vijanden ruzie laten krijgen zodat ze minder sterk zijn",
+      "Soldaten eerlijk verdelen",
+      "Het leger in twee delen splitsen",
+      "Het land onder boeren verdelen"
+    ],
+    "correct": 0,
+    "extra_info": "Verdeel en heers maakte vijanden zwakker doordat ze ruzie kregen."
+  },
+  {
+    "id": 14,
+    "theme": "Les 2 Het Romeinse leger",
+    "question": "Wat is een wachttoren?",
+    "options": [
+      "Een huis voor soldaten",
+      "Een toren of hoog gebouw waar wachters op de uitkijk staan",
+      "Een trainingsplek voor soldaten",
+      "Een opslagplaats voor wapens"
+    ],
+    "correct": 1,
+    "extra_info": "Wachttorens werden gebruikt om het gebied te bewaken."
+  },
+  {
+    "id": 1,
+    "theme": "Les 1 Soldaten uit Rome",
+    "question": "Wie waren de Germanen?",
+    "options": [
+      "Mensen uit Rome",
+      "Stammen die in de tijd van de Romeinen in Nederland woonden",
+      "Soldaten uit het Romeinse leger",
+      "Mensen die in steden woonden"
+    ],
+    "correct": 1,
+    "extra_info": "De Germanen leefden vooral als boeren."
+  },
+  {
+    "id": 20,
+    "theme": "Les 3 Weg met de Romeinen!",
+    "question": "Wat is een volksverhuizing?",
+    "options": [
+      "Een gevecht tussen stammen",
+      "Als een volk naar een ander woongebied trekt",
+      "Het bouwen van nieuwe steden",
+      "Het sluiten van vrede"
+    ],
+    "correct": 1,
+    "extra_info": "Tijdens volksverhuizingen trokken stammen rond."
+  },
+  {
+    "id": 9,
+    "theme": "Les 2 Het Romeinse leger",
+    "question": "Wat betekent discipline?",
+    "options": [
+      "Altijd winnen in gevechten",
+      "Gehoorzaam bevelen opvolgen en hard werken",
+      "Slimme plannen bedenken",
+      "Sterk zijn"
+    ],
+    "correct": 1,
+    "extra_info": "Romeinse soldaten moesten elke dag trainen en luisteren."
+  },
+  {
+    "id": 5,
+    "theme": "Les 1 Soldaten uit Rome",
+    "question": "Wat is een legioen?",
+    "options": [
+      "Een groep van ongeveer zesduizend soldaten",
+      "Een Romeinse stad",
+      "Een wachttoren",
+      "Een wapen"
+    ],
+    "correct": 0,
+    "extra_info": "Het Romeinse leger was verdeeld in legioenen."
+  },
+  {
+    "id": 17,
+    "theme": "Les 3 Weg met de Romeinen!",
+    "question": "Wie was Julius Civilis?",
+    "options": [
+      "Een Romeinse keizer",
+      "Een Bataafse soldaat die leider was van de Bataafse Opstand",
+      "Een generaal van de Germanen",
+      "Een schrijver uit Rome"
+    ],
+    "correct": 1,
+    "extra_info": "Julius Civilis leidde de Bataafse Opstand."
+  },
+  {
+    "id": 11,
+    "theme": "Les 2 Het Romeinse leger",
+    "question": "Waar lag de limes in Nederland?",
+    "options": [
+      "Langs de Maas",
+      "Langs de Rijn",
+      "Langs de Waddenzee",
+      "Door Brabant"
+    ],
+    "correct": 1,
+    "extra_info": "De Rijn vormde de noordgrens van het Romeinse Rijk."
+  },
+  {
+    "id": 3,
+    "theme": "Les 1 Soldaten uit Rome",
+    "question": "Waar kwamen de Romeinen vandaan?",
+    "options": ["Nederland", "Frankrijk", "Italië (Rome)", "Griekenland"],
+    "correct": 2,
+    "extra_info": "Rome lag in Italië."
+  },
+  {
+    "id": 18,
+    "theme": "Les 3 Weg met de Romeinen!",
+    "question": "Waarom kwamen de Bataven in opstand?",
+    "options": [
+      "Ze moesten belasting betalen",
+      "Alle Bataafse jongens moesten in het Romeinse leger",
+      "De Romeinen vertrokken",
+      "Ze wilden zelf wachttorens bouwen"
+    ],
+    "correct": 1,
+    "extra_info": "Dit leidde tot de Bataafse Opstand."
+  },
+  {
+    "id": 8,
+    "theme": "Les 2 Het Romeinse leger",
+    "question": "Wat is een legerplaats?",
+    "options": [
+      "Een plek waar soldaten oefenen",
+      "Een stad zonder muren",
+      "Een plek waar veel soldaten wonen en werken, met muren eromheen",
+      "Een wachttoren langs de limes"
+    ],
+    "correct": 2,
+    "extra_info": "Legerplaatsen lagen vaak langs de limes."
+  },
+  {
+    "id": 13,
+    "theme": "Les 2 Het Romeinse leger",
+    "question": "Wie mochten ook soldaat worden bij de Romeinen?",
+    "options": [
+      "Alleen Romeinen",
+      "Alleen keizers",
+      "Germanen",
+      "Alleen volwassenen uit Rome"
+    ],
+    "correct": 2,
+    "extra_info": "Zo leerden Germanen en Romeinen van elkaar."
+  },
+  {
+    "id": 2,
+    "theme": "Les 1 Soldaten uit Rome",
+    "question": "Wat is een tactiek?",
+    "options": [
+      "Een wapen",
+      "Een slimme manier om je doel te bereiken",
+      "Een Romeinse wet",
+      "Een groep soldaten"
+    ],
+    "correct": 1,
+    "extra_info": "De schildpadformatie is een voorbeeld van een tactiek."
+  },
+  {
+    "id": 15,
+    "theme": "Les 3 Weg met de Romeinen!",
+    "question": "Wat gebeurde er na de Bataafse Opstand?",
+    "options": [
+      "Het bleef lang rustig",
+      "De Bataven wonnen definitief",
+      "De Romeinen vertrokken meteen",
+      "Het leger werd sterker"
+    ],
+    "correct": 0,
+    "extra_info": "Pas later werd het Romeinse Rijk zwakker."
+  },
+  {
+    "id": 7,
+    "theme": "Les 1 Soldaten uit Rome",
+    "question": "Hoe leefden de Germanen?",
+    "options": [
+      "In grote steden",
+      "Als rijke handelaren",
+      "Eenvoudig als boeren",
+      "In huizen van steen"
+    ],
+    "correct": 2,
+    "extra_info": "Ze leefden eenvoudiger dan de Romeinen."
+  },
+  {
+    "id": 21,
+    "theme": "Vind een antwoord",
+    "question": "Wat deed je bij Les 1 om geschiedenis beter te begrijpen?",
+    "options": [
+      "Een kaart tekenen",
+      "Een historisch experiment uitvoeren",
+      "Romeinse overblijfselen zoeken",
+      "Boeken overslaan"
+    ],
+    "correct": 1,
+    "extra_info": "Zo onderzocht je hoe de schildpadformatie werkte."
+  },
+  {
+    "id": 10,
+    "theme": "Les 2 Het Romeinse leger",
+    "question": "Wat was de limes?",
+    "options": [
+      "Een Romeinse stad",
+      "De grens van het Romeinse Rijk",
+      "Een legerplaats",
+      "Een wachttoren"
+    ],
+    "correct": 1,
+    "extra_info": "De limes beschermde het rijk."
+  },
+  {
+    "id": 4,
+    "theme": "Les 1 Soldaten uit Rome",
+    "question": "Wat droegen de Romeinen?",
+    "options": [
+      "Alleen bonten kleren",
+      "Kleurige kleren",
+      "Eenvoudige boerenkleding",
+      "Alleen harnassen"
+    ],
+    "correct": 1,
+    "extra_info": "Ze verschilden duidelijk van de Germanen."
+  },
+  {
+    "id": 19,
+    "theme": "Les 3 Weg met de Romeinen!",
+    "question": "Waarom trokken de Romeinen zich uiteindelijk terug?",
+    "options": [
+      "Het rijk werd minder sterk en het was niet meer veilig",
+      "Ze hadden geen soldaten meer",
+      "Ze verloren één gevecht",
+      "De Germanen werden vrienden"
+    ],
+    "correct": 0,
+    "extra_info": "Volksverhuizingen zorgden voor onveiligheid."
+  },
+  {
+    "id": 12,
+    "theme": "Vind een antwoord",
+    "question": "Wat deed je bij Les 2 om antwoorden te vinden?",
+    "options": [
+      "Een historisch experiment doen",
+      "Een kaart gebruiken om de limes te tekenen",
+      "Alleen lezen",
+      "Romeinse wapens natekenen"
+    ],
+    "correct": 1,
+    "extra_info": "Zo ontdekte je of jouw woonplaats in het rijk lag."
+  },
+  {
+    "id": 22,
+    "theme": "Vind een antwoord",
+    "question": "Wat deed je bij Les 3 om meer te leren?",
+    "options": [
+      "Kaarten tekenen",
+      "Experimenten uitvoeren",
+      "Romeinse overblijfselen op een kijkplaat herkennen",
+      "Alleen samenvatten"
+    ],
+    "correct": 2,
+    "extra_info": "Zo zie je wat de Romeinen hebben achtergelaten."
+  },
+  {
+    "id": 16,
+    "theme": "Zo leer je voor de toets",
+    "question": "Wat is een goede manier om te leren voor de toets?",
+    "options": [
+      "Alleen plaatjes kijken",
+      "De teksten en dikgedrukte woorden leren",
+      "Niet oefenen",
+      "Alles overslaan"
+    ],
+    "correct": 1,
+    "extra_info": "Herhalen en overhoren helpt."
+  },
+  {
+    "id": 23,
+    "theme": "Les 3 Weg met de Romeinen!",
+    "question": "Waar woonden de Bataven?",
+    "options": [
+      "Op Bataveneiland, nu de Betuwe",
+      "In Rome",
+      "Langs de Maas",
+      "In Zuid-Frankrijk"
+    ],
+    "correct": 0,
+    "extra_info": "Dit gebied heet nu de Betuwe."
+  }
+]

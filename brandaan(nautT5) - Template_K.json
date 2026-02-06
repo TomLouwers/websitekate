@@ -1,0 +1,278 @@
+[
+  {
+    "id": 4,
+    "theme": "Les 1 Weer en wind",
+    "question": "Wat is luchtdruk?",
+    "options": [
+      "De snelheid waarmee de wind waait",
+      "Het gewicht waarmee de lucht op de aarde drukt",
+      "De temperatuur van de lucht",
+      "Het aantal wolken in de lucht"
+    ],
+    "correct": 1,
+    "extra_info": "Luchtdruk is het gewicht waarmee de lucht op de aarde drukt."
+  },
+  {
+    "id": 17,
+    "theme": "Les 3 Warme en koude landen",
+    "question": "Wat betekent aanpassen?",
+    "options": [
+      "Altijd hetzelfde blijven",
+      "Je gedrag of uiterlijk veranderen als omstandigheden veranderen",
+      "Verhuizen naar een ander land",
+      "Harder groeien dan andere dieren"
+    ],
+    "correct": 1,
+    "extra_info": "Dieren en planten passen zich aan aan hun omgeving."
+  },
+  {
+    "id": 9,
+    "theme": "Les 2 Regen en zonneschijn",
+    "question": "Wat is een wolk?",
+    "options": [
+      "Waterdamp die opstijgt",
+      "Een groep heel kleine waterdruppeltjes die in de lucht zweeft",
+      "Bevroren neerslag",
+      "Warme lucht zonder water"
+    ],
+    "correct": 1,
+    "extra_info": "Wolken bestaan uit heel veel kleine waterdruppeltjes."
+  },
+  {
+    "id": 22,
+    "theme": "Los het op",
+    "question": "Wat helpt bij Les 3 om een probleem te beschrijven?",
+    "options": [
+      "Proefjes doen",
+      "Alles opschrijven wat je voelt",
+      "Onderscheid maken tussen oorzaak en gevolg",
+      "Zo snel mogelijk een oplossing kiezen"
+    ],
+    "correct": 2,
+    "extra_info": "Door oorzaak en gevolg te scheiden kun je een probleem goed uitleggen."
+  },
+  {
+    "id": 1,
+    "theme": "Les 1 Weer en wind",
+    "question": "Wat noem je bewegende lucht?",
+    "options": ["Neerslag", "Wind", "Bewolking", "Klimaat"],
+    "correct": 1,
+    "extra_info": "Lucht die van hoge naar lage luchtdruk stroomt heet wind."
+  },
+  {
+    "id": 14,
+    "theme": "Les 3 Warme en koude landen",
+    "question": "Wat is vogeltrek?",
+    "options": [
+      "Vogels die hoger gaan vliegen",
+      "De jaarlijkse reis van vogels naar een plek met meer voedsel",
+      "Het bouwen van nesten in de lente",
+      "Vogels die zich aanpassen aan kou"
+    ],
+    "correct": 1,
+    "extra_info": "Vogels trekken jaarlijks naar warmere gebieden met meer voedsel."
+  },
+  {
+    "id": 6,
+    "theme": "Les 1 Weer en wind",
+    "question": "Wat gebeurt er bij hoge luchtdruk?",
+    "options": [
+      "De lucht stijgt op",
+      "Het regent vaak",
+      "De lucht zakt naar beneden",
+      "De wind wordt sterker"
+    ],
+    "correct": 2,
+    "extra_info": "Bij hoge luchtdruk zakt de lucht naar beneden en is het vaak droger."
+  },
+  {
+    "id": 11,
+    "theme": "Les 2 Regen en zonneschijn",
+    "question": "Wat gebeurt er als waterdamp afkoelt?",
+    "options": [
+      "Het verdwijnt",
+      "Het condenseert en wordt water",
+      "Het wordt warmer",
+      "Het stijgt sneller op"
+    ],
+    "correct": 1,
+    "extra_info": "Afgekoelde waterdamp verandert in waterdruppeltjes."
+  },
+  {
+    "id": 19,
+    "theme": "Les 3 Warme en koude landen",
+    "question": "Wat is een jaarring?",
+    "options": [
+      "Een ring van bladeren",
+      "Het hout dat in één jaar aan de buitenkant van de stam groeit",
+      "Een scheur in een boom",
+      "De bast van een boom"
+    ],
+    "correct": 1,
+    "extra_info": "Aan jaarringen kun je zien hoe oud een boom is."
+  },
+  {
+    "id": 8,
+    "theme": "Les 2 Regen en zonneschijn",
+    "question": "Wat is neerslag?",
+    "options": [
+      "Wat er uit de wolken valt, zoals regen, hagel of sneeuw",
+      "Alleen regen",
+      "Waterdamp in de lucht",
+      "Warme lucht die opstijgt"
+    ],
+    "correct": 0,
+    "extra_info": "Neerslag kan verschillende vormen hebben."
+  },
+  {
+    "id": 3,
+    "theme": "Les 1 Weer en wind",
+    "question": "Waarom stijgt warme lucht op?",
+    "options": [
+      "Omdat warme lucht natter is",
+      "Omdat warme lucht minder weegt dan koude lucht",
+      "Omdat warme lucht sneller beweegt",
+      "Omdat warme lucht meer wolken heeft"
+    ],
+    "correct": 1,
+    "extra_info": "Warme lucht is lichter dan koude lucht."
+  },
+  {
+    "id": 20,
+    "theme": "Los het op",
+    "question": "Wat doe je bij Les 1 om een probleem op te lossen?",
+    "options": [
+      "Proefjes doen",
+      "Kijken naar wat je al weet",
+      "Direct hulp vragen",
+      "Onderscheid maken tussen oorzaak en gevolg"
+    ],
+    "correct": 1,
+    "extra_info": "Wat je al weet kan helpen bij het vinden van een oplossing."
+  },
+  {
+    "id": 12,
+    "theme": "Les 2 Regen en zonneschijn",
+    "question": "Waarom is het in de zomer warmer dan in de winter?",
+    "options": [
+      "Omdat de zon hoger staat en een kleiner oppervlak verwarmt",
+      "Omdat er meer wolken zijn",
+      "Omdat de luchtdruk hoger is",
+      "Omdat de wind zachter is"
+    ],
+    "correct": 0,
+    "extra_info": "De zon beschijnt in de zomer een kleiner oppervlak."
+  },
+  {
+    "id": 7,
+    "theme": "Les 1 Weer en wind",
+    "question": "Wat meten ze in een weerstation?",
+    "options": [
+      "Alleen de temperatuur",
+      "Temperatuur, neerslag en windsnelheid",
+      "Alleen wolken",
+      "Alleen luchtdruk"
+    ],
+    "correct": 1,
+    "extra_info": "Weerstations meten meerdere onderdelen van het weer."
+  },
+  {
+    "id": 16,
+    "theme": "Les 3 Warme en koude landen",
+    "question": "Wat is klimaat?",
+    "options": [
+      "Het weer van vandaag",
+      "Het gemiddelde weer over dertig jaar",
+      "De temperatuur in de zomer",
+      "Het aantal wolken per dag"
+    ],
+    "correct": 1,
+    "extra_info": "Klimaat gaat over het weer over een lange periode."
+  },
+  {
+    "id": 5,
+    "theme": "Les 1 Weer en wind",
+    "question": "Van waar naar waar stroomt lucht?",
+    "options": [
+      "Van lage naar hoge luchtdruk",
+      "Van hoge naar lage luchtdruk",
+      "Van warm naar koud",
+      "Van droog naar nat"
+    ],
+    "correct": 1,
+    "extra_info": "Lucht stroomt altijd van hoge naar lage luchtdruk."
+  },
+  {
+    "id": 10,
+    "theme": "Les 2 Regen en zonneschijn",
+    "question": "Wat is bewolking?",
+    "options": [
+      "De wind in de lucht",
+      "De wolken die samen de lucht bedekken",
+      "Neerslag op de grond",
+      "Warme luchtlagen"
+    ],
+    "correct": 1,
+    "extra_info": "Bewolking bestaat uit alle wolken samen."
+  },
+  {
+    "id": 18,
+    "theme": "Les 3 Warme en koude landen",
+    "question": "Waarom hebben planten in droge klimaten kleine, dikke blaadjes?",
+    "options": [
+      "Om meer zonlicht op te vangen",
+      "Om water vast te houden",
+      "Om sneller te groeien",
+      "Om kou te weerstaan"
+    ],
+    "correct": 1,
+    "extra_info": "De waslaag helpt planten tegen uitdroging."
+  },
+  {
+    "id": 2,
+    "theme": "Les 1 Weer en wind",
+    "question": "Wat laten weersatellieten zien?",
+    "options": [
+      "De temperatuur op de grond",
+      "Hoe wolken bewegen",
+      "De windsnelheid in bossen",
+      "De hoeveelheid regen per dag"
+    ],
+    "correct": 1,
+    "extra_info": "Satellieten maken foto’s vanuit de ruimte."
+  },
+  {
+    "id": 13,
+    "theme": "Les 2 Regen en zonneschijn",
+    "question": "Waarin meet je temperatuur?",
+    "options": ["Millimeter", "Kilogram", "Graden Celsius", "Meter"],
+    "correct": 2,
+    "extra_info": "Temperatuur wordt aangegeven in graden Celsius (°C)."
+  },
+  {
+    "id": 21,
+    "theme": "Los het op",
+    "question": "Wat helpt bij Les 2 om een probleem van meerdere kanten te bekijken?",
+    "options": [
+      "Oorzaak en gevolg benoemen",
+      "Proefjes doen",
+      "Alleen lezen",
+      "Direct kiezen"
+    ],
+    "correct": 1,
+    "extra_info": "Proefjes laten verschillende kanten van een probleem zien."
+  },
+  {
+    "id": 15,
+    "theme": "Zo leer je voor de toets",
+    "question": "Wat is een goede manier om te leren voor de toets?",
+    "options": [
+      "Alleen plaatjes kijken",
+      "De samenvatting bekijken en je laten overhoren",
+      "Niet oefenen",
+      "Alleen gokken"
+    ],
+    "correct": 1,
+    "extra_info": "Actief oefenen en herhalen helpt het best."
+  }
+]
