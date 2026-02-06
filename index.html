@@ -445,9 +445,9 @@
 
         <div id="landingPage">
             <div class="subject-grid">
-                <div class="subject-card" onclick="loadSubject('begrijpendlezen')">
+                <div class="subject-card" onclick="loadSubject('meander')">
                     <div class="subject-icon">📖</div>
-                    <h3>Begrijpend Lezen</h3>
+                    <h3>meander</h3>
                     <p>Test je begrip van teksten en verhalen</p>
                 </div>
                 <div class="subject-card" onclick="loadSubject('brandaan')">
@@ -455,9 +455,9 @@
                     <h3>Geschiedenis</h3>
                     <p>Ontdek de Nederlandse geschiedenis</p>
                 </div>
-                <div class="subject-card" onclick="loadSubject('samenvatten')">
+                <div class="subject-card" onclick="loadSubject('naut')">
                     <div class="subject-icon">✍️</div>
-                    <h3>Samenvatten</h3>
+                    <h3>naut</h3>
                     <p>Leer teksten kort en bondig samen te vatten</p>
                 </div>
                 <div class="subject-card" onclick="loadSubject('wereldorientatie')">
@@ -623,7 +623,7 @@
                         });
                     });
                 } else if (item.question) {
-                    // For items with single question (like samenvatten)
+                    // For items with single question (like naut)
                     flatQuestions.push({
                         content: item.content,
                         question: item.question,
@@ -683,9 +683,9 @@
 			document.getElementById('themePage').style.display = 'block';
 		
 			const titles = {
-				begrijpendlezen: 'Begrijpend Lezen',
+				meander: 'Meander',
 				brandaan: 'Geschiedenis',
-				samenvatten: 'Samenvatten',
+				naut: 'naut',
 				wereldorientatie: 'Wereldoriëntatie',
 				woordenschat: 'Woordenschat'
 			};
@@ -781,9 +781,9 @@
             
             // Set quiz title
             const titles = {
-                begrijpendlezen: 'Begrijpend Lezen',
+                meander: 'Meander',
                 brandaan: 'Geschiedenis',
-                samenvatten: 'Samenvatten',
+                naut: 'Natuur en Techniek',
                 wereldorientatie: 'Wereldoriëntatie',
                 woordenschat: 'Woordenschat'
             };
@@ -1059,4 +1059,5 @@
         }
     </script>
 </body>
+
 </html>
